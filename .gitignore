@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Office temporales
+~$*
+*.tmp
+.~lock*
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Documento de otro grupo: contiene nombres y códigos estudiantiles de terceros.
+# Se mantiene solo en local (pedirlo al grupo por WhatsApp), no se publica.
+EjemploDeOtroGrupo/
+
+# Temporales
+.tmp_bundle/
