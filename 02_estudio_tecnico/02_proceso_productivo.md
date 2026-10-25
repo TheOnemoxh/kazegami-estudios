@@ -9,13 +9,13 @@ El proceso de Kazegami tiene dos momentos: la **producción anticipada** (mise e
 *Fuente: Elaboración propia.*
 
 
-Table: Tabla 14. Cursograma analítico: Rollos de sushi
+Table: Tabla 15. Cursograma analítico: Rollos de sushi
 
 | N.º | Actividad | Símbolo | Tiempo | Responsable | Temperatura / control de calidad |
 |:---:|:--------------------------------|:--------------|-----------:|:--------------|:-----------------------------|
 | 1 | Recepción del pescado del día (Bazurto / Mercado del Mar) | ⇨ Transporte | 15 min | Jefe de cocina | Transporte en nevera con hielo |
 | 2 | Control de recepción del pescado | □ Inspección | 5 min | Jefe de cocina | T° interna ≤ 4 °C; ojos brillantes, agallas rojas, olor a mar |
-| 3 | Eviscerado, fileteado y porcionado del atún | ○ Operación | 25 min | Sushiman | Tabla y cuchillo exclusivos para pescado crudo |
+| 3 | Eviscerado, fileteado y porcionado del pargo (rinde ≈ 46 %) | ○ Operación | 25 min | Sushiman | Tabla y cuchillo exclusivos para pescado crudo |
 | 4 | Ultracongelación para control de parásitos | ▽ Almacenamiento | 15 h | Sushiman | −35 °C durante 15 h (o −20 °C × 7 días) |
 | 5 | Almacenamiento refrigerado | ▽ Almacenamiento | ≤ 48 h | Sushiman | 0-4 °C; rotulado con fecha; PEPS |
 | 6 | Lavado del arroz japonés | ○ Operación | 10 min | Auxiliar de cocina | 3-4 aguas hasta que salga clara |
@@ -36,7 +36,7 @@ Table: Tabla 14. Cursograma analítico: Rollos de sushi
 *Fuente: Elaboración propia.*
 
 
-Table: Tabla 15. Cursograma analítico: Ramen
+Table: Tabla 16. Cursograma analítico: Ramen
 
 | N.º | Actividad | Símbolo | Tiempo | Responsable | Temperatura / control de calidad |
 |:---:|:--------------------------------|:--------------|-----------:|:--------------|:-----------------------------|
@@ -61,7 +61,7 @@ Table: Tabla 15. Cursograma analítico: Ramen
 *Fuente: Elaboración propia.*
 
 
-Table: Tabla 16. Cursograma analítico: Tempura
+Table: Tabla 17. Cursograma analítico: Tempura
 
 | N.º | Actividad | Símbolo | Tiempo | Responsable | Temperatura / control de calidad |
 |:---:|:--------------------------------|:--------------|-----------:|:--------------|:-----------------------------|
@@ -74,7 +74,7 @@ Table: Tabla 16. Cursograma analítico: Tempura
 | 7 | Control de temperatura del aceite | □ Inspección | 15 s | Cocinero de línea | 170-180 °C con termómetro |
 | 8 | Rebozado y fritura | ○ Operación | 2-3 min | Cocinero de línea | Tandas pequeñas para no bajar la T° |
 | 9 | Escurrido sobre rejilla | ○ Operación | 30 s | Cocinero de línea | Papel absorbente |
-| 10 | Emplatado con tentsuyu y daikon | ○ Operación | 1 min | Cocinero de línea | Salsa tibia aparte |
+| 10 | Emplatado con tentsuyu y rábano rallado | ○ Operación | 1 min | Cocinero de línea | Salsa tibia aparte |
 | 11 | Control de calidad final | □ Inspección | 10 s | Cocinero de línea | Crocancia y color dorado claro |
 | 12 | Pase a mesa inmediato | ⇨ Transporte | < 1 min | Mesero | Servir antes de 5 min |
 
@@ -86,7 +86,7 @@ Table: Tabla 16. Cursograma analítico: Tempura
 *Fuente: Elaboración propia.*
 
 
-Table: Tabla 17. Cursograma analítico: prestación del servicio
+Table: Tabla 18. Cursograma analítico: prestación del servicio
 
 | N.º | Actividad | Símbolo | Tiempo | Responsable | Temperatura / control de calidad |
 |:---:|:--------------------------------|:--------------|-----------:|:--------------|:-----------------------------|
@@ -102,7 +102,7 @@ Table: Tabla 17. Cursograma analítico: prestación del servicio
 | 10 | Despedida e invitación a reseña y fidelización | ○ Operación | 1 min | Anfitrión | Registro en el programa de puntos |
 
 
-Table: Tabla 18. Resumen de los cursogramas
+Table: Tabla 19. Resumen de los cursogramas
 
 | Proceso | ○ Operaciones | □ Inspecciones | ⇨ Transportes | D Demoras | ▽ Almacenamientos | Total |
 |:--------------------------|:-------------:|:-------------:|:-------------:|:----------:|:----------------:|:-------:|
@@ -112,7 +112,7 @@ Table: Tabla 18. Resumen de los cursogramas
 | Servicio en sala y barra | 5 | 1 | 3 | 1 | 0 | 10 |
 
 
-Table: Tabla 19. Tiempos de entrega al cliente (producción al pedido)
+Table: Tabla 20. Tiempos de entrega al cliente (producción al pedido)
 
 | Plato | Tiempo de preparación al pedido | Etapas críticas previas | Tiempo objetivo pedido → mesa |
 |:-------------------|:----------------------|:------------------------------------------|:----------------------|
@@ -123,7 +123,7 @@ Table: Tabla 19. Tiempos de entrega al cliente (producción al pedido)
 
 ## 4.5 Puntos críticos de control (inocuidad)
 
-Table: Tabla 20. Puntos críticos de control (enfoque HACCP)
+Table: Tabla 21. Puntos críticos de control (enfoque HACCP)
 
 | Punto crítico | Peligro | Límite crítico | Monitoreo | Acción correctiva |
 |:-----------------------|:---------------------|:-----------------------|:-------------------|:-------------------|
@@ -143,7 +143,7 @@ Table: Tabla 20. Puntos críticos de control (enfoque HACCP)
 *Fuente: Elaboración propia.*
 
 
-Table: Tabla 21. Distribución de áreas del local
+Table: Tabla 22. Distribución de áreas del local
 
 | Área | m² | % del local | Función | Equipos principales |
 |:---------------------------|--------:|-----------:|:---------------------------|:---------------------------------|

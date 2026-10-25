@@ -39,29 +39,41 @@ Table: Tabla 5. Matriz de ponderación de factores para la microlocalización
 
 | Factor | Peso | Centro His cal. | pond. | Manga cal. | pond. | Bocagrande cal. | pond. | Getsemaní cal. | pond. |
 |:-----------------------------------|--------:|------:|--------:|------:|--------:|------:|--------:|------:|--------:|
-| Preferencia de los encuestados | 25 % | 10 | 2,50 | 5 | 1,25 | 3 | 0,75 | 2 | 0,50 |
-| Costo de arriendo por m² | 20 % | 3 | 0,60 | 8 | 1,60 | 4 | 0,80 | 6 | 1,20 |
-| Flujo de turistas y ejecutivos | 15 % | 10 | 1,50 | 5 | 0,75 | 9 | 1,35 | 8 | 1,20 |
-| Cercanía a proveedores (Bazurto, Mercado del Mar) | 10 % | 7 | 0,70 | 9 | 0,90 | 6 | 0,60 | 8 | 0,80 |
-| Accesibilidad y parqueadero | 10 % | 4 | 0,40 | 8 | 0,80 | 7 | 0,70 | 5 | 0,50 |
-| Saturación de la competencia (menor = mejor) | 10 % | 4 | 0,40 | 6 | 0,60 | 4 | 0,40 | 6 | 0,60 |
-| Restricciones normativas para adecuar cocina (PEMP / POT) | 10 % | 4 | 0,40 | 8 | 0,80 | 7 | 0,70 | 5 | 0,50 |
-| **Total** | **100 %** |  | **6,50** |  | **6,70** |  | **5,30** |  | **5,30** |
+| Preferencia de los encuestados | 25 % | 10,00 | 2,50 | 4,24 | 1,06 | 1,72 | 0,43 | 1,00 | 0,25 |
+| Costo de arriendo por m² | 20 % | 4,29 | 0,86 | 10,00 | 2,00 | 1,00 | 0,20 | 8,68 | 1,74 |
+| Flujo de turistas y ejecutivos | 15 % | 10,00 | 1,50 | 5,00 | 0,75 | 9,00 | 1,35 | 8,00 | 1,20 |
+| Cercanía a proveedores (Bazurto, Mercado del Mar) | 10 % | 7,00 | 0,70 | 9,00 | 0,90 | 6,00 | 0,60 | 8,00 | 0,80 |
+| Accesibilidad y parqueadero | 10 % | 4,00 | 0,40 | 8,00 | 0,80 | 7,00 | 0,70 | 5,00 | 0,50 |
+| Saturación de la competencia (menor = mejor) | 10 % | 4,00 | 0,40 | 6,00 | 0,60 | 4,00 | 0,40 | 6,00 | 0,60 |
+| Restricciones normativas para adecuar cocina (PEMP / POT) | 10 % | 4,00 | 0,40 | 8,00 | 0,80 | 7,00 | 0,70 | 5,00 | 0,50 |
+| **Total** | **100 %** |  | **6,76** |  | **6,91** |  | **4,38** |  | **5,59** |
 
 *Fuente: Elaboración propia. Calificación 1 (peor) a 10 (mejor).*
 
 
-Table: Tabla 6. Justificación de las calificaciones
+Table: Tabla 6. Datos cuantitativos de la microlocalización
+
+| Zona | Votos en la encuesta | Arriendo de locales: mediana $/m² al mes | Anuncios revisados |
+|:--------------------------|------------------:|-------------------------------------:|:--------------------------|
+| Centro Histórico | 33 | $110.000 | 19 (El Centro, La Matuna, San Diego) |
+| Manga | 17 | $75.295 | 20 |
+| Bocagrande | 10 | $130.000 | 20 |
+| Getsemaní | 8 | $83.333 | 9 |
+
+*Fuente: Encuesta (n = 106); Fincaraíz, anuncios de locales en arriendo consultados el 24 de octubre de 2026 (canon sin administración).*
+
+
+Table: Tabla 7. Justificación de las calificaciones
 
 | Factor | Criterio de calificación |
 |:-------------------------------------------|:-----------------------------------------------------------------|
-| Preferencia de los encuestados | Votos de la encuesta: 33 / 17 / 10 / 8 |
-| Costo de arriendo por m² | Mayor puntaje = arriendo más bajo |
-| Flujo de turistas y ejecutivos | Cercanía a hoteles, centro de convenciones y oficinas |
-| Cercanía a proveedores (Bazurto, Mercado del Mar) | Menor tiempo de traslado del pescado fresco |
-| Accesibilidad y parqueadero | Vías, parqueo y acceso para proveedores |
-| Saturación de la competencia (menor = mejor) | Número de restaurantes japoneses/nikkei cercanos |
-| Restricciones normativas para adecuar cocina (PEMP / POT) | Centro y Getsemaní son zona patrimonial: limita extracción de humos y obras |
+| Preferencia de los encuestados | Cuantitativa: votos de la encuesta 33 / 17 / 10 / 8, normalizados 1-10 |
+| Costo de arriendo por m² | Cuantitativa: mediana Fincaraíz $110.000 / $75.295 / $130.000 / $83.333 por m² (menor = mejor) |
+| Flujo de turistas y ejecutivos | Cualitativa (equipo): cercanía a hoteles, centro de convenciones y oficinas |
+| Cercanía a proveedores (Bazurto, Mercado del Mar) | Cualitativa (equipo): menor tiempo de traslado del pescado fresco |
+| Accesibilidad y parqueadero | Cualitativa (equipo): vías, parqueo y acceso para proveedores |
+| Saturación de la competencia (menor = mejor) | Cualitativa (equipo): restaurantes japoneses/nikkei identificados en cada zona |
+| Restricciones normativas para adecuar cocina (PEMP / POT) | Cualitativa (equipo): Centro y Getsemaní son zona patrimonial; limita extracción de humos y obras |
 
 
 ![Figura 2. Resultado de la microlocalización](assets/graficas/g31_localizacion_ponderacion.png){width=13cm}
@@ -69,21 +81,21 @@ Table: Tabla 6. Justificación de las calificaciones
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
-Table: Tabla 7. Análisis de sensibilidad de la microlocalización
+Table: Tabla 8. Análisis de sensibilidad de la microlocalización
 
 | Escenario de pesos | Centro Histórico | Manga | Bocagrande | Getsemaní | Zona ganadora |
 |:------------------------------------|-------------:|-------------:|-------------:|-------------:|:----------------|
-| Pesos base | 6,50 | 6,70 | 5,30 | 5,30 | Manga |
-| Preferencia de la encuesta 35 % y arriendo 10 % | 7,20 | 6,40 | 5,20 | 4,90 | Centro Histórico |
-| Arriendo 30 % y preferencia 15 % | 5,80 | 7,00 | 5,40 | 5,70 | Manga |
-| Flujo turístico 25 % y normativa 0 % | 7,10 | 6,40 | 5,50 | 5,60 | Centro Histórico |
+| Pesos base | 6,76 | 6,91 | 4,38 | 5,59 | Manga |
+| Preferencia de la encuesta 35 % y arriendo 10 % | 7,33 | 6,33 | 4,45 | 4,82 | Centro Histórico |
+| Arriendo 30 % y preferencia 15 % | 6,19 | 7,49 | 4,31 | 6,35 | Manga |
+| Flujo turístico 25 % y normativa 0 % | 7,36 | 6,61 | 4,58 | 5,89 | Centro Histórico |
 
 *Fuente: Elaboración propia.*
 
 
-**Decisión.** La zona ganadora es **Manga** (6,70 puntos), seguida muy de cerca por el Centro Histórico (6,50). Manga gana por menor arriendo, cercanía al Mercado de Bazurto, parqueo y ausencia de las restricciones patrimoniales del PEMP para instalar la campana extractora. El análisis de sensibilidad muestra que el Centro Histórico gana cuando se da más peso a la preferencia de los encuestados (35 %) o al flujo turístico sin considerar las restricciones normativas; con los pesos base, que priorizan el costo y la viabilidad de adecuar una cocina con extracción de humos, gana Manga. La decisión es, por tanto, sensible a los pesos y el equipo la asume conscientemente. Para capturar el flujo turístico del Centro (a 5 minutos), Kazegami se apoya en alianzas con hoteles y en su presencia digital.
+**Decisión.** La zona ganadora es **Manga** (6,91 puntos), seguida muy de cerca por el Centro Histórico (6,76). Manga gana por menor arriendo, cercanía al Mercado de Bazurto, parqueo y ausencia de las restricciones patrimoniales del PEMP para instalar la campana extractora. El análisis de sensibilidad muestra que el Centro Histórico gana cuando se da más peso a la preferencia de los encuestados (35 %) o al flujo turístico sin considerar las restricciones normativas; con los pesos base, que priorizan el costo y la viabilidad de adecuar una cocina con extracción de humos, gana Manga. La decisión es, por tanto, sensible a los pesos y el equipo la asume conscientemente. Para capturar el flujo turístico del Centro (a 5 minutos), Kazegami se apoya en alianzas con hoteles y en su presencia digital.
 
-Table: Tabla 8. Características del local propuesto
+Table: Tabla 9. Características del local propuesto
 
 | Característica | Especificación |
 |:------------------------------|:------------------------------------------------------------------------------|
@@ -91,28 +103,28 @@ Table: Tabla 8. Características del local propuesto
 | Área | ≈ 200 m² (20 m × 10 m), primer piso |
 | Uso del suelo | Comercial compatible con restaurante (verificar con certificado de Planeación Distrital) |
 | Servicios | Acometida trifásica, gas natural, agua potable, alcantarillado |
-| Arriendo estimado | $11.000.000 mensuales (≈ $55.000/m²) |
-| Distancia al Mercado de Bazurto | ≈ 3 km (10 minutos) |
-| Distancia al Centro Histórico | ≈ 1,5 km (5 minutos) |
+| Arriendo de referencia | $15.059.000 mensuales (200 m² × $75.295/m², mediana de Fincaraíz en Manga) |
+| Distancia al Mercado de Bazurto | Aprox. 3 km (estimación con mapa) |
+| Distancia al Centro Histórico | Aprox. 1,5 km (estimación con mapa) |
 
 
 # 3. Tamaño del proyecto
 
-Table: Tabla 9. Factores que condicionan el tamaño
+Table: Tabla 10. Factores que condicionan el tamaño
 
 | Factor | Situación | Efecto sobre el tamaño |
 |:--------------------------|:------------------------------------------|:---------------------------------------|
-| Demanda insatisfecha | 199.653 platos/año en 2027 | No limita: Kazegami atiende menos del 20 % de la brecha |
+| Demanda insatisfecha | 333.187 platos/año en 2027 | No limita: Kazegami atiende menos del 20 % de la brecha |
 | Disponibilidad de insumos | Pesca artesanal diaria; importados con stock de 1 mes | No limita si se diversifican proveedores |
 | Tecnología y equipos | Equipos industriales disponibles en Colombia | No limita |
 | Financiamiento | Inversión de aportes de los socios y crédito | **Limita**: se escoge un local de 200 m² |
-| Capacidad del sushiman | Un sushiman arma ≈ 12-15 rollos por hora | Se requieren 2 sushimen en hora pico |
+| Capacidad del sushiman | Estimación del equipo: un sushiman arma 12-15 rollos por hora | Se requieren 2 sushimen en hora pico |
 | Organización | 11 personas en planta | Adecuado para 56 puestos |
 
 
 ## 3.1 Capacidad diseñada (máxima teórica)
 
-Table: Tabla 10. Cálculo de la capacidad diseñada
+Table: Tabla 11. Cálculo de la capacidad diseñada
 
 | Variable | Valor | Cálculo |
 |:-------------------------------------------|-----------------:|:-----------------------------------------------|
@@ -132,7 +144,7 @@ Table: Tabla 10. Cálculo de la capacidad diseñada
 
 La **capacidad instalada** es el 80 % de la diseñada: descuenta horas valle, mesas de 4 ocupadas por 2 personas y tiempos de limpieza. La **capacidad utilizada** crece con el posicionamiento de la marca.
 
-Table: Tabla 11. Capacidad diseñada, instalada y utilizada (platos/año)
+Table: Tabla 12. Capacidad diseñada, instalada y utilizada (platos/año)
 
 | Año | Diseñada | Instalada | % de utilización | Utilizada | Platos/día | Comensales/día | Rotación efectiva por puesto |
 |:--------|--------------:|--------------:|-------------:|--------------:|-----------:|-------------:|--------------:|
@@ -150,15 +162,15 @@ Table: Tabla 11. Capacidad diseñada, instalada y utilizada (platos/año)
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
-Table: Tabla 12. Capacidad utilizada por plato (unidades servidas)
+Table: Tabla 13. Capacidad utilizada por plato (unidades servidas)
 
 | Año | Rollos de sushi | Ramen | Tempura | Total | Promedio mensual | Participación en la demanda insatisfecha |
 |:--------|---------------:|---------------:|---------------:|---------------:|---------------:|---------------------:|
-| 2027 | 13.166 | 8.633 | 7.554 | 29.353 | 2.446 | 14,7 % |
-| 2028 | 15.272 | 10.015 | 8.763 | 34.049 | 2.837 | 16,0 % |
-| 2029 | 17.379 | 11.396 | 9.971 | 38.746 | 3.229 | 17,1 % |
-| 2030 | 19.222 | 12.605 | 11.029 | 42.855 | 3.571 | 17,8 % |
-| 2031 | 21.065 | 13.813 | 12.087 | 46.965 | 3.914 | 18,4 % |
+| 2027 | 13.166 | 8.633 | 7.554 | 29.353 | 2.446 | 8,8 % |
+| 2028 | 15.272 | 10.015 | 8.763 | 34.049 | 2.837 | 9,6 % |
+| 2029 | 17.379 | 11.396 | 9.971 | 38.746 | 3.229 | 10,3 % |
+| 2030 | 19.222 | 12.605 | 11.029 | 42.855 | 3.571 | 10,7 % |
+| 2031 | 21.065 | 13.813 | 12.087 | 46.965 | 3.914 | 11,0 % |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -168,7 +180,7 @@ Table: Tabla 12. Capacidad utilizada por plato (unidades servidas)
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
-Table: Tabla 13. Distribución diaria de la producción en 2027 (día promedio)
+Table: Tabla 14. Distribución diaria de la producción en 2027 (día promedio)
 
 | Turno | Comensales | Rollos de sushi | Ramen | Tempura |
 |:----------------------------|-------------------:|-------------------:|-------------------:|-------------------:|

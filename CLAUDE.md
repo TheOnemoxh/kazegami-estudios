@@ -4,7 +4,7 @@ Este repositorio genera dos documentos académicos en Word a partir de Markdown 
 
 ## Antes de editar
 
-1. **Lee primero** `CONTEXTO_GLOBAL.md` y `datos/RESUMEN_ENCUESTA.md`. Si vas a tocar cifras de demanda, oferta, capacidad o costos, lee también `datos/MODELO_PROYECCIONES.md`.
+1. **Lee primero** `CONTEXTO_GLOBAL.md`, `datos/RESUMEN_ENCUESTA.md` y `datos/FUENTES_Y_VERIFICACION.md` (qué está verificado y qué es estimación). Si vas a tocar cifras de demanda, oferta, capacidad o costos, lee también `datos/MODELO_PROYECCIONES.md`.
 2. Haz `git pull` y revisa en `README.md` qué archivos le corresponden a la persona que te está pidiendo el cambio. No edites archivos de otro integrante sin que te lo pidan.
 
 ## Reglas de contenido (no negociables)

@@ -67,8 +67,8 @@ Table: Tabla 9. Ficha técnica comparativa de los 3 platos
 
 | Atributo | 1. Rollos de sushi | 2. Ramen | 3. Tempura |
 |:----------------|:------------------------------|:------------------------------|:------------------------------|
-| 3.3 Presentación | Rollo (maki / uramaki) de 8 piezas, ≈ 260 g, servido en plato rectangular de cerámica con wasabi, gari y soya | Bowl de cerámica de 1,2 L con ≈ 650 ml de caldo, fideo, chashu, huevo marinado y toppings; servido con cuchara renge y palillos | Porción mixta de 5 langostinos y vegetales de temporada (≈ 220 g), en plato con rejilla, salsa tentsuyu y daikon rallado |
-| 3.4 Composición | Arroz japonés sazonado (shari), alga nori, atún aleta amarilla de pesca artesanal, langostino del Caribe, aguacate de Montes de María, pepino, mango, queso crema, ajonjolí | Caldo de huesos de cerdo y pollo (10-12 h), tare de soya/miso, fideo alcalino, panceta chashu, huevo ajitama, cebollín, brotes, nori, aceite de ajonjolí | Langostino del Caribe, berenjena, ahuyama, batata y cebolla de Bolívar, batido de harina para tempura con agua helada, aceite vegetal, salsa tentsuyu (dashi, soya, mirin) |
+| 3.3 Presentación | Rollo (maki / uramaki) de 8 piezas, ≈ 260 g, servido en plato rectangular de cerámica con wasabi, gari y soya | Bowl de cerámica de 1,2 L con ≈ 650 ml de caldo, fideo, chashu, huevo marinado y toppings; servido con cuchara renge y palillos | Porción mixta de 5 langostinos y vegetales de temporada (≈ 220 g), en plato con rejilla, salsa tentsuyu y rábano rallado |
+| 3.4 Composición | Arroz japonés sazonado (shari), alga nori, pargo rojo de pesca artesanal (Bazurto), langostino, aguacate papelillo, pepino, mango de azúcar, queso crema, ajonjolí | Caldo de espinazo de cerdo y rabadillas de pollo (10-12 h), tare de soya/miso/mirin, fideo de trigo estilo chuka, chashu de tocino de cerdo, huevo ajitama, cebollín, repollo, nori, aceite de ajonjolí | Langostino, berenjena, ahuyama y cebolla (Bazurto), batido de harina para tempura con agua helada, aceite vegetal, salsa tentsuyu (kombu, soya, mirin) |
 | 3.5 Características físicas | Piezas cilíndricas de 3-3,5 cm de diámetro; arroz a 30-35 °C y pescado a 2-4 °C al servir; textura firme y fresca | Plato caliente servido a ≥ 75 °C; caldo opaco y untuoso; fideo firme (al dente) | Rebozado ligero, crocante y de color dorado claro; fritura a 170-180 °C durante 2-3 minutos |
 | Conservación / perecibilidad | Plato frío de preparación al momento en la barra de sushi; perecedero (consumo inmediato, < 30 min) | Plato caliente; el caldo se prepara por lotes y se conserva refrigerado; el bowl se ensambla al momento | Plato caliente frito al momento; pierde crocancia después de 10 min |
 | Porción | 8 piezas (≈ 260 g) | ≈ 650 ml (≈ 550 g) | ≈ 220 g |
@@ -83,9 +83,9 @@ Table: Tabla 10. Composición por porción (receta estándar resumida)
 
 | Plato | Proteína | Base | Vegetales / frutas | Condimentos y salsas |
 |:--------------|:---------------------|:----------------------|:----------------------|:-------------------------|
-| Rollos de sushi | Atún aleta amarilla 45 g + langostino 25 g | Arroz japonés 120 g + 1 lámina de nori | Aguacate 30 g, pepino 20 g, mango 15 g | Vinagre de arroz, soya, wasabi, gari, salsas de la casa, queso crema |
-| Ramen | Chashu de cerdo 60 g + 1 huevo | Fideo alcalino 120 g + caldo de huesos 250 g | Cebollín, brotes de soya/maíz, ajo y jengibre | Miso, soya, mirin, aceite de ajonjolí, ½ nori |
-| Tempura | Langostino 120 g (5 unidades) | Harina para tempura 50 g + fécula 15 g + ½ huevo | Berenjena, ahuyama, batata y cebolla 100 g; daikon 20 g | Dashi, soya, mirin (tentsuyu) |
+| Rollos de sushi | Pargo rojo 45 g de filete + langostino 25 g | Arroz japonés 120 g + 1 lámina de nori | Aguacate 30 g, pepino 20 g, mango 15 g | Vinagre de arroz, soya, wasabi, gari, salsas de la casa, queso crema |
+| Ramen | Chashu de tocino de cerdo 60 g + 1 huevo | Fideo de trigo 120 g + caldo de espinazo de cerdo y pollo | Cebollín, repollo y ajo | Miso, soya, mirin, aceite de ajonjolí, ½ nori |
+| Tempura | Langostino 120 g (5 unidades) | Harina para tempura 50 g + fécula 15 g + ½ huevo | Berenjena, ahuyama y cebolla 100 g; rábano 20 g | Kombu, soya, mirin (tentsuyu) |
 
 
 ## 3.6 Producto
@@ -94,9 +94,9 @@ Table: Tabla 11. Portafolio de producto enfocado en el Top 3
 
 | Línea | Producto en carta | Rol en el portafolio | Participación esperada en ventas de platos | Precio de venta |
 |:--------------|:-----------------------------------|:--------------------------|-----------------:|--------------:|
-| Barra de sushi | Rollos de sushi (rollo Kazegami, rollo de atún, rollo de langostino, rollo vegetariano) | Producto insignia y diferenciador (barra a la vista) | 44,9 % | $40.000 |
+| Barra de sushi | Rollos de sushi (rollo Kazegami de pargo, rollo de langostino, rollo vegetariano) | Producto insignia y diferenciador (barra a la vista) | 44,9 % | $40.000 |
 | Cocina caliente | Ramen (tonkotsu-miso de la casa; versión vegetariana) | Plato fuerte; base del menú ejecutivo de mediodía | 29,4 % | $38.000 |
-| Cocina caliente | Tempura (mixta de langostino y vegetales; solo vegetales) | Entrada para compartir o plato ligero | 25,7 % | $34.000 |
+| Cocina caliente | Tempura (mixta de langostino y vegetales; solo vegetales) | Entrada para compartir o plato ligero | 25,7 % | $38.000 |
 
 *Fuente: Participación según el peso de cada plato dentro del Top 3 de la encuesta.*
 
@@ -105,18 +105,18 @@ Table: Tabla 11. Portafolio de producto enfocado en el Top 3
 
 ## 3.7 Sustitutos y 3.8 Complementarios
 
-Table: Tabla 12. Bienes sustitutos con precios promedio en Cartagena
+Table: Tabla 12. Bienes sustitutos y precios reales en Cartagena
 
-| Sustituto | Tipo de sustitución | Precio promedio por plato (COP) | Preferencia en la encuesta |
-|:--------------------------------|:-------------------|----------------------:|:--------------------------------|
-| Sushi y comida japonesa de otros restaurantes | Directo | $32.000 - $55.000 por rollo | 4,7 % elige comida japonesa/asiática como opción habitual |
-| Cocina nikkei y peruana (ceviches, tiraditos) | Cercano | $38.000 - $60.000 | 10,4 % elige comida internacional |
-| Comida de mar típica (pescado frito, cazuela) | Cercano | $40.000 - $70.000 | 14,2 % elige comida de mar |
-| Comida asiática no japonesa (wok, arroz chino) | Cercano | $28.000 - $45.000 | — |
-| Comida rápida (hamburguesas, pizza) | Lejano (misma ocasión de salida) | $22.000 - $38.000 | 38,7 % elige comida rápida |
-| Comida típica o local (corrientazo, fritos) | Lejano | $15.000 - $30.000 | 29,2 % elige comida típica |
+| Sustituto | Tipo de sustitución | Precio verificado (COP) | Fuente del precio | Preferencia en la encuesta |
+|:----------------------------|:-------------|:----------------------|:-------------------|:----------------------|
+| Rollos de sushi de otros restaurantes (Masaki Sushi Wok) | Directo | $40.000 - $57.000 por rollo completo (promedio $49.550) | Rappi, oct-2026 | 4,7 % elige comida japonesa/asiática como opción habitual |
+| Ramen de otros restaurantes (Dame Ramen, Bocagrande) | Directo | $35.000 - $69.000 (promedio $45.667) | Menú web de Dame Ramen, oct-2026 | — |
+| Tempura de otros restaurantes (Masaki Sushi Wok) | Directo | $25.000 (tempura mixta de vegetales) | Rappi, oct-2026 | — |
+| Ceviches y platos de mar (La Cevichería) | Cercano | $59.000 - $160.000 por plato | Carta web de La Cevichería, oct-2026 | 14,2 % elige comida de mar |
+| Menú ejecutivo de restaurante formal | Lejano (almuerzo) | ≈ $20.000 (informal ≈ $13.000) | ACODRES vía Portafolio (2025) | 29,2 % elige comida típica |
+| Comida rápida (hamburguesas, pizza) | Lejano (misma ocasión de salida) | Sin precio verificado | — | 38,7 % elige comida rápida |
 
-*Fuente: Encuesta (n = 106); rangos de precio de referencia estimados por el equipo con cartas digitales de Cartagena (oct. 2026), a verificar con visita.*
+*Fuente: Encuesta (n = 106); Rappi; dameramen.com; lacevicheriacartagena.com; Portafolio (2025). Consultas del 24 de octubre de 2026.*
 
 
 ![Figura 3. Tipo de restaurante que los encuestados eligen con más frecuencia](assets/graficas/g08_tipo_restaurante.png){width=14cm}
@@ -124,18 +124,19 @@ Table: Tabla 12. Bienes sustitutos con precios promedio en Cartagena
 *Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
-Table: Tabla 13. Bienes y servicios complementarios con precios promedio
+Table: Tabla 13. Bienes y servicios complementarios con precios reales
 
-| Complementario | Relación con los 3 platos | Precio promedio (COP) | Ofrecido por Kazegami |
-|:-------------------------------------|:---------------------------------|--------------------:|:----------------|
-| Bebidas sin alcohol (té verde, limonada de jengibre, sodas japonesas) | Acompañan cualquier plato | $7.000 - $14.000 | Sí |
-| Cerveza japonesa (Asahi, Sapporo) y nacional | Maridaje con tempura y sushi (pedido espontáneo en la encuesta: cerveza Asahi) | $14.000 - $22.000 | Sí |
-| Sake y cocteles de autor | Maridaje de la experiencia premium | $25.000 - $45.000 | Sí |
-| Postres japoneses (mochi, helado de té matcha) | Cierre de la experiencia (pedido espontáneo: postres) | $12.000 - $18.000 | Sí |
-| Transporte (taxi, plataformas) | Necesario para llegar al local | $8.000 - $20.000 por trayecto urbano | No |
-| Parqueadero | Clientes con vehículo propio | $4.000 - $8.000 por hora | Convenio con parqueadero cercano |
+| Complementario | Relación con los 3 platos | Precio verificado (COP) | Fuente | Ofrecido por Kazegami |
+|:-----------------------|:------------------------------|:-----------------|:--------------------|:--------------|
+| Té de la casa / té japonés | Acompaña cualquier plato | $7.000 - $10.000 | Menú de Dame Ramen, oct-2026 | Sí |
+| Gaseosas y agua (400-600 ml) | Acompaña cualquier plato | $8.000 | Menú de Dame Ramen, oct-2026 | Sí |
+| Cerveza artesanal | Maridaje con tempura y sushi (pedido espontáneo en la encuesta: cerveza Asahi) | $12.000 - $16.000 | Menú de Dame Ramen, oct-2026 | Sí |
+| Sake (botella) | Maridaje de la experiencia premium | $50.000 | Menú de Dame Ramen, oct-2026 | Sí |
+| Gyozas (6 unidades) | Entrada complementaria | $32.000 - $45.000 | Menú de Dame Ramen, oct-2026 | No (fuera del Top 3) |
+| Postres japoneses | Cierre de la experiencia (pedido espontáneo: postres) | Sin precio verificado | — | Sí |
+| Transporte y parqueadero | Necesarios para llegar al local | Sin precio verificado | — | No |
 
-*Fuente: Encuesta, pregunta abierta; precios de referencia estimados por el equipo.*
+*Fuente: Encuesta (pregunta abierta); dameramen.com/menu, consulta del 24 de octubre de 2026.*
 
 
 ## 3.9 Clasificación del bien, 3.10 Sistemas de distribución y 3.11 Bienes y servicios del sector público
@@ -184,12 +185,12 @@ Table: Tabla 17. Precios y estructura de costos estimados por plato (2027)
 
 | Concepto | Rollos de sushi | Ramen | Tempura |
 |:-------------------------------------------|---------------------:|---------------------:|---------------------:|
-| Costo de materia prima por porción | $10.952 | $11.270 | $10.545 |
-| Costo unitario total de la línea (MP + servicios + depreciación) | $11.673 | $12.366 | $11.290 |
-| Precio de venta en carta (con impoconsumo 8 %) | $40.000 | $38.000 | $34.000 |
-| Precio neto sin impoconsumo | $37.037 | $35.185 | $31.481 |
-| Food cost (MP ÷ precio neto) | 29,6 % | 32,0 % | 33,5 % |
-| Margen de contribución por plato | $25.364 | $22.819 | $20.192 |
+| Costo de materia prima por porción | $9.255 | $12.120 | $11.953 |
+| Costo unitario total de la línea (MP + servicios + depreciación) | $9.936 | $13.189 | $12.687 |
+| Precio de venta en carta (con impoconsumo 8 %) | $40.000 | $38.000 | $38.000 |
+| Precio neto sin impoconsumo | $37.037 | $35.185 | $35.185 |
+| Food cost (MP ÷ precio neto) | 25,0 % | 34,4 % | 34,0 % |
+| Margen de contribución por plato | $27.101 | $21.996 | $22.498 |
 
 *Fuente: Recetas estándar y tablas de insumos del Estudio Técnico (formato Punto 6).*
 

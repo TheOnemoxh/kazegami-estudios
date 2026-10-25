@@ -38,7 +38,7 @@
 |:---:|:---|---:|---:|---:|---:|
 | 1 | **Rollos de sushi** | 61 | 57,5 % | 44,9 % | $40.000 |
 | 2 | **Ramen** | 40 | 37,7 % | 29,4 % | $38.000 |
-| 3 | **Tempura** | 35 | 33,0 % | 25,7 % | $34.000 |
+| 3 | **Tempura** | 35 | 33,0 % | 25,7 % | $38.000 |
 
 - Fichas técnicas, procesos, insumos, recetas, costos, precios y proyecciones: **únicamente** estos 3 platos.
 - Los demás platos (pescado estilo japonés 26, sashimi 7, vegetarianos 6) **se descartan** del análisis técnico y de costos. En la gráfica general de la encuesta sí aparecen todos.
@@ -65,21 +65,25 @@
 
 Detalle completo, tablas por pregunta y cruces: `datos/RESUMEN_ENCUESTA.md`.
 
-## 5. Cifras del modelo (fuente: `scripts/modelo_kazegami.py`)
+## 5. Cifras del modelo (fuente: `scripts/modelo_kazegami.py`; verificación en `datos/FUENTES_Y_VERIFICACION.md`)
 
-| Variable | Valor |
-|:---|---:|
-| Demanda actual 2026 (3 platos, Cartagena) | 952.125 platos/año |
-| Demanda base 2031 | 1.099.788 platos/año |
-| Oferta 2026 → 2031 (45 locales, +2 %/año) | 765.000 → 844.622 platos/año |
-| Demanda insatisfecha base 2027 → 2031 | 199.653 → 255.166 platos/año |
-| Puestos del local | 56 (12 mesas × 4 + 8 en barra) |
-| Capacidad diseñada / instalada | 73.382 / 58.706 platos/año |
-| Platos Kazegami 2027 → 2031 | 29.353 → 46.965 (50 % → 80 % de la instalada) |
-| Costo MP por porción: sushi / ramen / tempura | $10.952 / $11.270 / $10.545 |
-| Costo unitario total (formato Punto 6) | $11.673 / $12.366 / $11.290 |
-| Inversión técnica inicial | $389.371.491 |
-| Microlocalización | Manga 6,70 · Centro Histórico 6,50 · Bocagrande 5,30 · Getsemaní 5,30 |
+| Variable | Valor | Estado |
+|:---|---:|:---|
+| Demanda actual 2026 (3 platos, Cartagena) | 941.590 platos/año | Calculada con DANE, Cartagena Cómo Vamos, Migración Colombia y encuesta |
+| Demanda base 2031 (g = 3,6 %, Raddar) | 1.119.734 platos/año | Escenarios con fuente: 2,02 % / 3,6 % / 9,5 % |
+| Oferta 2026 → 2031 (37 restaurantes en Tripadvisor, +2 %/año ACODRES) | 629.000 → 694.467 platos/año | Ventas por local: estimación |
+| Demanda insatisfecha base 2027 → 2031 | 333.187 → 425.267 platos/año | — |
+| Puestos del local | 56 (12 mesas × 4 + 8 en barra) | Diseño |
+| Capacidad diseñada / instalada | 73.382 / 58.706 platos/año | Diseño |
+| Platos Kazegami 2027 → 2031 | 29.353 → 46.965 (8,8 % → 11,0 % de la DI) | — |
+| Costo MP por porción: sushi / ramen / tempura | $9.255 / $12.120 / $11.953 | Precios SIPSA-DANE y proveedores (verificados) |
+| Costo unitario total (formato Punto 6) | $9.936 / $13.189 / $12.687 | — |
+| Precios de venta | $40.000 / $38.000 / $38.000 | Competencia real: rollos prom. $49.550 (Masaki), ramen prom. $45.667 (Dame Ramen) |
+| Inversión técnica inicial | $394.891.102 | Equipos mayormente verificados; obra y mobiliario estimados |
+| Arriendo (Manga, mediana Fincaraíz) | $75.295/m² → $15.059.000/mes | Verificado |
+| Microlocalización | Manga 6,91 · Centro Histórico 6,76 · Getsemaní 5,59 · Bocagrande 4,38 | Votos y arriendo cuantitativos; resto cualitativo |
+
+**Regla:** toda cifra nueva necesita fuente; si no existe dato público, se escribe "Estimación" y se explica en qué se basa.
 
 ## 6. Formato obligatorio de las tablas de insumos (Punto6EstudioTecnicoImg/)
 

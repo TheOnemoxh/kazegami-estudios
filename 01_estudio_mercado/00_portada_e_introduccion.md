@@ -63,7 +63,7 @@ Table: Tabla 1. Cómo leer este documento
 | Moneda | Pesos colombianos (COP) de octubre de 2026. Precios de venta con impoconsumo (8 %) incluido. |
 | Año base y horizonte | Año base 2026; proyecciones 2027-2031 (5 años) a precios constantes. |
 | Datos primarios | Encuesta Kazegami: 106 respuestas, 31 variables. Cifras exactas en el archivo datos/RESUMEN_ENCUESTA.md. |
-| Supuestos | Todo supuesto del equipo se marca como tal y se resume en el Anexo A. |
+| Fuentes y verificación | Cada cifra externa lleva su fuente (DANE, SIPSA-DANE, Migración Colombia, Tripadvisor, Rappi, Fincaraíz, proveedores). Lo que no tiene dato público se marca como **Estimación** y se explica en el Anexo A y en datos/FUENTES_Y_VERIFICACION.md. |
 | Portafolio analizado | Top 3 de la encuesta: Rollos de sushi (61 menciones), Ramen (40) y Tempura (35). |
 
 

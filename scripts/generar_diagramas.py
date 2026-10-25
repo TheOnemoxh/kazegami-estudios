@@ -85,7 +85,7 @@ def flujo(nombre: str, titulo: str, pasos: list[tuple[str, str]]):
 PROCESO_SUSHI = [
     ("T", "Recepción del pescado del día (Bazurto / Mercado del Mar)"),
     ("I", "Control de recepción: T° ≤ 4 °C, olor, ojos, agallas"),
-    ("O", "Eviscerado, fileteado y porcionado del atún"),
+    ("O", "Eviscerado, fileteado y porcionado del pargo"),
     ("A", "Ultracongelación −35 °C × 15 h (control de parásitos)"),
     ("A", "Almacenamiento refrigerado 0–4 °C (rotación PEPS)"),
     ("O", "Lavado del arroz japonés (3–4 aguas)"),
@@ -124,7 +124,7 @@ PROCESO_TEMPURA = [
     ("I", "Control de T° del aceite (170–180 °C)"),
     ("O", "Rebozado y fritura (2–3 min por tanda)"),
     ("O", "Escurrido sobre rejilla y papel absorbente"),
-    ("O", "Emplatado con salsa tentsuyu y daikon"),
+    ("O", "Emplatado con salsa tentsuyu y rábano"),
     ("I", "Control de calidad: crocancia y color dorado claro"),
     ("T", "Pase a mesa inmediato"),
 ]

@@ -4,23 +4,23 @@ La oferta es la cantidad de Rollos de sushi, Ramen y Tempura que los restaurante
 
 ## 5.1 Competencia
 
-Table: Tabla 32. Matriz comparativa de competidores en Cartagena
+Table: Tabla 32. Matriz comparativa de competidores en Cartagena (datos verificados)
 
-| Competidor | Tipo | Zona | Sushi / Ramen / Tempura | Nivel de precio | Fortaleza | Debilidad / oportunidad |
-|:-----------------|:-----------|:---------------|:------------:|:-------:|:--------------------|:--------------------|
-| Masaki Sushi Wok | Directo | Manga y Centro Histórico | Sí / No / Sí | $$$ | Reconocido como de los mejores de la ciudad; dos sedes | Enfoque sushi-wok; sin ramen |
-| Sr. Miyagi Sushi Corner | Directo | Bocagrande y Manga | Sí / No / Sí | $$$ | Rollos creativos, servicio express | Formato rápido, poca experiencia de barra |
-| IKIGAI | Directo | Castillogrande | Sí / — / Sí | $$$ | Carta de sake y ambiente moderno | Precio alto para el público joven |
-| Maki (Hotel Estelar) | Directo premium | Bocagrande | Sí / — / Sí | $$$$ | Omakase, vista y respaldo hotelero | Precio muy alto; dentro de hotel |
-| Sushi Express | Directo económico | Centro | Sí / No / — | $ | Precio bajo y combos | Calidad y experiencia básicas |
-| Koyo / Nami | Directo (asiático) | Bocagrande | Sí / Sí / Sí | $$$ | Carta panasiática amplia | Poca especialización japonesa |
-| Perú Fusión / Hamachi / NIKU | Indirecto (nikkei) | Centro y Getsemaní | Sí / No / — | $$$ | Fusión peruano-japonesa reconocida | No es cocina japonesa tradicional |
-| Restaurantes de comida de mar | Sustituto | Toda la ciudad | — / — / — | $$-$$$ | Pescado local, tradición | Sin técnica japonesa |
+| Competidor | Tipo | Nivel de precio (Tripadvisor) | Oferta del Top 3 | Precios verificados | Fuente |
+|:-----------------------|:-------------|:----------:|:---------------------|:---------------------|:---------------|
+| Masaki Sushi & Drinks / Masaki Sushi Wok | Directo | $$ - $$$ | Sushi: sí · Ramen: no aparece · Tempura: sí | Rollos completos $40.000-$57.000; tempura de vegetales $25.000 | Rappi; Tripadvisor (oct-2026) |
+| Dame Ramen (Bocagrande) | Directo (ramen) | $$ - $$$ | Ramen: sí · Sushi: 1 maki · Tempura: no aparece | Ramen $35.000-$69.000 | dameramen.com; Rappi (oct-2026) |
+| Sr Miyagi Sushi Bar (Manga) y Sushi Corner (Bocagrande) | Directo | $$ - $$$ | Sushi: sí · Ramen: sí (Tripadvisor) | Sin precios publicados | Tripadvisor (oct-2026) |
+| Niku Cartagena | Directo / fusión | $$$$ | Sushi: sí | Sin precios publicados | Tripadvisor (oct-2026) |
+| Restaurante Nami, Kona, Pezetarian | Directo / asiático | $$ - $$$ | Ofrecen ramen (Tripadvisor) | Sin precios publicados | Tripadvisor (oct-2026) |
+| Hamachi, Kokoa Sushi Wok, Tokio de Lima | Directo / nikkei | $$ - $$$ | Sushi: sí | Sin precios publicados | Tripadvisor (oct-2026) |
+| Omasake Temaki Bar | Directo premium | $$$$ | Sushi / temaki | Sin precios publicados | Tripadvisor (oct-2026) |
+| La Cevichería | Sustituto (mar) | — | No ofrece el Top 3 | Platos $59.000-$290.000 | Carta web (oct-2026) |
 
-*Fuente: La Carta (2026), Agenda Colombia (2026) y Tripadvisor (2026). Disponibilidad de ramen y tempura por verificar con la carta vigente de cada local.*
+*Fuente: Tripadvisor, categoría japonesa de Cartagena: 37 resultados; búsqueda de ramen: 7 resultados (consulta del 24 de octubre de 2026). Rappi y páginas web de cada restaurante.*
 
 
-**Hallazgo clave.** Ningún competidor directo identificado combina **barra de sushi a la vista + ramen de caldo largo + tempura** con **pescado de pesca artesanal local** y precios dentro del rango modal de la encuesta. El ramen, segundo plato más mencionado (40 menciones), es el producto con **menor oferta especializada** en la ciudad.
+**Hallazgo clave.** Tripadvisor registra 37 restaurantes japoneses en Cartagena, pero solo 7 ofrecen ramen, aunque el ramen es el segundo plato más mencionado en la encuesta (40 menciones). En las cartas revisadas, Masaki vende sushi y tempura pero no ramen, y Dame Ramen vende ramen pero no tempura. No se encontró un competidor que combine los tres platos con pescado de pesca artesanal local. Los precios de Kazegami quedan por debajo del promedio de esos competidores (rollo $40.000 frente a $49.550; ramen $38.000 frente a $45.667).
 
 ![Figura 19. Lo que menos gusta de los restaurantes japoneses/asiáticos de Cartagena (debilidades de la competencia)](assets/graficas/g11_disgustos.png){width=15cm}
 
@@ -44,7 +44,7 @@ Table: Tabla 33. Debilidades de la competencia detectadas en la encuesta y respu
 
 ### Régimen de mercado
 
-El mercado de restaurantes japoneses de Cartagena funciona como **competencia monopolística**: hay muchos oferentes (≈ 45), cada uno con un producto diferenciado (estilo, ambiente, ubicación), barreras de entrada moderadas (inversión en equipos, permisos sanitarios, personal calificado) y cierto poder sobre el precio gracias a la marca.
+El mercado de restaurantes japoneses de Cartagena funciona como **competencia monopolística**: hay muchos oferentes (37 en Tripadvisor), cada uno con un producto diferenciado (estilo, ambiente, ubicación), barreras de entrada moderadas (inversión en equipos, permisos sanitarios, personal calificado) y cierto poder sobre el precio gracias a la marca.
 
 ### Factores que determinan la oferta
 
@@ -56,7 +56,7 @@ Table: Tabla 34. Factores que determinan la oferta de los 3 platos
 | 2. Tecnología | Ultracongeladores, POS con facturación electrónica, reservas digitales | Mejora la productividad y la inocuidad |
 | 3. Clima | Calor y humedad del Caribe; temporada de lluvias y mar de leva que limitan la pesca artesanal | Puede reducir la disponibilidad de pescado fresco |
 | 4. Precios de los sustitutos | Comida rápida y típica más barata; nikkei y comida de mar en precios similares | Presiona a los oferentes a ajustar precio y porción |
-| 5. Capacidad instalada | Locales de 30 a 80 puestos; barras de sushi con 1 a 3 sushimen | Limita cuántos platos puede vender cada competidor |
+| 5. Capacidad instalada | Capacidad de los competidores no publicada (requiere observación de campo) | Limita cuántos platos puede vender cada competidor |
 | 6. Gobierno | Impoconsumo 8 %, controles del DADIS, vedas de la AUNAP, restricciones del PEMP en el Centro | Elevan costos y barreras de entrada |
 
 *Fuente: Clase del Seminario Taller (factores de la oferta) aplicados por el equipo.*
@@ -66,12 +66,12 @@ Table: Tabla 34. Factores que determinan la oferta de los 3 platos
 
 Table: Tabla 35. Estimación de la oferta actual
 
-| Variable | Valor | Sustento |
-|:--------------------------------------|-----------------:|:----------------------------------------------------|
-| Establecimientos que venden sushi, ramen o tempura | 45 | Conteo del equipo en Tripadvisor, Wanderlog, La Carta y Google Maps (incluye restaurantes japoneses, nikkei, asiáticos y locales de solo domicilio) |
-| Platos del Top 3 vendidos por establecimiento al día | 50 | Supuesto del equipo (promedio entre locales grandes y pequeños) |
-| Días de operación al año | 340 | Supuesto del equipo |
-| **Oferta actual (platos/año)** | **765.000** | 45 × 50 × 340 |
+| Variable | Valor | Sustento | Estado |
+|:--------------------------------|------------:|:------------------------------------------------|:--------------|
+| Restaurantes japoneses en Cartagena | 37 | Tripadvisor, categoría japonesa de Cartagena (consulta del 24 de octubre de 2026) | Verificado |
+| Platos del Top 3 vendidos por establecimiento al día | 50 | No existen datos públicos de ventas de la competencia; valor promedio entre locales grandes y pequeños | Estimación |
+| Días de operación al año | 340 | Locales que abren casi todo el año | Estimación |
+| **Oferta actual (platos/año)** | **629.000** | 37 × 50 × 340 | Estimación |
 
 
 ## 5.2 Proveedores
@@ -80,8 +80,8 @@ Table: Tabla 36. Tabla maestra de proveedores para los 3 platos
 
 | Categoría | Proveedor / origen | Insumos para Rollos de sushi, Ramen y Tempura | Frecuencia de compra | Criterio (precio · calidad · postventa) |
 |:---------------|:----------------------|:-------------------------------|:-------------|:------------------------|
-| Pesca artesanal del Caribe | Pescadores artesanales del Mercado de Bazurto y Mercado del Mar (Cartagena) | Atún aleta amarilla, langostino | Diaria (martes a domingo) | Precio por kg negociado; frescura verificada en recepción; reposición de producto no conforme |
-| Agricultores de Bolívar | Productores de Montes de María, Turbaco y Arjona; plaza de Bazurto | Aguacate, pepino, mango, berenjena, ahuyama, batata, cebolla, cebollín, ajo, jengibre, brotes | 2-3 veces por semana | Precio de plaza; producto de temporada; entrega en el local |
+| Pesca artesanal del Caribe | Pescadores artesanales del Mercado de Bazurto y Mercado del Mar (Cartagena) | Pargo rojo, langostino | Diaria (martes a domingo) | Precio por kg negociado; frescura verificada en recepción; reposición de producto no conforme |
+| Agricultores de Bolívar | Productores de Montes de María, Turbaco y Arjona; plaza de Bazurto | Aguacate papelillo, pepino, mango de azúcar, berenjena, ahuyama, cebolla, cebollín, ajo, repollo, rábano | 2-3 veces por semana | Precio de plaza; producto de temporada; entrega en el local |
 | Carnes y huevos | Expendios de carnes de Bazurto y avícolas regionales | Huesos de cerdo y pollo, panceta, huevos | 2 veces por semana | Carne con registro sanitario; cadena de frío |
 | Importadores de insumos japoneses | Mayoristas de productos asiáticos (Bogotá y Barranquilla) | Arroz japonés, nori, vinagre de arroz, soya, miso, mirin, wasabi, gari, dashi, fideo ramen, harina para tempura, aceite de ajonjolí | Quincenal o mensual | Lista de precios; registro INVIMA; despacho a Cartagena |
 | Mayoristas nacionales | Distribuidores mayoristas de Cartagena | Azúcar, sal, fécula, aceite vegetal, queso crema, ajonjolí | Semanal | Precio mayorista y crédito a 30 días |
@@ -103,12 +103,12 @@ Table: Tabla 37. Proyección de la oferta (platos/año)
 
 | Año | Establecimientos equivalentes | Oferta (platos/año) | Incremento anual |
 |:---------------|--------------------------------:|--------------------------------:|----------------------------:|
-| 2026 | 45,0 | 765.000 | — |
-| 2027 | 45,9 | 780.300 | 15.300 |
-| 2028 | 46,8 | 795.906 | 15.606 |
-| 2029 | 47,8 | 811.824 | 15.918 |
-| 2030 | 48,7 | 828.061 | 16.236 |
-| 2031 | 49,7 | 844.622 | 16.561 |
+| 2026 | 37,0 | 629.000 | — |
+| 2027 | 37,7 | 641.580 | 12.580 |
+| 2028 | 38,5 | 654.412 | 12.832 |
+| 2029 | 39,3 | 667.500 | 13.088 |
+| 2030 | 40,0 | 680.850 | 13.350 |
+| 2031 | 40,9 | 694.467 | 13.617 |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -126,12 +126,12 @@ Table: Tabla 38. Balance oferta vs. demanda, demanda insatisfecha y cuota de Kaz
 
 | Año | Oferta | Demanda | Demanda insatisfecha | % de la demanda | Platos Kazegami | Cuota de la demanda insatisfecha |
 |:---------|---------------:|---------------:|-----------------:|--------------:|---------------:|------------------:|
-| 2026 | 765.000 | 952.125 | 187.125 | 19,7 % | — | — |
-| 2027 | 780.300 | 979.953 | 199.653 | 20,4 % | 29.353 | 14,7 % |
-| 2028 | 795.906 | 1.008.608 | 212.702 | 21,1 % | 34.049 | 16,0 % |
-| 2029 | 811.824 | 1.038.115 | 226.291 | 21,8 % | 38.746 | 17,1 % |
-| 2030 | 828.061 | 1.068.500 | 240.439 | 22,5 % | 42.855 | 17,8 % |
-| 2031 | 844.622 | 1.099.788 | 255.166 | 23,2 % | 46.965 | 18,4 % |
+| 2026 | 629.000 | 941.590 | 312.590 | 33,2 % | — | — |
+| 2027 | 641.580 | 974.767 | 333.187 | 34,2 % | 29.353 | 8,8 % |
+| 2028 | 654.412 | 1.009.126 | 354.715 | 35,2 % | 34.049 | 9,6 % |
+| 2029 | 667.500 | 1.044.711 | 377.211 | 36,1 % | 38.746 | 10,3 % |
+| 2030 | 680.850 | 1.081.564 | 400.715 | 37,0 % | 42.855 | 10,7 % |
+| 2031 | 694.467 | 1.119.734 | 425.267 | 38,0 % | 46.965 | 11,0 % |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -145,12 +145,12 @@ Table: Tabla 39. Demanda insatisfecha por escenario (platos/año)
 
 | Año | Pesimista | Base | Optimista |
 |:--------------------|-----------------------------:|-----------------------------:|-----------------------------:|
-| 2026 | 187.125 | 187.125 | 187.125 |
-| 2027 | 180.625 | 199.653 | 218.682 |
-| 2028 | 173.913 | 212.702 | 252.252 |
-| 2029 | 166.985 | 226.291 | 287.946 |
-| 2030 | 159.835 | 240.439 | 325.878 |
-| 2031 | 152.458 | 255.166 | 366.170 |
+| 2026 | 312.590 | 312.590 | 312.590 |
+| 2027 | 318.321 | 333.187 | 388.700 |
+| 2028 | 324.169 | 354.715 | 472.927 |
+| 2029 | 330.137 | 377.211 | 566.057 |
+| 2030 | 336.229 | 400.715 | 668.951 |
+| 2031 | 342.447 | 425.267 | 782.554 |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -160,4 +160,4 @@ Table: Tabla 39. Demanda insatisfecha por escenario (platos/año)
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
-**Lectura.** La demanda insatisfecha es positiva en los tres escenarios: incluso en el pesimista quedan más de 152 mil platos al año sin atender. Kazegami solo necesita capturar entre el **14,7 %** (2027) y el **18,4 %** (2031) de esa brecha para usar su capacidad, lo que equivale a una cuota de mercado de 3,0 % a 4,3 %. La meta es **prudente**: la demanda clasifica como **insatisfecha** y hay espacio para un nuevo oferente diferenciado.
+**Lectura.** La demanda insatisfecha es positiva en los tres escenarios: incluso en el pesimista quedan más de 313 mil platos al año sin atender. Kazegami solo necesita capturar entre el **8,8 %** (2027) y el **11,0 %** (2031) de esa brecha para usar su capacidad, lo que equivale a una cuota de mercado de 3,0 % a 4,2 %. La meta es **prudente**: la demanda clasifica como **insatisfecha** y hay espacio para un nuevo oferente diferenciado.

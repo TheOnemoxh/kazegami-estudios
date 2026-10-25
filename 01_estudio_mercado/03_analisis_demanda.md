@@ -59,15 +59,15 @@ Table: Tabla 21. Embudo de la demanda actual de los 3 platos en Cartagena (2026)
 | Paso | Cálculo | Resultado |
 |:------------------------------------|:-----------------------------------------------|-------------------------:|
 | 1. Población de Cartagena 2026 | Proyección DANE | 1.010.995 personas |
-| 2. Adultos (18 años y más) | Paso 1 × 72 % (estructura por edad DANE, aprox.) | 727.916 personas |
-| 3. Con capacidad de pago (estratos 3 a 6) | Paso 2 × 30 % (supuesto del equipo) | 218.375 personas |
-| 4. Dispuestos a pagar ≥ $60.000 por cena | Paso 3 × 86,5 % (encuesta) | 188.978 personas |
-| 5. Ocasiones de consumo al año | Paso 4 × 6,02 ocasiones/persona (encuesta) | 1.137.469 ocasiones |
-| 6. Platos del Top 3 (residentes) | Paso 5 × 77,7 % (peso del Top 3 en las menciones) × 1 plato | 883.976 platos |
+| 2. Adultos (18 años y más) | Paso 1 × 71,1 % (DANE 2025: 719.615 adultos de 1.011.520) | 719.242 personas |
+| 3. Con capacidad de pago (estratos 3 a 6) | Paso 2 × 30 % (viviendas de estratos 3 a 6, Cartagena Cómo Vamos) | 215.772 personas |
+| 4. Dispuestos a pagar ≥ $60.000 por cena | Paso 3 × 86,5 % (encuesta) | 186.726 personas |
+| 5. Ocasiones de consumo al año | Paso 4 × 6,02 ocasiones/persona (encuesta) | 1.123.914 ocasiones |
+| 6. Platos del Top 3 (residentes) | Paso 5 × 77,7 % (peso del Top 3 en las menciones) × 1 plato | 873.441 platos |
 | 7. Turistas extranjeros 2026 | 866.264 (2025) × 1,0122 (crecimiento 2024-2025) | 876.913 turistas |
-| 8. Turistas que consumen cocina japonesa | Paso 7 × 10 % (supuesto del equipo) | 87.691 turistas |
+| 8. Turistas que consumen cocina japonesa | Paso 7 × 10 % (**estimación** basada en el 11,3 % que viaja por gastronomía, Corpoturismo) | 87.691 turistas |
 | 9. Platos del Top 3 (turistas) | Paso 8 × 77,7 % × 1 plato | 68.149 platos |
-| **10. Demanda actual total** | **Paso 6 + paso 9** | **952.125 platos/año** |
+| **10. Demanda actual total** | **Paso 6 + paso 9** | **941.590 platos/año** |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -76,15 +76,15 @@ Table: Tabla 22. Demanda actual 2026 desglosada por plato
 
 | Plato | Peso en el Top 3 | Platos al año | Platos al mes | Platos al día (365 días) |
 |:---------------------------|----------------:|--------------------:|--------------------:|----------------------:|
-| Rollos de sushi | 44,9 % | 427.056 | 35.588 | 1.170 |
-| Ramen | 29,4 % | 280.037 | 23.336 | 767 |
-| Tempura | 25,7 % | 245.032 | 20.419 | 671 |
-| **Total** | **100,0 %** | **952.125** | **79.344** | **2.609** |
+| Rollos de sushi | 44,9 % | 422.331 | 35.194 | 1.157 |
+| Ramen | 29,4 % | 276.938 | 23.078 | 759 |
+| Tempura | 25,7 % | 242.321 | 20.193 | 664 |
+| **Total** | **100,0 %** | **941.590** | **78.466** | **2.580** |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
-**Lectura.** La ciudad consume hoy cerca de **952 mil platos al año** de los tres productos, equivalentes a unos 2.609 platos diarios. El 92,8 % corresponde a residentes y el 7,2 % a turistas extranjeros; el turismo nacional no se incluyó por falta de una cifra oficial confiable, lo que hace la estimación **conservadora**.
+**Lectura.** La ciudad consume hoy cerca de **942 mil platos al año** de los tres productos, equivalentes a unos 2.580 platos diarios. El 92,8 % corresponde a residentes y el 7,2 % a turistas extranjeros; el turismo nacional no se incluyó por falta de una cifra oficial confiable, lo que hace la estimación **conservadora**.
 
 ## 4.2 Condiciones que afectan el consumo
 
@@ -96,8 +96,8 @@ Table: Tabla 23. Factores que condicionan el consumo de los 3 platos en Cartagen
 | Patrón de gasto | Gasto por persona en la última salida | 37,7 % menos de $60.000; 45,3 % entre $60.000 y $100.000 | **Condiciona el precio**: el ticket debe quedar en $60.000-$100.000 |
 | Crecimiento de la población | Proyección DANE 2026-2033 | -0,18 % anual (1.010.995 → 998.638) | **Neutro/negativo**: el crecimiento depende del consumo per cápita y del turismo |
 | Turismo | Turistas extranjeros | 855.744 (2024) → 866.264 (2025), +1,22 %; 11,3 % viaja por gastronomía | **Positivo**: demanda adicional y de mayor gasto |
-| Precio de sustitutos | Comida rápida, típica y de mar | Comida rápida $22.000-$38.000; comida de mar $40.000-$70.000 | **Mixto**: la comida rápida compite en la salida con amigos |
-| Precio de complementarios | Bebidas, transporte, parqueo | Bebidas $7.000-$22.000; transporte $8.000-$20.000 | **Negativo leve**: suben el costo total de la salida |
+| Precio de sustitutos | Comida rápida, típica y de mar | Platos de mar (La Cevichería) $59.000-$290.000; menú ejecutivo formal ≈ $20.000 (ACODRES) | **Mixto**: el menú ejecutivo es más barato al mediodía; los platos de mar son más caros en la noche |
+| Precio de complementarios | Bebidas, transporte, parqueo | Bebidas $7.000-$16.000; sake $50.000 la botella (menú de Dame Ramen) | **Negativo leve**: suben el costo total de la salida |
 | Preferencias | Atributos más importantes | Frescura 90,5 %, atención y rapidez 90,5 %, precio 75,2 % (importante + muy importante, n = 105) | **Positivo** si se cumple la promesa de frescura y atención |
 | Insatisfacción con la oferta actual | Lo que menos gusta | Precios altos 67,0 %; porciones pequeñas 43,4 % | **Oportunidad**: precio justo y porción generosa |
 | Acción del Estado | Impuestos y regulación | Impoconsumo 8 %; controles DADIS; vedas AUNAP | **Negativo leve** en precio; **positivo** en confianza sanitaria |
@@ -130,9 +130,9 @@ Table: Tabla 24. Comportamiento histórico de las variables y demanda reconstrui
 
 | Año | Población Cartagena | Turistas extranjeros | Platos residentes | Platos turistas | Demanda total (platos) |
 |:----------|-------------------:|-------------------:|-------------------:|-----------------:|--------------------:|
-| 2024 | 1.010.408 | 855.744 | 883.463 | 66.504 | 949.966 |
-| 2025 | 1.011.520 | 866.264 | 884.435 | 67.321 | 951.756 |
-| 2026 | 1.010.995 | 876.913 | 883.976 | 68.149 | 952.125 |
+| 2024 | 1.010.408 | 855.744 | 872.934 | 66.504 | 939.438 |
+| 2025 | 1.011.520 | 866.264 | 873.895 | 67.321 | 941.216 |
+| 2026 | 1.010.995 | 876.913 | 873.441 | 68.149 | 941.590 |
 
 *Fuente: DANE; Migración Colombia; cálculo del equipo (2026 proyectado para turistas).*
 
@@ -145,26 +145,29 @@ Table: Tabla 25. Indicadores de contexto del sector
 | Cierres de restaurantes | ≈ 6.950 en 2024 frente a ≈ 3.500 en 2023 | ACODRES vía Portafolio (2025) | Alta competencia: la diferenciación es necesaria |
 | Pasajeros que llegaron a Cartagena | 5,5 millones (corte noviembre de 2025) | Corpoturismo vía El Universal (2025) | Gran flujo de visitantes |
 | Ocupación hotelera, 1.er trimestre 2025 | 70,7 % (69,5 % un año antes) | Cartagena Cómo Vamos (2025) | Turismo estable |
-| Precio del filete de salmón congelado | $56.463 por kg (oct. 2026) | SIPSA-DANE vía Agronegocios | Referencia para el costo del pescado importado; Kazegami usa pesca local |
+| Gasto en comidas fuera del hogar | +3,6 % anual (dic. 2024); gasto total de los hogares +2,02 % | Raddar vía Portafolio | Base del escenario de proyección |
+| Sushi Master (6 ciudades) | 480.397 piezas en 2025 frente a 438.898 en 2024 (+9,5 %) | Valora Analitik (dic. 2025) | Señal de crecimiento del consumo de sushi |
+| Restaurantes japoneses en Cartagena | 37 en la categoría japonesa; 7 ofrecen ramen | Tripadvisor (oct. 2026) | Oferta concentrada en sushi; poca oferta de ramen |
+| Precio del filete de salmón congelado | $56.463 por kg (oct. 2026) | SIPSA-DANE vía Agronegocios | Referencia; Kazegami usa pesca local (pargo a $21.000/kg en Bazurto) |
 
 
 ### Método de proyección
 
 1. **Residentes:** D_res(t) = D_res(2026) × [(1 + r_p)(1 + g)]^t, con r_p = -0,18 % anual (DANE) y g = crecimiento del consumo per cápita.
 2. **Turistas:** D_tur(t) = D_tur(2026) × [(1 + r_t)(1 + g)]^t, con r_t = 1,22 % anual (Migración Colombia 2024-2025).
-3. **Escenarios de g:** pesimista 1 %, **base 3 %** y optimista 5 % anual. El escenario base se sustenta en que el 34,0 % de los encuestados no ha probado estos platos pero está dispuesto a hacerlo, y en que el 82,9 % encuentra atractivo el concepto.
+3. **Escenarios de g (con fuente):** pesimista 2,02 % (crecimiento del gasto total de los hogares, Raddar, dic-2024); **base 3,6 %** (crecimiento del gasto en comidas fuera del hogar, Raddar, dic-2024); optimista 9,5 % (crecimiento de piezas de sushi vendidas en el Sushi Master 2024-2025, Valora Analitik). El escenario base se sustenta en que el 34,0 % de los encuestados no ha probado estos platos pero está dispuesto a hacerlo, y en que el 82,9 % encuentra atractivo el concepto.
 
 Table: Tabla 26. Proyección de la demanda total de los 3 platos (platos/año)
 
-| Año | Pesimista (g = 1 %) | Base (g = 3 %) | Optimista (g = 5 %) |
+| Año | Pesimista (g = 2,02 %) | Base (g = 3,6 %) | Optimista (g = 9,5 %) |
 |:--------------------|-----------------------------:|-----------------------------:|-----------------------------:|
-| 2026 | 952.125 | 952.125 | 952.125 |
-| 2027 | 960.925 | 979.953 | 998.982 |
-| 2028 | 969.819 | 1.008.608 | 1.048.158 |
-| 2029 | 978.809 | 1.038.115 | 1.099.770 |
-| 2030 | 987.895 | 1.068.500 | 1.153.938 |
-| 2031 | 997.080 | 1.099.788 | 1.210.792 |
-| Crecimiento anual compuesto | 0,93 % | 2,93 % | 4,92 % |
+| 2026 | 941.590 | 941.590 | 941.590 |
+| 2027 | 959.901 | 974.767 | 1.030.280 |
+| 2028 | 978.581 | 1.009.126 | 1.127.338 |
+| 2029 | 997.637 | 1.044.711 | 1.233.557 |
+| 2030 | 1.017.079 | 1.081.564 | 1.349.801 |
+| 2031 | 1.036.914 | 1.119.734 | 1.477.021 |
+| Crecimiento anual compuesto | 1,95 % | 3,53 % | 9,42 % |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -178,12 +181,12 @@ Table: Tabla 27. Proyección de la demanda por plato, escenario base (platos/añ
 
 | Año | Rollos de sushi | Ramen | Tempura | Total |
 |:--------------|-----------------------:|-----------------------:|-----------------------:|-----------------------:|
-| 2026 | 427.056 | 280.037 | 245.032 | 952.125 |
-| 2027 | 439.538 | 288.222 | 252.194 | 979.953 |
-| 2028 | 452.391 | 296.650 | 259.568 | 1.008.608 |
-| 2029 | 465.625 | 305.328 | 267.162 | 1.038.115 |
-| 2030 | 479.253 | 314.265 | 274.982 | 1.068.500 |
-| 2031 | 493.287 | 323.467 | 283.034 | 1.099.788 |
+| 2026 | 422.331 | 276.938 | 242.321 | 941.590 |
+| 2027 | 437.212 | 286.696 | 250.859 | 974.767 |
+| 2028 | 452.623 | 296.802 | 259.702 | 1.009.126 |
+| 2029 | 468.583 | 307.268 | 268.859 | 1.044.711 |
+| 2030 | 485.113 | 318.107 | 278.344 | 1.081.564 |
+| 2031 | 502.234 | 329.333 | 288.167 | 1.119.734 |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -193,7 +196,7 @@ Table: Tabla 27. Proyección de la demanda por plato, escenario base (platos/añ
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
-**Lectura.** En el escenario base la demanda pasa de 952.125 platos en 2026 a **1.099.788 en 2031** (+15,5 %). Los Rollos de sushi explican casi la mitad del consumo, lo que justifica que la barra de sushi sea el corazón del local.
+**Lectura.** En el escenario base la demanda pasa de 941.590 platos en 2026 a **1.119.734 en 2031** (+18,9 %). Los Rollos de sushi explican casi la mitad del consumo, lo que justifica que la barra de sushi sea el corazón del local.
 
 ## 4.4 Área de mercados
 
@@ -201,13 +204,13 @@ Table: Tabla 28. Segmentos, nichos y mercado meta
 
 | Nivel | Definición | Tamaño de referencia |
 |:--------------------|:----------------------------------------------------|:----------------------------------|
-| Mercado potencial | Adultos de Cartagena con capacidad de pago + turistas extranjeros que consumen cocina japonesa | 218.375 adultos + 87.691 turistas |
-| Mercado disponible | Adultos con disposición de pago ≥ $60.000 | 188.978 personas (952.125 platos/año) |
+| Mercado potencial | Adultos de Cartagena con capacidad de pago + turistas extranjeros que consumen cocina japonesa | 215.772 adultos + 87.691 turistas |
+| Mercado disponible | Adultos con disposición de pago ≥ $60.000 | 186.726 personas (941.590 platos/año) |
 | Segmento 1 | Adultos jóvenes residentes (18-35) que salen con amigos | Mayor volumen; sensibles al precio |
 | Segmento 2 | Parejas y familias de estratos 4 a 6 | Mayor ticket; ocasiones especiales |
 | Segmento 3 | Turistas y empresarios (segmento principal del Canvas) | 87.691 turistas/año que consumen cocina japonesa |
 | Nicho | Experiencia omakase por reserva | 19,8 % muy interesado y dispuesto a pagar precio premium |
-| **Mercado meta** | Participación de Kazegami en la demanda total (escenario base) | **3,0 % en 2027 → 4,3 % en 2031** |
+| **Mercado meta** | Participación de Kazegami en la demanda total (escenario base) | **3,0 % en 2027 → 4,2 % en 2031** |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -233,7 +236,7 @@ Table: Tabla 29. Población de referencia
 | Población de Cartagena 2026 | 1.010.995 | DANE (El Universal, 2025) |
 | Población de Cartagena 2033 | 998.638 | DANE (El Universal, 2025) |
 | Tasa de crecimiento anual 2026-2033 | -0,18 % | Cálculo del equipo |
-| Adultos de 18 años y más (2026) | 727.916 | 72 % de la población (supuesto con estructura DANE) |
+| Adultos de 18 años y más (2026) | 719.242 | 71,1 % de la población (DANE 2025) |
 | Encuestados residentes en Cartagena | 89 de 106 (84,0 %) | Encuesta |
 | Turistas extranjeros 2025 | 866.264 | Migración Colombia (El Universal, 2026) |
 

@@ -656,7 +656,8 @@ def main():
     with open(os.path.join(DATOS, "MODELO_PROYECCIONES.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(mo))
 
-    print(f"OK · {len(GRAFICAS)} gráficas en assets/graficas · RESUMEN_ENCUESTA.md y MODELO_PROYECCIONES.md en datos/")
+    M.escribir_fuentes(os.path.join(DATOS, "FUENTES_Y_VERIFICACION.md"))
+    print(f"OK · {len(GRAFICAS)} gráficas en assets/graficas · RESUMEN_ENCUESTA.md, MODELO_PROYECCIONES.md y FUENTES_Y_VERIFICACION.md en datos/")
 
 
 if __name__ == "__main__":

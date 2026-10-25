@@ -52,16 +52,16 @@ Cartagena de Indias, 25 de octubre de 2026
 
 # Introducción
 
-El **Estudio Técnico** de KAZEGAMI RESTAURANTE responde a cuatro preguntas: **dónde** se ubica el restaurante, **qué tamaño** debe tener, **cómo** se producen y se sirven los platos y **qué insumos, equipos y tecnología** se necesitan y cuánto cuestan. Toma como punto de partida los resultados del Estudio de Mercados (Taller No. 1): una demanda insatisfecha de **199.653 platos en 2027** y un portafolio enfocado en los tres platos más frecuentados de la encuesta: **Rollos de sushi, Ramen y Tempura**.
+El **Estudio Técnico** de KAZEGAMI RESTAURANTE responde a cuatro preguntas: **dónde** se ubica el restaurante, **qué tamaño** debe tener, **cómo** se producen y se sirven los platos y **qué insumos, equipos y tecnología** se necesitan y cuánto cuestan. Toma como punto de partida los resultados del Estudio de Mercados (Taller No. 1): una demanda insatisfecha de **333.187 platos en 2027** y un portafolio enfocado en los tres platos más frecuentados de la encuesta: **Rollos de sushi, Ramen y Tempura**.
 
 Table: Tabla 1. Datos de entrada que vienen del Estudio de Mercados
 
 | Variable | Valor | Uso en este estudio |
 |:--------------------------------|:-----------------------------------------------|:----------------------------|
 | Portafolio | Rollos de sushi (44,9 %), Ramen (29,4 %) y Tempura (25,7 %) | Procesos, recetas, insumos y costos |
-| Demanda insatisfecha 2027-2031 (base) | 199.653 → 255.166 platos/año | Tamaño del proyecto |
+| Demanda insatisfecha 2027-2031 (base) | 333.187 → 425.267 platos/año | Tamaño del proyecto |
 | Zona preferida por los encuestados | Centro Histórico (33), Manga (17), Bocagrande (10), Getsemaní (8) | Microlocalización |
-| Precios de venta | Rollos $40.000 · Ramen $38.000 · Tempura $34.000 | Validación de costos unitarios |
+| Precios de venta | Rollos $40.000 · Ramen $38.000 · Tempura $38.000 | Validación de costos unitarios |
 | Horario y servicio | Almuerzo y cena; experiencia 100 % en el local | Capacidad y rotación |
 
 

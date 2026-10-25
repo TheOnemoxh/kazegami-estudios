@@ -6,11 +6,11 @@ Table: Tabla 51. Conclusiones del estudio de mercado
 |:--------------------|:--------------------------------------------|:--------------------------------------------|
 | Aceptación | El mercado acepta la cocina japonesa | 96,2 % consume o probaría; 82,9 % encuentra atractivo el concepto |
 | Portafolio | Rollos de sushi, Ramen y Tempura concentran la preferencia | 61, 40 y 35 menciones; 77,7 % de las menciones a platos |
-| Demanda | La demanda actual es de ≈ 952 mil platos/año y llegaría a 1.100 mil en 2031 | Embudo con DANE, Migración Colombia y encuesta |
+| Demanda | La demanda actual es de ≈ 942 mil platos/año y llegaría a 1.120 mil en 2031 | Embudo con DANE, Migración Colombia y encuesta |
 | Oferta | La oferta crece más despacio (2 % anual) | ACODRES: alto número de cierres en 2024 |
-| Demanda insatisfecha | 200 mil platos en 2027 y 255 mil en 2031 (base) | Positiva en los tres escenarios |
-| Cuota de Kazegami | 14,7 % a 18,4 % de la demanda insatisfecha | Meta prudente y alcanzable |
-| Precio | Precios de $34.000 a $40.000 por plato; ticket de ≈ $55.000 | Por debajo de la competencia $$$ y dentro del rango modal de pago |
+| Demanda insatisfecha | 333 mil platos en 2027 y 425 mil en 2031 (base) | Positiva en los tres escenarios |
+| Cuota de Kazegami | 8,8 % a 11,0 % de la demanda insatisfecha | Meta prudente y alcanzable |
+| Precio | Precios de $38.000 a $40.000 por plato, por debajo del promedio real de la competencia; ticket de ≈ $57.000 | Por debajo de la competencia $$$ y dentro del rango modal de pago |
 | Comercialización | Canal directo; Instagram/TikTok, WhatsApp y alianzas hoteleras | 85,8 % busca en redes; 53,8 % reserva por WhatsApp |
 | Decisión | **El proyecto es comercialmente viable y pasa al Estudio Técnico** | — |
 
@@ -21,7 +21,11 @@ Agenda Colombia. (2026). *El mejor sushi en Cartagena*. https://agendacolombia.c
 
 Agronegocios. (2026, 24 de octubre). *Precio del filete de salmón congelado* [Datos SIPSA-DANE]. https://www.agronegocios.co/precios/filete-de-salmon-congelado
 
-Cartagena Cómo Vamos. (2025). *Turismo en Cartagena en el primer trimestre de 2025*. https://cartagenacomovamos.org/
+Cartagena Cómo Vamos. (2025). *Turismo en Cartagena en el primer trimestre de 2025*. https://cartagenacomovamos.org/turismo-en-cartagena-primer-trimestre-2025/
+
+Dame Ramen. (2026). *Menú* [Página web]. Recuperado el 24 de octubre de 2026 de https://dameramen.com/menu/
+
+El Universal. (2020, 8 de septiembre). *69 % de las viviendas en Cartagena pertenece a estratos 1 y 2*. https://www.eluniversal.com.co/cartagena/2020/09/08/69-de-las-viviendas-en-cartagena-pertenece-a-estratos-1-y-ii/
 
 Congreso de Colombia. (1979). *Ley 9 de 1979, por la cual se dictan medidas sanitarias*. Diario Oficial.
 
@@ -39,6 +43,8 @@ El Universal. (2025, 26 de diciembre). *Corpoturismo presenta balance 2025: 5,5 
 
 El Universal. (2026, 16 de marzo). *Los cinco países que más turistas le generaron a Cartagena durante 2025*. https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/
 
+La Cevichería Cartagena. (2026). *Carta* [Página web]. Recuperado el 24 de octubre de 2026 de https://lacevicheriacartagena.com/carta/
+
 La Carta. (2026). *Best sushi in Cartagena: Top 6*. https://lacarta.co/cartagena/gastronomy/best-sushi-in-cartagena/
 
 Miranda Miranda, J. J. (2005). *Gestión de proyectos: identificación, formulación, evaluación financiera, económica, social, ambiental* (5.ª ed.). MM Editores.
@@ -47,13 +53,27 @@ Ministerio de Salud y Protección Social. (2013). *Resolución 2674 de 2013, req
 
 Ministerio del Trabajo. (2025). *Decreto 1469 de 2025, por el cual se fija el salario mínimo mensual legal vigente para 2026*.
 
+Portafolio. (2025). *¿En qué gastaron más los hogares colombianos en el 2024?* [Datos de Raddar]. https://www.portafolio.co/economia/finanzas/en-que-gastaron-mas-los-hogares-colombianos-en-el-2024-622923
+
 Portafolio. (2025, 23 de febrero). *Acodres afirma que el año pasado se cerraron casi 7.000 restaurantes*. https://www.portafolio.co/negocios/empresas/acodres-afirma-que-el-ano-pasado-se-cerraron-casi-7-000-restaurantes-624468
 
 Portafolio. (2026). *Salario mínimo de 2026 sigue en $1.750.905*. https://www.portafolio.co/economia/gobierno/salario-minimo-de-2026-sigue-en-1-750-905-y-gobierno-descarta-devolucion-de-dinero-a-trabajadores-504218
 
 Sapag Chain, N., Sapag Chain, R., y Sapag P., J. M. (2014). *Preparación y evaluación de proyectos* (6.ª ed.). McGraw-Hill.
 
+Rappi. (2026). *Masaki Sushi Wok: precios y menú* [Página web]. Recuperado el 24 de octubre de 2026 de https://www.rappi.com.co/restaurantes/900039514-masaki-sushi-wok
+
+Rivers, C. (s.f.). *Cómo calcular el coste de los alimentos en tu restaurante*. Gordon Food Service. https://gfs.com/es-us/?p=5384
+
+Telencuestas. (2025). *Población de Cartagena de Indias en 2025* [Con base en proyecciones del DANE]. https://telencuestas.com/censos-de-poblacion/colombia/2025/bolivar/cartagena-de-indias
+
+Tripadvisor. (2026). *The 10 best Japanese restaurants in Cartagena* [37 resultados]. Recuperado el 24 de octubre de 2026 de https://www.tripadvisor.com/Restaurants-g297476-c27-Cartagena_Cartagena_District_Bolivar_Department.html
+
+Tripadvisor. (2026). *The best ramen in Cartagena* [7 resultados]. https://www.tripadvisor.in/Restaurants-g297476-zfd11722-Cartagena_Cartagena_District_Bolivar_Department-Ramen.html
+
 Tripadvisor. (2026). *The best sushi in Cartagena*. https://www.tripadvisor.com/Restaurants-g297476-c38-Cartagena_Cartagena_District_Bolivar_Department.html
+
+Valora Analitik. (2025, 4 de diciembre). *Sushi Master 2025 dejó más de $10.000 millones a Colombia*. https://www.valoraanalitik.com/?p=532819
 
 
 ```{=openxml}
@@ -63,20 +83,29 @@ Tripadvisor. (2026). *The best sushi in Cartagena*. https://www.tripadvisor.com/
 
 # Anexo A. Supuestos y limitaciones
 
-Table: Tabla 52. Supuestos del equipo usados en el estudio
+Table: Tabla 52. Estado de verificación de los datos usados en el estudio
 
-| Supuesto | Valor | Por qué | Cómo validarlo |
-|:-----------------------------|------------:|:--------------------------------|:--------------------------------|
-| Adultos sobre la población | 72 % | Estructura por edad del DANE (aprox.) | Tablas de proyección por edad del DANE |
-| Población con capacidad de pago (estratos 3 a 6) | 30 % | No se halló la distribución de ingresos de Cartagena en el plazo | Encuesta de Calidad de Vida / Cartagena Cómo Vamos |
-| Turistas extranjeros que consumen cocina japonesa | 10 % | 11,3 % viaja por gastronomía (Corpoturismo) | Encuesta a turistas |
-| Establecimientos oferentes | 45 | Conteo en directorios digitales | Censo con visita y Cámara de Comercio (CIIU 5611) |
-| Platos del Top 3 por oferente al día | 50 | Promedio entre locales grandes y pequeños | Observación en hora pico |
-| Crecimiento del consumo per cápita (base) | 3 % | Alta disposición a probar (34,0 %) | Ventas reales del primer año |
-| Precios de competidores y sustitutos | Rangos | Cartas digitales y nivel $ de guías | Visita y fotografía de cartas |
+| Dato | Valor | Estado | Fuente o base de la estimación |
+|:-------------------------------|:-------------------------|:-------------|:-------------------------------------|
+| Resultados de la encuesta (todas las preguntas) | n = 106 | Verificado | Excel de respuestas de Google Forms (datos primarios) |
+| Población de Cartagena 2024-2026 y 2033 | 1.010.408 / 1.011.520 / 1.010.995 / 998.638 | Verificado | DANE (El Universal, 2025) |
+| Adultos de 18 años y más | 71,1 % (719.615) | Verificado | DANE 2025 (Telencuestas) |
+| Viviendas en estratos 3 a 6 | 30 % | Verificado | Cartagena Cómo Vamos (El Universal, 2020; dato de 2019) |
+| Turistas extranjeros 2024 y 2025 | 855.744 y 866.264 | Verificado | Migración Colombia (El Universal, 2026) |
+| Turistas que consumen cocina japonesa | 10 % | Estimación | Aproximado al 11,3 % que viaja por gastronomía (Corpoturismo, 2025) |
+| Restaurantes japoneses en Cartagena | 37 (7 con ramen) | Verificado | Tripadvisor (oct. 2026) |
+| Platos del Top 3 por competidor al día | 50 | Estimación | No hay datos públicos de ventas; requiere observación de campo |
+| Crecimiento de la oferta | 2 % anual | Verificado | ACODRES: crecimiento de establecimientos en 2024 |
+| Crecimiento del consumo (escenarios) | 2,02 % / 3,6 % / 9,5 % | Verificado | Raddar (Portafolio, 2025); Sushi Master (Valora Analitik, 2025) |
+| Precios de la competencia | Rollos $40.000-$57.000; ramen $35.000-$69.000 | Verificado | Rappi y dameramen.com (oct. 2026) |
+| Precios de insumos | Ver Estudio Técnico, sección 6 | Verificado | SIPSA-DANE Cartagena y Global Gourmet Market (oct. 2026) |
+| Rendimiento del filete de pescado | 46 % | Estimación | Mancera (2024): 46,15 % en cachama; se asume similar para pargo |
+| Frecuencia anual por respuesta (ponderación) | 78 / 52 / 18 / 4 / 1 / 0 | Estimación | Conversión de las opciones de respuesta a veces por año |
+
+*Fuente: datos/FUENTES_Y_VERIFICACION.md del repositorio del proyecto.*
 
 
-**Limitaciones.** (1) La muestra es no probabilística y está concentrada en jóvenes de 18 a 25 años (86,8 %), por lo que sus resultados describen mejor al segmento joven que a los turistas o ejecutivos del Canvas. (2) El turismo nacional no se cuantificó. (3) Los precios de la competencia son referencias que deben verificarse.
+**Limitaciones.** (1) La muestra es no probabilística y está concentrada en jóvenes de 18 a 25 años (86,8 %), por lo que sus resultados describen mejor al segmento joven que a los turistas o ejecutivos del Canvas. (2) El turismo nacional no se cuantificó. (3) Solo dos competidores publican precios (Masaki y Dame Ramen); los demás deben cotizarse en visita. (4) Las ventas diarias de la competencia son una estimación.
 
 # Anexo B. Resumen del instrumento de encuesta aplicado
 

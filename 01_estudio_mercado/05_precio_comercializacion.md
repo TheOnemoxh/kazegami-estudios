@@ -12,24 +12,24 @@ Table: Tabla 40. Comparación de métodos de fijación de precios
 | Precio de penetración | Precio inicial bajo para ganar clientes | Atrae prueba | Reduce el margen | Solo en promociones de apertura |
 
 
-**Método adoptado: mixto.** (1) Se calcula el costo unitario con la receta estándar; (2) se fija un precio que deje un food cost cercano al 30 %; (3) se verifica que el precio quede por debajo de los competidores de gama $$$ y (4) que el ticket promedio del comensal (≈ 1,2 platos + bebida) quede dentro del rango de **$60.000 a $100.000**, el más votado en la encuesta.
+**Método adoptado: mixto.** (1) Se calcula el costo unitario con la receta estándar; (2) se fija un precio que deje un food cost dentro del rango de 28 % a 35 % que reporta Gordon Food Service para restaurantes rentables (Rivers, s.f.); (3) se verifica que el precio quede por debajo del promedio real de la competencia (Masaki y Dame Ramen) y (4) que el ticket promedio del comensal (≈ 1,2 platos + bebida) quede dentro del rango de **$60.000 a $100.000**, el más votado en la encuesta.
 
 Table: Tabla 41. Precios y costos unitarios de los 3 platos (COP, 2027)
 
 | Concepto | Rollos de sushi | Ramen | Tempura |
 |:-------------------------------------------|---------------------:|---------------------:|---------------------:|
-| Costo de materia prima por porción | $10.952 | $11.270 | $10.545 |
-| Servicios y depreciación de la línea por porción | $722 | $1.096 | $745 |
-| **Costo unitario total** | **$11.673** | **$12.366** | **$11.290** |
-| Precio con markup teórico (MP ÷ 30 %) + 8 % | $39.425 | $40.572 | $37.962 |
-| Rango de precio de la competencia ($$$) | $38.000 - $55.000 | $38.000 - $48.000 | $32.000 - $45.000 |
-| **Precio de venta Kazegami (con impoconsumo)** | **$40.000** | **$38.000** | **$34.000** |
-| Precio neto (sin impoconsumo 8 %) | $37.037 | $35.185 | $31.481 |
-| Food cost resultante | 29,6 % | 32,0 % | 33,5 % |
-| Margen de contribución por plato | $25.364 | $22.819 | $20.192 |
-| Margen de contribución (% del precio neto) | 68,5 % | 64,9 % | 64,1 % |
+| Costo de materia prima por porción | $9.255 | $12.120 | $11.953 |
+| Servicios y depreciación de la línea por porción | $681 | $1.070 | $735 |
+| **Costo unitario total** | **$9.936** | **$13.189** | **$12.687** |
+| Precio con markup teórico (MP ÷ 30 %) + 8 % | $33.318 | $43.630 | $43.030 |
+| Precio real de la competencia | Masaki: $40.000-$57.000 (prom. $49.550) | Dame Ramen: $35.000-$69.000 (prom. $45.667) | Masaki: $25.000 (solo vegetales) |
+| **Precio de venta Kazegami (con impoconsumo)** | **$40.000** | **$38.000** | **$38.000** |
+| Precio neto (sin impoconsumo 8 %) | $37.037 | $35.185 | $35.185 |
+| Food cost resultante | 25,0 % | 34,4 % | 34,0 % |
+| Margen de contribución por plato | $27.101 | $21.996 | $22.498 |
+| Margen de contribución (% del precio neto) | 73,2 % | 62,5 % | 63,9 % |
 
-*Fuente: Recetas estándar (Estudio Técnico, sección 6); competencia: rangos de referencia estimados por el equipo.*
+*Fuente: Recetas estándar con precios SIPSA-DANE y proveedores (Estudio Técnico, sección 6); competencia: Rappi y dameramen.com (oct. 2026).*
 
 
 Table: Tabla 42. Productos complementarios y precios de la carta
@@ -50,7 +50,7 @@ Table: Tabla 42. Productos complementarios y precios de la carta
 *Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
-**Ticket promedio esperado.** 1,2 platos × $37.868 (precio ponderado) + bebida de $10.000 ≈ **$55.441 por persona**, dentro del rango modal de la encuesta.
+**Ticket promedio esperado.** 1,2 platos × $38.897 (precio ponderado) + bebida de $10.000 ≈ **$56.676 por persona**, dentro del rango modal de la encuesta.
 
 # 7. Comercialización
 
@@ -67,7 +67,7 @@ Table: Tabla 43. Formas de almacenamiento por insumo
 
 | Insumo | Forma de almacenamiento | Temperatura | Vida útil máxima | Control |
 |:----------------------|:-----------------------|:-----------------|:-----------------|:-------------------------|
-| Atún aleta amarilla (para consumo crudo) | Porcionado al vacío; ultracongelado y luego refrigerado | −35 °C × 15 h; luego 0-4 °C | 48 h refrigerado tras descongelar | Registro de temperatura 3 veces al día; rotación PEPS |
+| Pargo rojo (para consumo crudo) | Porcionado al vacío; ultracongelado y luego refrigerado | −35 °C × 15 h; luego 0-4 °C | 48 h refrigerado tras descongelar | Registro de temperatura 3 veces al día; rotación PEPS |
 | Langostino | Bandejas GN tapadas | 0-4 °C (o −18 °C) | 48 h refrigerado / 3 meses congelado | Inspección de color y olor |
 | Caldo de ramen | Recipientes de 10 L con enfriamiento rápido | ≤ 4 °C | 72 h | Enfriamiento de 60 °C a 21 °C en menos de 2 h |
 | Carnes (panceta, huesos) | Bandejas cerradas en nevera de carnes | 0-4 °C | 72 h | Separación de crudos y cocidos |
@@ -82,7 +82,7 @@ Table: Tabla 44. Transporte de insumos
 
 | Tramo | Medio | Condición | Responsable |
 |:-------------------------------|:-------------------------------|:-------------------------|:------------------|
-| Bazurto / Mercado del Mar → local en Manga (≈ 3 km) | Vehículo del proveedor o furgón propio con neveras isotérmicas y hielo | Pescado a ≤ 4 °C; trayecto < 20 min | Proveedor / jefe de cocina |
+| Bazurto / Mercado del Mar → local en Manga (distancia corta, aprox.) | Vehículo del proveedor o furgón propio con neveras isotérmicas y hielo | Pescado a ≤ 4 °C; trayecto < 20 min | Proveedor / jefe de cocina |
 | Agricultores de Bolívar → local | Camión del proveedor | Canastillas plásticas, sombra | Proveedor |
 | Importador (Bogotá / Barranquilla) → local | Transportadora de carga nacional | Secos en caja, sin humedad | Importador |
 | Clientes → local | Vehículo propio, taxi, plataformas, a pie desde el Centro | Convenio con parqueadero cercano | Cliente |
@@ -108,7 +108,7 @@ Table: Tabla 46. Medios de pago y políticas de crédito
 
 | Medio de pago | Disponible | Observación |
 |:--------------------------------------|:-----------------|:----------------------------------------------------|
-| Tarjetas débito y crédito (datáfono) | Sí | Comisión bancaria de ≈ 2-3 % a cargo del restaurante |
+| Tarjetas débito y crédito (datáfono) | Sí | Comisión bancaria a cargo del restaurante (se negocia con el banco; estimación de ≈ 2,5 %) |
 | Pagos QR y billeteras (Bre-B, Nequi, Daviplata) | Sí | Liquidez inmediata |
 | Efectivo | Sí | Arqueo diario de caja |
 | Crédito directo al cliente | No | Servicio de consumo inmediato |
@@ -164,7 +164,7 @@ Table: Tabla 48. Canales de distribución y de comunicación
 
 Table: Tabla 49. Plan de marketing, redes sociales y alianzas turísticas
 
-| Acción | Canal | Público | Frecuencia | Presupuesto mensual (COP) | Indicador |
+| Acción | Canal | Público | Frecuencia | Presupuesto mensual (COP, definido por el equipo) | Indicador |
 |:---------------------------|:-----------------|:-----------------|:------------|----------------:|:----------------|
 | Videos cortos de la barra de sushi y del caldo de ramen | Instagram Reels y TikTok | Segmento 1 (18-35) | 4 por semana | $800.000 (pauta) | Alcance y mensajes de reserva |
 | Pauta geolocalizada (radio 5 km) | Meta Ads | Residentes de Manga, Centro y Bocagrande | Permanente | $700.000 | Costo por reserva |
@@ -185,7 +185,7 @@ Table: Tabla 50. Costos de comercialización (mensual y anual)
 | Programa de fidelización | $200.000 | $2.400.000 |
 | **Total marketing (igual a la partida de OPEX del Estudio Técnico)** | **$2.500.000** | **$30.000.000** |
 | Plataforma de reservas + WhatsApp Business API | $150.000 | $1.800.000 |
-| Comisión de datáfonos (≈ 2,5 % de las ventas con tarjeta, estimado) | $1.200.000 | $14.400.000 |
+| Comisión de datáfonos (≈ 2,5 % de las ventas con tarjeta, **estimación**) | $1.200.000 | $14.400.000 |
 
 
 ![Figura 28. Probabilidad de visitar Kazegami en la zona elegida](assets/graficas/g21_probabilidad_visita.png){width=14cm}
