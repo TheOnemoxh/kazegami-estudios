@@ -29,7 +29,7 @@ Table: Tabla 41. Precios y costos unitarios de los 3 platos (COP, 2027)
 | Margen de contribución por plato | $25.364 | $22.819 | $20.192 |
 | Margen de contribución (% del precio neto) | 68,5 % | 64,9 % | 64,1 % |
 
-*Nota.* Recetas estándar (Estudio Técnico, sección 6); competencia: rangos de referencia estimados por el equipo.
+*Fuente: Recetas estándar (Estudio Técnico, sección 6); competencia: rangos de referencia estimados por el equipo.*
 
 
 Table: Tabla 42. Productos complementarios y precios de la carta
@@ -42,12 +42,12 @@ Table: Tabla 42. Productos complementarios y precios de la carta
 | Cerveza japonesa / sake | $16.000 - $35.000 | Pedido espontáneo: cerveza Asahi |
 | Postres japoneses | $14.000 | Pedido espontáneo: postres |
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 24. Precio que pagarían por una experiencia omakase](assets/graficas/g17_omakase_precio.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 **Ticket promedio esperado.** 1,2 platos × $37.868 (precio ponderado) + bebida de $10.000 ≈ **$55.441 por persona**, dentro del rango modal de la encuesta.
@@ -58,7 +58,7 @@ La comercialización de Kazegami se diseña para un **canal directo** (del resta
 
 ![Figura 25. Cadena de abastecimiento y canal de distribución directo](assets/diagramas/d06_canal_distribucion.png){width=15.5cm}
 
-*Nota.* Elaboración propia con base en el Modelo Canvas.
+*Fuente: Elaboración propia con base en el Modelo Canvas.*
 
 
 ## 7.1 Almacenamiento y cadena de frío
@@ -130,12 +130,12 @@ Table: Tabla 47. Protocolo de atención y reservas
 | 6. Seguimiento | Verificación de satisfacción a los 2 minutos de servir | — |
 | 7. Cierre | Factura electrónica, invitación a reseña en Google Maps y registro en fidelización | < 5 min |
 
-*Nota.* Encuesta (medio de reserva, n = 106); Canvas (relación con clientes).
+*Fuente: Encuesta (medio de reserva, n = 106); Canvas (relación con clientes).*
 
 
 ![Figura 26. Medio preferido para reservar una mesa](assets/graficas/g20_reserva.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ## 7.6 Canales de distribución
@@ -152,12 +152,12 @@ Table: Tabla 48. Canales de distribución y de comunicación
 | Hoteles y agencias turísticas | Alianza (intermediario sin venta) | Recomendación a huéspedes y turistas | Canvas (socios clave) |
 | TripAdvisor | Turistas extranjeros | Reseñas en inglés | Canvas |
 
-*Nota.* Encuesta (n = 106, selección múltiple) y Canvas.
+*Fuente: Encuesta (n = 106, selección múltiple) y Canvas.*
 
 
 ![Figura 27. Dónde buscan recomendaciones de restaurantes los encuestados](assets/graficas/g19_canales_busqueda.png){width=15cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ## 7.7 Mecanismos de promoción y publicidad
@@ -190,7 +190,7 @@ Table: Tabla 50. Costos de comercialización (mensual y anual)
 
 ![Figura 28. Probabilidad de visitar Kazegami en la zona elegida](assets/graficas/g21_probabilidad_visita.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 **Lectura final.** El **74,0 %** de los encuestados visitaría Kazegami de forma probable o muy probable y solo 2 personas lo descartan. La estrategia comercial se apoya en lo que el mercado ya usa: Instagram/TikTok para descubrir, WhatsApp para reservar y la recomendación de amigos para volver.

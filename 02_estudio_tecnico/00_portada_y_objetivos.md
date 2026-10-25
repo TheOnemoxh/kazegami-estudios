@@ -1,31 +1,54 @@
 ::: {custom-style="Portada"}
-&nbsp;
+UNIVERSIDAD DE CARTAGENA
 
-&nbsp;
+FACULTAD DE INGENIERÍAS
 
-&nbsp;
+PROGRAMA DE INGENIERÍA DE SISTEMAS
 
-**Estudio Técnico de Kazegami Restaurante: Cocina Japonesa con Insumos Locales en Cartagena de Indias**
+SEMINARIO TALLER CREACIÓN DE EMPRESAS
+:::
 
-Taller No. 2
+::: {custom-style="PortadaTitulo"}
+TALLER No. 2
 
-&nbsp;
+ESTUDIO TÉCNICO
 
-Adrian Alberto Angulo Melgarejo, Samuel David Molina Romero, Edwin Esteban Cañas Jurado, Alejandro Jose Vergara Parra y Carlos Arturo Rodriguez Cochero
+KAZEGAMI RESTAURANTE
+:::
 
-Facultad de Ingenierías, Programa de Ingeniería de Sistemas, Universidad de Cartagena
+::: {custom-style="PortadaSub"}
+"El espíritu de la brisa marina": restaurante de cocina japonesa en Cartagena de Indias con técnica 100 % japonesa e insumos locales de la pesca artesanal del Caribe y de los agricultores de Bolívar
+:::
 
-Seminario Taller Creación de Empresas
+::: {custom-style="Portada"}
+Presentado a:
 
 Profesora Carla del Carmen de Ávila Altamiranda
 
-25 de octubre de 2026
+cdeavilaa@unicartagena.edu.co
+:::
+
+::: {custom-style="PortadaSub"}
+Integrantes:
+
+Adrian Alberto Angulo Melgarejo
+
+Samuel David Molina Romero
+
+Edwin Esteban Cañas Jurado
+
+Alejandro Jose Vergara Parra
+
+Carlos Arturo Rodriguez Cochero
+:::
+
+::: {custom-style="Portada"}
+Cartagena de Indias, 25 de octubre de 2026
 :::
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
-
 
 # Introducción
 

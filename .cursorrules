@@ -7,7 +7,6 @@
 4. Tablas de insumos con el formato de Punto6EstudioTecnicoImg/: Insumos | Cantidad por mes | Proveedor (precio · calidad · postventa) | Precio | Total | Identificación del elemento | Total final. Activos por depreciación = valor ÷ (vida útil × 12). Costo unitario = total final ÷ unidades del mes.
 5. Tablas y gráficos antes que párrafos. Texto corto que introduce y analiza.
 6. COP de Cartagena (oct. 2026), formato $1.234.567 y 12,5 %. Español formal. Sin copiar el ejemplo de otro grupo.
-7. Markdown: "Table: Tabla N. Título" antes de cada tabla; "![Figura N. Título](ruta){width=15.5cm}" para figuras; "*Nota.* ..." debajo de ambas (APA 7, nunca "Fuente:"). Sin HTML ni LaTeX.
-10. Normas APA 7 en todo: Times New Roman 12, doble espacio, títulos y tablas en negro (nada de azul), tablas solo con líneas horizontales, citas (Autor, año) que aparezcan en Referencias (orden alfabético, sangría francesa). El formato lo aplica scripts/compilar_word.py; no se cambia a mano.
+7. Markdown: "Table: Tabla N. Título" antes de cada tabla; "![Figura N. Título](ruta){width=15.5cm}" para figuras; "*Fuente: ...*" debajo de ambas. Sin HTML ni LaTeX.
 8. Si cambias un número: modelo_kazegami.py → python scripts/analizar_encuesta.py → actualizar los .md → python scripts/compilar_word.py (debe decir TODO OK).
 9. No tocar las 5 carpetas de insumos originales ni entregables_word/ a mano.

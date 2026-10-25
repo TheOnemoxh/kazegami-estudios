@@ -26,7 +26,7 @@ Table: Tabla 28. Ejemplo del modelo visto en clase y su equivalente en Kazegami
 | Unidades del mes | 400 unidades | 1.097 rollos |
 | Costo unitario | $6.877.000 ÷ 400 = $17.192,5 | $12.806.982 ÷ 1.097 = $11.673 |
 
-*Nota.* Punto6EstudioTecnicoImg (tablero de clase) y cálculos del equipo.
+*Fuente: Punto6EstudioTecnicoImg (tablero de clase) y cálculos del equipo.*
 
 
 La vida útil de 10 años corresponde a la tasa de depreciación del 10 % anual para maquinaria, equipo y muebles (Decreto 1625 de 2016).
@@ -86,7 +86,7 @@ Table: Tabla 30. Insumos y costos para Rollos de sushi (formato Punto 6, mes pro
 | **Unidades producidas al mes (2027)** | **1.097 rollos** |  |  |  |  |  |
 | **Costo unitario = $12.806.982 ÷ 1.097** |  |  |  |  |  | **$11.673** |
 
-*Nota.* Recetas estándar del equipo; precios de referencia de octubre de 2026 en Cartagena (SIPSA-DANE, plaza de Bazurto y mayoristas), a confirmar con cotización.
+*Fuente: Recetas estándar del equipo; precios de referencia de octubre de 2026 en Cartagena (SIPSA-DANE, plaza de Bazurto y mayoristas), a confirmar con cotización.*
 
 
 ## 6.3 Tabla de insumos y costos para Ramen
@@ -137,7 +137,7 @@ Table: Tabla 32. Insumos y costos para Ramen (formato Punto 6, mes promedio de 2
 | **Unidades producidas al mes (2027)** | **719 porciones** |  |  |  |  |  |
 | **Costo unitario = $8.896.619 ÷ 719** |  |  |  |  |  | **$12.366** |
 
-*Nota.* Recetas estándar del equipo; precios de referencia de octubre de 2026 en Cartagena (SIPSA-DANE, plaza de Bazurto y mayoristas), a confirmar con cotización.
+*Fuente: Recetas estándar del equipo; precios de referencia de octubre de 2026 en Cartagena (SIPSA-DANE, plaza de Bazurto y mayoristas), a confirmar con cotización.*
 
 
 ## 6.4 Tabla de insumos y costos para Tempura
@@ -183,7 +183,7 @@ Table: Tabla 34. Insumos y costos para Tempura (formato Punto 6, mes promedio de
 | **Unidades producidas al mes (2027)** | **630 porciones** |  |  |  |  |  |
 | **Costo unitario = $7.106.890 ÷ 630** |  |  |  |  |  | **$11.290** |
 
-*Nota.* Recetas estándar del equipo; precios de referencia de octubre de 2026 en Cartagena (SIPSA-DANE, plaza de Bazurto y mayoristas), a confirmar con cotización.
+*Fuente: Recetas estándar del equipo; precios de referencia de octubre de 2026 en Cartagena (SIPSA-DANE, plaza de Bazurto y mayoristas), a confirmar con cotización.*
 
 
 Table: Tabla 35. Resumen de costos unitarios de los 3 platos (2027)
@@ -201,7 +201,7 @@ Table: Tabla 35. Resumen de costos unitarios de los 3 platos (2027)
 
 ![Figura 11. Estructura de costo unitario y precio por plato](assets/graficas/g34_estructura_precio.png){width=14cm}
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 ## 6.5 Tabla consolidada de costos de insumos (mensual y anual)
@@ -216,12 +216,12 @@ Table: Tabla 36. Consolidado de costos de materia prima según la producción pr
 | 2030 | 42.855 | $210.508.333 | $142.052.787 | $116.300.205 | **$468.861.324** | $39.071.777 |
 | 2031 | 46.965 | $230.694.064 | $155.674.287 | $127.452.279 | **$513.820.630** | $42.818.386 |
 
-*Nota.* Recetas estándar × capacidad utilizada (sección 3).
+*Fuente: Recetas estándar × capacidad utilizada (sección 3).*
 
 
 ![Figura 12. Costo anual de insumos por plato 2027-2031](assets/graficas/g35_costo_insumos_anual.png){width=15.5cm}
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 ## 6.6 Costos de maquinaria y equipos de cocina, refrigeración y barra
@@ -254,7 +254,7 @@ Table: Tabla 37. Presupuesto de maquinaria y equipos
 | Planta eléctrica diésel 20 kVA (respaldo de cadena de frío) | 1 | $32.000.000 | $32.000.000 | Respaldo | $266.667 |
 | **Total maquinaria y equipos** |  |  | **$181.670.000** |  | **$1.513.917** |
 
-*Nota.* Precios de referencia de proveedores de equipos industriales en Colombia (oct. 2026), a confirmar con tres cotizaciones.
+*Fuente: Precios de referencia de proveedores de equipos industriales en Colombia (oct. 2026), a confirmar con tres cotizaciones.*
 
 
 Table: Tabla 38. Equipos por área
@@ -293,7 +293,7 @@ Table: Tabla 39. Presupuesto de mobiliario, adecuación y tecnología (hardware)
 | Kit de cámaras de seguridad (4 cámaras + grabador) | 1 | $2.200.000 | $2.200.000 | Tecnología | 5 años | $36.667 |
 | **Total** |  |  | **$174.640.000** |  |  | **$2.437.000** |
 
-*Nota.* Cotizaciones de referencia del equipo (oct. 2026).
+*Fuente: Cotizaciones de referencia del equipo (oct. 2026).*
 
 
 Table: Tabla 40. Software y plataformas (gasto anual)
@@ -324,7 +324,7 @@ Table: Tabla 41. Resumen de la inversión técnica inicial
 
 ![Figura 13. Distribución de la inversión técnica](assets/graficas/g32_distribucion_capex.png){width=15.5cm}
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 Table: Tabla 42. Costos de operación mensuales de referencia (2027)
@@ -347,12 +347,12 @@ Table: Tabla 42. Costos de operación mensuales de referencia (2027)
 | Depreciación de equipos, mobiliario, adecuación y tecnología | $3.950.917 | Fijo (no desembolsable) |
 | **Total mensual** | **$96.260.611** |  |
 
-*Nota.* Elaboración propia; valores de referencia a octubre de 2026.
+*Fuente: Elaboración propia; valores de referencia a octubre de 2026.*
 
 
 ![Figura 14. Distribución de los costos de operación mensuales](assets/graficas/g33_distribucion_opex.png){width=15.5cm}
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 **Lectura.** La inversión técnica inicial suma **$389.371.491**, de la cual la maquinaria y los equipos representan el 46,7 % (con el ultracongelador y la planta eléctrica como partidas clave para la inocuidad y la continuidad de la cadena de frío) y la adecuación del local el 31,5 %. En la operación, la nómina y los insumos de los tres platos son los costos más altos; el costo de materia prima por plato ($10.545 a $11.270) deja un food cost de 30 % a 33 %, dentro del rango habitual del sector (28-35 %).

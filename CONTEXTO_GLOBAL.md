@@ -111,9 +111,8 @@ La segunda foto lista los **factores de la oferta**: 1. costos e insumos, 2. tec
 ## 8. Estilo de redacción
 
 - **Tablas y gráficos > texto plano.** El texto solo introduce y analiza (párrafos cortos con **Lectura.**).
-- **Normas APA 7.ª edición (trabajo de estudiante):** portada APA, Times New Roman 12, interlineado doble, márgenes de 2,54 cm, sangría de 1,27 cm, número de página arriba a la derecha, títulos en **negro** (nivel 1 centrado y negrita; nivel 2 a la izquierda y negrita; nivel 3 negrita y cursiva).
-- Cada tabla: `Table: Tabla N. Título` + `*Nota.* ...` debajo. En Word queda "Tabla N" en negrita, el título en cursiva y solo líneas horizontales, sin colores. Cada figura: `![Figura N. Título](ruta){width=15.5cm}` + `*Nota.* ...`; las gráficas no llevan título dibujado.
+- Cada tabla: `Table: Tabla N. Título` + fuente en cursiva debajo. Cada figura: `![Figura N. Título](ruta){width=15.5cm}` + fuente.
 - Español formal, tercera persona, números con formato colombiano: $1.234.567 y 12,5 %.
 - Moneda COP de octubre de 2026 (Cartagena). Proyecciones 2027-2031 a precios constantes.
-- Referencias en APA 7 (orden alfabético, sangría francesa, bloque `Referencia`); en el texto se cita (Autor, año). Nada de copiar texto del ejemplo (plagio = 1,5).
+- Referencias en APA 7. Nada de copiar texto del ejemplo (plagio = 1,5).
 - Supuestos siempre marcados como "supuesto del equipo".

@@ -46,7 +46,7 @@ def flujo(nombre: str, titulo: str, pasos: list[tuple[str, str]]):
     lineas = [
         "digraph G {",
         'graph [rankdir=TB, splines=ortho, nodesep=0.35, ranksep=0.28, bgcolor="white", fontname="Liberation Sans", '
-        'pad=0.3, dpi=300];',  # APA: el título va en el documento
+        f'label=<<B>{titulo}</B>>, labelloc=t, fontsize=18, pad=0.3, dpi=300];',
         'node [fontname="Liberation Sans", fontsize=11, width=3.2, height=0.55, style="filled,rounded", penwidth=1.6, margin="0.12,0.06"];',
         'edge [color="#52514e", penwidth=1.3, arrowsize=0.8];',
     ]
@@ -186,7 +186,9 @@ def layout_local():
     ax.set_ylim(-0.6, 11.6)
     ax.set_aspect("equal")
     ax.axis("off")
-    fig.text(0.01, 0.06, "Local de ≈ 200 m² (20 m × 10 m), escala aproximada. Flujo unidireccional: proveedores → almacén → preparación → cocina/barra → salón.", fontsize=7.5, color="#52514e")
+    ax.set_title("Distribución en planta del local Kazegami (≈ 200 m², 20 m × 10 m)", loc="left", fontsize=12, fontweight="bold")
+    fig.text(0.01, 0.06, "Escala aproximada. Flujo unidireccional: proveedores → almacén → preparación → cocina/barra → salón. "
+             "Elaboración propia.", fontsize=7.5, color="#52514e")
     fig.savefig(os.path.join(OUT, "d05_layout_local.png"), dpi=300, bbox_inches="tight", facecolor="white")
     plt.close(fig)
     return [(z[0].replace("\n", " "), round(z[3] * z[4], 1)) for z in zonas]
@@ -196,7 +198,7 @@ def canal_distribucion():
     dot = r'''
 digraph G {
 graph [rankdir=LR, bgcolor="white", fontname="Liberation Sans", nodesep=0.25, ranksep=0.6, dpi=300,
-       pad=0.3];
+       label=<<B>Cadena de abastecimiento y canal de distribución directo de Kazegami</B>>, labelloc=t, fontsize=16, pad=0.3];
 node [fontname="Liberation Sans", fontsize=11, shape=box, style="filled,rounded", penwidth=1.4, margin="0.15,0.08"];
 edge [color="#52514e", penwidth=1.3];
 subgraph cluster_p { label=<<B>Proveedores (socios clave)</B>>; style="rounded,dashed"; color="#b8b6ae"; fontsize=12;

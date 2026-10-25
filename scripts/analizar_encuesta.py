@@ -76,13 +76,7 @@ GRAFICAS: list[tuple[str, str]] = []  # (archivo, título) para el índice
 
 
 def guardar(fig, nombre: str, titulo: str, fuente: str = FUENTE_ENC):
-    # APA 7: el número, el título y la nota de la figura van en el documento (Markdown),
-    # no dentro de la imagen. Se quitan el título y el subtítulo dibujados por matplotlib.
-    for ax in fig.axes:
-        ax.set_title("")
-        for t in list(ax.texts):
-            if t.get_transform() == ax.transAxes and t.get_position()[1] >= 1.0:
-                t.remove()
+    # La fuente se escribe como pie de figura en el documento (Markdown), no dentro de la imagen.
     fig.tight_layout()
     ruta = os.path.join(GRAF, nombre)
     fig.savefig(ruta)

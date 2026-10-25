@@ -40,12 +40,12 @@ Table: Tabla 22. Disponibilidad de los insumos de Rollos de sushi, Ramen y Tempu
 | Azúcar y sal | Nacional | 92,2 kg | Alta | Mercado local / nacional | — |
 | Ajonjolí tostado | Nacional | 39,5 kg | Alta | Mercado local / nacional | — |
 
-*Nota.* Recetas estándar × unidades de la capacidad utilizada 2027.
+*Fuente: Recetas estándar × unidades de la capacidad utilizada 2027.*
 
 
 ![Figura 10. Origen de la materia prima (participación en el costo)](assets/graficas/g36_origen_insumos.png){width=14cm}
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 **Lectura.** El **48 %** del costo de la materia prima es local (pesca artesanal del Caribe y agro de Bolívar), en línea con la propuesta de valor "del mar directo al plato". Los insumos japoneses importados (46 % del costo) son de baja perecibilidad, por lo que se compran cada mes y se mantiene un stock de seguridad de 30 días para cubrir retrasos.
@@ -90,7 +90,7 @@ Table: Tabla 24. Ficha técnica de maquinaria y equipos
 | Vajilla japonesa | Cerámica para 60 comensales | 1 | Sala | Uso general en los 3 platos | 10 años |
 | Planta eléctrica diésel 20 kVA | Diésel 20 kVA con transferencia automática | 1 | Respaldo | Respaldo de la cadena de frío ante cortes de Afinia | 10 años |
 
-*Nota.* Especificaciones de referencia de proveedores de equipos de cocina industrial en Colombia.
+*Fuente: Especificaciones de referencia de proveedores de equipos de cocina industrial en Colombia.*
 
 
 ## 5.3 Tecnología
@@ -123,4 +123,4 @@ Table: Tabla 26. Personal requerido para operar la capacidad instalada
 | Administrador(a) | 1 | $3.800.000 | $5.776.000 |
 | **Total** | **12** |  | **$44.603.204** |
 
-*Nota.* SMMLV 2026 $1.750.905; factor prestacional 1,52; auxilio de transporte para salarios ≤ 2 SMMLV.
+*Fuente: SMMLV 2026 $1.750.905; factor prestacional 1,52; auxilio de transporte para salarios ≤ 2 SMMLV.*

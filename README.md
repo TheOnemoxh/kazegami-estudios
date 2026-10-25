@@ -89,4 +89,3 @@ Al abrir cada Word, acepta **"Actualizar campos"** para que aparezca la tabla de
 2. Ninguna estadística inventada: encuesta → `datos/RESUMEN_ENCUESTA.md`; modelo → `scripts/modelo_kazegami.py`.
 3. Tablas de insumos con el formato del Punto 6 (ver `CONTEXTO_GLOBAL.md`, sección 6).
 4. Tablas y gráficas antes que texto.
-5. Normas APA 7 (Times New Roman 12, doble espacio, títulos y tablas en negro, notas con *Nota.*). El formato lo aplica el compilador automáticamente.

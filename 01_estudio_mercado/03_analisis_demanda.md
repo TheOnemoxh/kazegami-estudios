@@ -8,12 +8,12 @@ La demanda actual es la cantidad de platos (Rollos de sushi, Ramen y Tempura) qu
 
 ![Figura 5. Aceptación de la comida japonesa y los mariscos](assets/graficas/g01_aceptacion.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 6. Frecuencia de consumo de sushi o ramen](assets/graficas/g04_frecuencia.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 Table: Tabla 19. Frecuencia de consumo y ponderación anual
@@ -29,12 +29,12 @@ Table: Tabla 19. Frecuencia de consumo y ponderación anual
 | Sin respuesta | 1 | 0,9 % | — | — |
 | **Total / promedio** | **106** | **100,0 %** | **6,02 por persona** | **632** |
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 7. Disposición de pago por una cena completa en Kazegami](assets/graficas/g14_disposicion_pago.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 Table: Tabla 20. Disposición de pago por una cena completa (capacidad de pago)
@@ -47,7 +47,7 @@ Table: Tabla 20. Disposición de pago por una cena completa (capacidad de pago)
 | $60.000 a $100.000 | 54 | 51,9 % | 86,5 % |
 | Menos de $60.000 | 14 | 13,5 % | 100,0 % |
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 **Lectura.** El **86,5 %** de quienes respondieron pagaría $60.000 o más por una cena completa. Como el ticket promedio esperado en Kazegami (1,2 platos más una bebida) ronda los $55.000-$60.000, esa proporción se usa como filtro de capacidad de pago.
@@ -69,7 +69,7 @@ Table: Tabla 21. Embudo de la demanda actual de los 3 platos en Cartagena (2026)
 | 9. Platos del Top 3 (turistas) | Paso 8 × 77,7 % × 1 plato | 68.149 platos |
 | **10. Demanda actual total** | **Paso 6 + paso 9** | **952.125 platos/año** |
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 Table: Tabla 22. Demanda actual 2026 desglosada por plato
@@ -81,7 +81,7 @@ Table: Tabla 22. Demanda actual 2026 desglosada por plato
 | Tempura | 25,7 % | 245.032 | 20.419 | 671 |
 | **Total** | **100,0 %** | **952.125** | **79.344** | **2.609** |
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 **Lectura.** La ciudad consume hoy cerca de **952 mil platos al año** de los tres productos, equivalentes a unos 2.609 platos diarios. El 92,8 % corresponde a residentes y el 7,2 % a turistas extranjeros; el turismo nacional no se incluyó por falta de una cifra oficial confiable, lo que hace la estimación **conservadora**.
@@ -103,17 +103,17 @@ Table: Tabla 23. Factores que condicionan el consumo de los 3 platos en Cartagen
 | Acción del Estado | Impuestos y regulación | Impoconsumo 8 %; controles DADIS; vedas AUNAP | **Negativo leve** en precio; **positivo** en confianza sanitaria |
 | Estacionalidad | Temporadas turísticas | Diciembre-enero, Semana Santa, junio-julio y puentes festivos | Picos de demanda; exige reservas y personal flexible |
 
-*Nota.* DANE (2025); Decreto 1469 de 2025; Migración Colombia vía El Universal (2026); Corpoturismo (2025); encuesta (n = 106).
+*Fuente: DANE (2025); Decreto 1469 de 2025; Migración Colombia vía El Universal (2026); Corpoturismo (2025); encuesta (n = 106).*
 
 
 ![Figura 8. Importancia de los atributos al elegir restaurante](assets/graficas/g12_importancia_atributos.png){width=15.5cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 9. Cruce entre frecuencia de consumo y disposición de pago](assets/graficas/g22_cruce_frecuencia_pago.png){width=15cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 **Lectura del cruce.** Los consumidores ocasionales (*unas pocas veces al año*) son el grupo más numeroso y se concentran en el rango de $60.000 a $150.000; incluso quienes *nunca han probado* el sushi muestran disposición a pagar $60.000 o más (19 de 26). Esto confirma que la barrera no es el gasto sino la **frecuencia**, que se puede aumentar con precio justo, porciones generosas y menú ejecutivo.
@@ -134,7 +134,7 @@ Table: Tabla 24. Comportamiento histórico de las variables y demanda reconstrui
 | 2025 | 1.011.520 | 866.264 | 884.435 | 67.321 | 951.756 |
 | 2026 | 1.010.995 | 876.913 | 883.976 | 68.149 | 952.125 |
 
-*Nota.* DANE; Migración Colombia; cálculo del equipo (2026 proyectado para turistas).
+*Fuente: DANE; Migración Colombia; cálculo del equipo (2026 proyectado para turistas).*
 
 
 Table: Tabla 25. Indicadores de contexto del sector
@@ -166,12 +166,12 @@ Table: Tabla 26. Proyección de la demanda total de los 3 platos (platos/año)
 | 2031 | 997.080 | 1.099.788 | 1.210.792 |
 | Crecimiento anual compuesto | 0,93 % | 2,93 % | 4,92 % |
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 ![Figura 10. Demanda histórica y proyectada 2027-2031 por escenario](assets/graficas/g25_proyeccion_demanda_escenarios.png){width=15.5cm}
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 Table: Tabla 27. Proyección de la demanda por plato, escenario base (platos/año)
@@ -185,12 +185,12 @@ Table: Tabla 27. Proyección de la demanda por plato, escenario base (platos/añ
 | 2030 | 479.253 | 314.265 | 274.982 | 1.068.500 |
 | 2031 | 493.287 | 323.467 | 283.034 | 1.099.788 |
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 ![Figura 11. Proyección de la demanda por plato (escenario base)](assets/graficas/g26_proyeccion_demanda_platos.png){width=15.5cm}
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 **Lectura.** En el escenario base la demanda pasa de 952.125 platos en 2026 a **1.099.788 en 2031** (+15,5 %). Los Rollos de sushi explican casi la mitad del consumo, lo que justifica que la barra de sushi sea el corazón del local.
@@ -209,17 +209,17 @@ Table: Tabla 28. Segmentos, nichos y mercado meta
 | Nicho | Experiencia omakase por reserva | 19,8 % muy interesado y dispuesto a pagar precio premium |
 | **Mercado meta** | Participación de Kazegami en la demanda total (escenario base) | **3,0 % en 2027 → 4,3 % en 2031** |
 
-*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
+*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 ![Figura 12. Ocasión de consumo más frecuente](assets/graficas/g05_ocasion.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 13. Cruce entre ocasión de consumo y probabilidad de visita](assets/graficas/g23_cruce_ocasion_visita.png){width=15.5cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ### 4.4.1 Población
@@ -240,7 +240,7 @@ Table: Tabla 29. Población de referencia
 
 ![Figura 14. Perfil de los encuestados según residencia](assets/graficas/g02_residencia.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ### 4.4.2 Ingresos
@@ -255,29 +255,29 @@ Table: Tabla 30. Ingresos y capacidad de gasto del mercado
 | Disposición de pago por menú ejecutivo | 51,9 % entre $20.000 y $30.000 | Menú ejecutivo de ramen a $28.000 al mediodía |
 | Disposición de pago por omakase | 46,2 % entre $100.000 y $200.000 | Omakase por reserva a $150.000 (complementario) |
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 15. Gasto por persona en la última salida a comer](assets/graficas/g09_gasto_historico.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 16. Precio dispuesto a pagar por un menú ejecutivo](assets/graficas/g15_menu_ejecutivo.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ### 4.4.3 Zona de influencia
 
 ![Figura 17. Zonas de Cartagena donde los encuestados han comido cocina japonesa o asiática](assets/graficas/g10_zonas_consumo.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 18. Zona preferida por los encuestados para ubicar Kazegami](assets/graficas/g18_zona_preferida.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 Table: Tabla 31. Zona de influencia según las zonas votadas en la encuesta
@@ -291,7 +291,7 @@ Table: Tabla 31. Zona de influencia según las zonas votadas en la encuesta
 | Crespo / Pie de la Popa | 6 / 5 | 2 / 1 | Influencia secundaria residencial |
 | Zona Norte (Manzanillo, Morros, Serena del Mar) | 6 | 4 | Influencia terciaria (≈ 25 min) |
 
-*Nota.* Encuesta (n = 106), preguntas de zonas. Selección múltiple en la columna de consumo.
+*Fuente: Encuesta (n = 106), preguntas de zonas. Selección múltiple en la columna de consumo.*
 
 
 **Lectura.** El triángulo **Centro Histórico - Manga - Bocagrande** concentra el consumo actual y la preferencia de ubicación. Manga queda en el centro geográfico de ese triángulo, a menos de 10 minutos de las tres zonas y del Mercado de Bazurto; por eso el Estudio Técnico la selecciona como microlocalización.

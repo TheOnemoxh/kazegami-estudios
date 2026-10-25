@@ -17,56 +17,51 @@ Table: Tabla 51. Conclusiones del estudio de mercado
 
 # Referencias
 
-::: {custom-style="Referencia"}
-Acodres afirma que el año pasado se cerraron casi 7.000 restaurantes. (2025, 23 de febrero). *Portafolio*. https://www.portafolio.co/negocios/empresas/acodres-afirma-que-el-ano-pasado-se-cerraron-casi-7-000-restaurantes-624468
+Agenda Colombia. (2026). *El mejor sushi en Cartagena*. https://agendacolombia.com/cartagena/el-mejor-sushi-en-cartagena/
 
-Agronegocios. (2026, 24 de octubre). *Filete de salmón congelado* [Conjunto de datos del SIPSA-DANE]. https://www.agronegocios.co/precios/filete-de-salmon-congelado
+Agronegocios. (2026, 24 de octubre). *Precio del filete de salmón congelado* [Datos SIPSA-DANE]. https://www.agronegocios.co/precios/filete-de-salmon-congelado
 
-Best sushi in Cartagena: Top 6. (s.f.). *La Carta*. https://lacarta.co/cartagena/gastronomy/best-sushi-in-cartagena/
+Cartagena Cómo Vamos. (2025). *Turismo en Cartagena en el primer trimestre de 2025*. https://cartagenacomovamos.org/
 
-Cartagena Cómo Vamos destaca incremento del turismo en la ciudad. (2025, 2 de julio). *El Universal*. https://www.eluniversal.com.co/cartagena/2025/07/02/cartagena-como-vamos-destaca-incremento-del-turismo-en-la-ciudad/
+Congreso de Colombia. (1979). *Ley 9 de 1979, por la cual se dictan medidas sanitarias*. Diario Oficial.
 
-Cartagena Cómo Vamos. (2025). *Turismo en Cartagena en el primer trimestre de 2025*. https://cartagenacomovamos.org/wp-content/uploads/2025/06/Turismo-en-Cartagena-en-el-primer-trimestre-de-2025.pdf
+Congreso de Colombia. (2011). *Ley 1480 de 2011, Estatuto del Consumidor*. Diario Oficial.
 
-Los cinco países que más turistas le generaron a Cartagena durante 2025. (2026, 16 de marzo). *El Universal*. https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/
+Congreso de Colombia. (2012). *Ley 1581 de 2012, protección de datos personales*. Diario Oficial.
 
-Congreso de la República de Colombia. (1979). *Ley 9 de 1979, por la cual se dictan medidas sanitarias*. Diario Oficial.
+Congreso de Colombia. (2016). *Ley 1801 de 2016, Código Nacional de Seguridad y Convivencia Ciudadana*. Diario Oficial.
 
-Congreso de la República de Colombia. (2011). *Ley 1480 de 2011, por medio de la cual se expide el Estatuto del Consumidor*. Diario Oficial.
+Congreso de Colombia. (2022). *Ley 2232 de 2022, reducción de plásticos de un solo uso*. Diario Oficial.
 
-Congreso de la República de Colombia. (2012). *Ley 1581 de 2012, por la cual se dictan disposiciones generales para la protección de datos personales*. Diario Oficial.
+El Universal. (2025, 13 de agosto). *Población de Cartagena se reducirá: estas son las proyecciones del DANE*. https://www.eluniversal.com.co/cartagena/2025/08/13/poblacion-de-cartagena-se-reducira-estas-son-las-proyecciones-del-dane/
 
-Congreso de la República de Colombia. (2016). *Ley 1801 de 2016, por la cual se expide el Código Nacional de Seguridad y Convivencia Ciudadana*. Diario Oficial.
+El Universal. (2025, 26 de diciembre). *Corpoturismo presenta balance 2025: 5,5 millones de visitantes en Cartagena*. https://www.eluniversal.com.co/
 
-Congreso de la República de Colombia. (2022). *Ley 2232 de 2022, por la cual se establecen medidas tendientes a la reducción gradual de la producción y consumo de ciertos productos plásticos de un solo uso*. Diario Oficial.
+El Universal. (2026, 16 de marzo). *Los cinco países que más turistas le generaron a Cartagena durante 2025*. https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/
 
-Corpoturismo presenta balance 2025: 5,5 millones de visitantes en Cartagena. (2025, 26 de diciembre). *El Universal*. https://www.eluniversal.com.co/cartagena/2025/12/26/corpoturismo-presenta-balance-2025-55-millones-de-visitantes-en-cartagena/
+La Carta. (2026). *Best sushi in Cartagena: Top 6*. https://lacarta.co/cartagena/gastronomy/best-sushi-in-cartagena/
 
-Equipo Kazegami. (2026). *Encuesta de mercado: Restaurante Kazegami (Cartagena)* [Conjunto de datos no publicado, n = 106]. Universidad de Cartagena.
+Miranda Miranda, J. J. (2005). *Gestión de proyectos: identificación, formulación, evaluación financiera, económica, social, ambiental* (5.ª ed.). MM Editores.
 
-El mejor sushi en Cartagena. (s.f.). *Agenda Colombia*. https://agendacolombia.com/cartagena/el-mejor-sushi-en-cartagena/
+Ministerio de Salud y Protección Social. (2013). *Resolución 2674 de 2013, requisitos sanitarios para la fabricación, procesamiento, preparación, almacenamiento, transporte, distribución y comercialización de alimentos*.
 
-Ministerio de Salud y Protección Social. (2013). *Resolución 2674 de 2013, por la cual se reglamenta el artículo 126 del Decreto Ley 019 de 2012*. Diario Oficial.
+Ministerio del Trabajo. (2025). *Decreto 1469 de 2025, por el cual se fija el salario mínimo mensual legal vigente para 2026*.
 
-Ministerio del Trabajo. (2025). *Decreto 1469 de 2025, por el cual se fija el salario mínimo mensual legal vigente para el año 2026*. Diario Oficial.
+Portafolio. (2025, 23 de febrero). *Acodres afirma que el año pasado se cerraron casi 7.000 restaurantes*. https://www.portafolio.co/negocios/empresas/acodres-afirma-que-el-ano-pasado-se-cerraron-casi-7-000-restaurantes-624468
 
-Miranda Miranda, J. J. (2005). *Gestión de proyectos: Identificación, formulación, evaluación financiera, económica, social, ambiental* (5.ª ed.). MM Editores.
+Portafolio. (2026). *Salario mínimo de 2026 sigue en $1.750.905*. https://www.portafolio.co/economia/gobierno/salario-minimo-de-2026-sigue-en-1-750-905-y-gobierno-descarta-devolucion-de-dinero-a-trabajadores-504218
 
-Población de Cartagena se reducirá: estas son las proyecciones del DANE. (2025, 13 de agosto). *El Universal*. https://www.eluniversal.com.co/cartagena/2025/08/13/poblacion-de-cartagena-se-reducira-estas-son-las-proyecciones-del-dane/
+Sapag Chain, N., Sapag Chain, R., y Sapag P., J. M. (2014). *Preparación y evaluación de proyectos* (6.ª ed.). McGraw-Hill.
 
-Salario mínimo de 2026 sigue en $1.750.905 y Gobierno descarta devolución de dinero a trabajadores. (2026). *Portafolio*. https://www.portafolio.co/economia/gobierno/salario-minimo-de-2026-sigue-en-1-750-905-y-gobierno-descarta-devolucion-de-dinero-a-trabajadores-504218
+Tripadvisor. (2026). *The best sushi in Cartagena*. https://www.tripadvisor.com/Restaurants-g297476-c38-Cartagena_Cartagena_District_Bolivar_Department.html
 
-Sapag Chain, N., Sapag Chain, R. y Sapag Puelma, J. M. (2014). *Preparación y evaluación de proyectos* (6.ª ed.). McGraw-Hill Interamericana.
-
-Tripadvisor. (s.f.). *The best sushi in Cartagena*. https://www.tripadvisor.com/Restaurants-g297476-c38-Cartagena_Cartagena_District_Bolivar_Department.html
-:::
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
 
-# Apéndice A. Supuestos y limitaciones
+# Anexo A. Supuestos y limitaciones
 
 Table: Tabla 52. Supuestos del equipo usados en el estudio
 
@@ -83,7 +78,7 @@ Table: Tabla 52. Supuestos del equipo usados en el estudio
 
 **Limitaciones.** (1) La muestra es no probabilística y está concentrada en jóvenes de 18 a 25 años (86,8 %), por lo que sus resultados describen mejor al segmento joven que a los turistas o ejecutivos del Canvas. (2) El turismo nacional no se cuantificó. (3) Los precios de la competencia son referencias que deben verificarse.
 
-# Apéndice B. Resumen del instrumento de encuesta aplicado
+# Anexo B. Resumen del instrumento de encuesta aplicado
 
 Table: Tabla 53. Ficha técnica de la encuesta
 
@@ -128,22 +123,22 @@ Table: Tabla 54. Preguntas del instrumento y variable que miden
 
 ![Figura 29. Condiciones médicas o preferencias alimentarias de los encuestados](assets/graficas/g07_restricciones.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 30. Atractivo del concepto Kazegami](assets/graficas/g13_atractivo_concepto.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 31. Interés en una experiencia omakase](assets/graficas/g16_omakase_interes.png){width=14cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 ![Figura 32. Preferencia por cada plato del Top 3 según la frecuencia de consumo](assets/graficas/g24_cruce_top3_frecuencia.png){width=15cm}
 
-*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
+*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
 Las tablas de frecuencia completas de las 31 columnas y los cruces de variables están en el archivo `datos/RESUMEN_ENCUESTA.md` del repositorio del proyecto.

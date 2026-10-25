@@ -14,7 +14,6 @@ Este repositorio genera dos documentos académicos en Word a partir de Markdown 
 - **Tablas de insumos con el formato de `Punto6EstudioTecnicoImg/`**: columnas `Insumos | Cantidad por mes | Proveedor (precio · calidad · postventa) | Precio | Total | Identificación del elemento | Total final`; los activos entran por depreciación = valor ÷ (vida útil × 12); costo unitario = total final ÷ unidades del mes.
 - **Tablas y gráficos antes que párrafos.** El texto introduce y analiza; no repite lo que ya dice la tabla.
 - Moneda COP (Cartagena, octubre de 2026), formato colombiano ($1.234.567 · 12,5 %). Español formal.
-- **Normas APA 7.ª edición** en todo el documento: Times New Roman 12, interlineado doble, títulos y tablas en **negro** (sin azul ni colores), tablas solo con líneas horizontales, "Tabla N"/"Figura N" en negrita con título en cursiva, notas con *Nota.*, citas (Autor, año). El formato lo aplican `scripts/generar_plantilla_word.py` y `scripts/compilar_word.py`: no cambies colores ni fuentes a mano.
 - No copiar texto de `EjemploDeOtroGrupo/` (el plagio se califica con 1,5). Usarlo solo como referencia de estructura y profundidad. Esa carpeta es solo local: está en `.gitignore` y nunca se debe subir al repositorio público (contiene datos de terceros). Sus hallazgos ya están resumidos en `CONTEXTO_GLOBAL.md`, sección 7.
 
 ## Si cambias un número
@@ -26,9 +25,8 @@ Este repositorio genera dos documentos académicos en Word a partir de Markdown 
 ## Formato Markdown que entiende el compilador
 
 - Títulos: `#` sección del taller (ej. `# 4. Demanda`), `##` subsección, `###` apartado.
-- Tabla: línea `Table: Tabla N. Título`, línea vacía, tabla con pipes `|`, y debajo `*Nota.* ...` (APA 7; nunca "Fuente:").
-- Figura: `![Figura N. Título](assets/graficas/archivo.png){width=15.5cm}` y debajo `*Nota.* ...`. No dibujes títulos dentro de las gráficas: el compilador pone "Figura N" (negrita) y el título (cursiva) arriba de la imagen.
-- Referencias: dentro del bloque `::: {custom-style="Referencia"}` de `99_*.md`, en APA 7, orden alfabético, una por párrafo (sangría francesa automática). Toda cita en el texto (Autor, año) debe estar en Referencias.
+- Tabla: línea `Table: Tabla N. Título`, línea vacía, tabla con pipes `|`, y debajo `*Fuente: ...*`.
+- Figura: `![Figura N. Título](assets/graficas/archivo.png){width=15.5cm}` y debajo `*Fuente: ...*`.
 - Salto de página: el bloque ```` ```{=openxml} ```` que ya existe en las portadas.
 - No usar HTML ni LaTeX. El símbolo `$` se escribe tal cual (las matemáticas TeX están desactivadas).
 
