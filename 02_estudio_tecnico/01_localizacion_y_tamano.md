@@ -11,7 +11,7 @@ Table: Tabla 3. Macrolocalización de Kazegami
 | Ciudad | Cartagena de Indias (Distrito Turístico y Cultural) | 1.010.995 habitantes (DANE, 2026); 866.264 turistas extranjeros en 2025; 5,5 millones de pasajeros; 11,3 % viaja por gastronomía |
 | Zona | Triángulo Centro Histórico - Manga - Bocagrande | Concentra el consumo actual de cocina japonesa y el 80,0 % de los votos de ubicación válidos (60 de 75) |
 
-*Fuente: DANE (2025); Migración Colombia; Corpoturismo; encuesta (n = 106).*
+*Nota.* DANE (2025); Migración Colombia; Corpoturismo; encuesta (n = 106).
 
 
 Table: Tabla 4. Factores de macrolocalización evaluados
@@ -32,7 +32,7 @@ Se evaluaron las **cuatro zonas más votadas** en la pregunta *"¿En qué zona d
 
 ![Figura 1. Zona preferida por los encuestados para ubicar Kazegami](assets/graficas/g18_zona_preferida.png){width=14cm}
 
-*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
+*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
 
 
 Table: Tabla 5. Matriz de ponderación de factores para la microlocalización
@@ -48,7 +48,7 @@ Table: Tabla 5. Matriz de ponderación de factores para la microlocalización
 | Restricciones normativas para adecuar cocina (PEMP / POT) | 10 % | 4 | 0,40 | 8 | 0,80 | 7 | 0,70 | 5 | 0,50 |
 | **Total** | **100 %** |  | **6,50** |  | **6,70** |  | **5,30** |  | **5,30** |
 
-*Fuente: Elaboración propia. Calificación 1 (peor) a 10 (mejor).*
+*Nota.* Elaboración propia. Calificación 1 (peor) a 10 (mejor).
 
 
 Table: Tabla 6. Justificación de las calificaciones
@@ -66,7 +66,7 @@ Table: Tabla 6. Justificación de las calificaciones
 
 ![Figura 2. Resultado de la microlocalización](assets/graficas/g31_localizacion_ponderacion.png){width=13cm}
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 Table: Tabla 7. Análisis de sensibilidad de la microlocalización
@@ -78,7 +78,7 @@ Table: Tabla 7. Análisis de sensibilidad de la microlocalización
 | Arriendo 30 % y preferencia 15 % | 5,80 | 7,00 | 5,40 | 5,70 | Manga |
 | Flujo turístico 25 % y normativa 0 % | 7,10 | 6,40 | 5,50 | 5,60 | Centro Histórico |
 
-*Fuente: Elaboración propia.*
+*Nota.* Elaboración propia.
 
 
 **Decisión.** La zona ganadora es **Manga** (6,70 puntos), seguida muy de cerca por el Centro Histórico (6,50). Manga gana por menor arriendo, cercanía al Mercado de Bazurto, parqueo y ausencia de las restricciones patrimoniales del PEMP para instalar la campana extractora. El análisis de sensibilidad muestra que el Centro Histórico gana cuando se da más peso a la preferencia de los encuestados (35 %) o al flujo turístico sin considerar las restricciones normativas; con los pesos base, que priorizan el costo y la viabilidad de adecuar una cocina con extracción de humos, gana Manga. La decisión es, por tanto, sensible a los pesos y el equipo la asume conscientemente. Para capturar el flujo turístico del Centro (a 5 minutos), Kazegami se apoya en alianzas con hoteles y en su presencia digital.
@@ -142,12 +142,12 @@ Table: Tabla 11. Capacidad diseñada, instalada y utilizada (platos/año)
 | 2030 | 73.382 | 58.706 | 73 % | 42.855 | 137 | 114 | 2,04 |
 | 2031 | 73.382 | 58.706 | 80 % | 46.965 | 151 | 125 | 2,24 |
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 ![Figura 3. Capacidad diseñada, instalada y utilizada de Kazegami](assets/graficas/g29_capacidad_instalada.png){width=15.5cm}
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 Table: Tabla 12. Capacidad utilizada por plato (unidades servidas)
@@ -160,12 +160,12 @@ Table: Tabla 12. Capacidad utilizada por plato (unidades servidas)
 | 2030 | 19.222 | 12.605 | 11.029 | 42.855 | 3.571 | 17,8 % |
 | 2031 | 21.065 | 13.813 | 12.087 | 46.965 | 3.914 | 18,4 % |
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 ![Figura 4. Platos que servirá Kazegami por año](assets/graficas/g30_unidades_kazegami.png){width=15.5cm}
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 Table: Tabla 13. Distribución diaria de la producción en 2027 (día promedio)
@@ -176,4 +176,4 @@ Table: Tabla 13. Distribución diaria de la producción en 2027 (día promedio)
 | Cena (60 %) | 47 | 25 | 17 | 15 |
 | **Total día** | **78** | **42** | **28** | **24** |
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.

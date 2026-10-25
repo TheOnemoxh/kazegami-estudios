@@ -1,58 +1,35 @@
 ::: {custom-style="Portada"}
-UNIVERSIDAD DE CARTAGENA
+&nbsp;
 
-FACULTAD DE INGENIERÍAS
+&nbsp;
 
-PROGRAMA DE INGENIERÍA DE SISTEMAS
+&nbsp;
 
-SEMINARIO TALLER CREACIÓN DE EMPRESAS
-:::
+**Estudio de Mercados de Kazegami Restaurante: Cocina Japonesa con Insumos Locales en Cartagena de Indias**
 
-::: {custom-style="PortadaTitulo"}
-TALLER No. 1
+Taller No. 1
 
-ESTUDIO DE MERCADOS
+&nbsp;
 
-KAZEGAMI RESTAURANTE
-:::
+Adrian Alberto Angulo Melgarejo, Samuel David Molina Romero, Edwin Esteban Cañas Jurado, Alejandro Jose Vergara Parra y Carlos Arturo Rodriguez Cochero
 
-::: {custom-style="PortadaSub"}
-"El espíritu de la brisa marina": restaurante de cocina japonesa en Cartagena de Indias con técnica 100 % japonesa e insumos locales de la pesca artesanal del Caribe y de los agricultores de Bolívar
-:::
+Facultad de Ingenierías, Programa de Ingeniería de Sistemas, Universidad de Cartagena
 
-::: {custom-style="Portada"}
-Presentado a:
+Seminario Taller Creación de Empresas
 
 Profesora Carla del Carmen de Ávila Altamiranda
 
-cdeavilaa@unicartagena.edu.co
-:::
-
-::: {custom-style="PortadaSub"}
-Integrantes:
-
-Adrian Alberto Angulo Melgarejo
-
-Samuel David Molina Romero
-
-Edwin Esteban Cañas Jurado
-
-Alejandro Jose Vergara Parra
-
-Carlos Arturo Rodriguez Cochero
-:::
-
-::: {custom-style="Portada"}
-Cartagena de Indias, 25 de octubre de 2026
+25 de octubre de 2026
 :::
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
 ```
 
+
 # Introducción
 
-Este documento desarrolla el **Estudio de Mercados** de KAZEGAMI RESTAURANTE siguiendo la estructura del Taller No. 1 del Seminario Taller Creación de Empresas y el marco metodológico de la formulación y evaluación de proyectos (Miranda, 2005; Sapag Chain y Sapag Chain, 2014). El estudio combina **información primaria** —una encuesta de mercado aplicada a 106 personas entre el 23 y el 24 de octubre de 2026— con **información secundaria** del DANE, Migración Colombia, Corpoturismo, ACODRES y el SIPSA.
+Este documento desarrolla el **Estudio de Mercados** de KAZEGAMI RESTAURANTE siguiendo la estructura del Taller No. 1 del Seminario Taller Creación de Empresas y el marco metodológico de la formulación y evaluación de proyectos (Miranda Miranda, 2005; Sapag Chain et al., 2014). El estudio combina **información primaria** —una encuesta de mercado aplicada a 106 personas entre el 23 y el 24 de octubre de 2026— con **información secundaria** del DANE, Migración Colombia, Corpoturismo, ACODRES y el SIPSA.
 
 Por decisión del equipo y con base en los resultados reales de la encuesta, el portafolio que se analiza en las fichas técnicas, costos, precios y proyecciones se concentra **únicamente en los tres platos más frecuentados**: **Rollos de sushi, Ramen y Tempura**.
 
@@ -63,7 +40,7 @@ Table: Tabla 1. Cómo leer este documento
 | Moneda | Pesos colombianos (COP) de octubre de 2026. Precios de venta con impoconsumo (8 %) incluido. |
 | Año base y horizonte | Año base 2026; proyecciones 2027-2031 (5 años) a precios constantes. |
 | Datos primarios | Encuesta Kazegami: 106 respuestas, 31 variables. Cifras exactas en el archivo datos/RESUMEN_ENCUESTA.md. |
-| Supuestos | Todo supuesto del equipo se marca como tal y se resume en el Anexo A. |
+| Supuestos | Todo supuesto del equipo se marca como tal y se resume en el Apéndice A. |
 | Portafolio analizado | Top 3 de la encuesta: Rollos de sushi (61 menciones), Ramen (40) y Tempura (35). |
 
 
@@ -87,7 +64,7 @@ Table: Tabla 2. Ficha resumen ejecutiva del proyecto
 | Socios clave | Pesca artesanal (Bazurto y Mercado del Mar), agricultores de Bolívar, importadores de insumos japoneses, hoteles y agencias turísticas |
 | Aceptación en la encuesta | 96,2 % consume o probaría comida japonesa; 82,9 % califica el concepto como atractivo o muy atractivo |
 
-*Fuente: Modelo Canvas Kazegami y encuesta de mercado (n = 106).*
+*Nota.* Modelo Canvas Kazegami y encuesta de mercado (n = 106).
 
 
 Table: Tabla 3. Modelo Canvas de Kazegami (síntesis)
@@ -104,7 +81,7 @@ Table: Tabla 3. Modelo Canvas de Kazegami (síntesis)
 | Socios clave | Pesca artesanal (Bazurto, Mercado del Mar); importadores de insumos japoneses; agricultores de Bolívar; escuelas de gastronomía; proveedores de empaques y medios de pago; hoteles y agencias turísticas |
 | Estructura de costos | Arriendo y servicios; nómina; insumos, pescado fresco y cadena de frío; importación de productos japoneses; adecuación, equipos y mantenimiento; marketing, licencias, seguros e impuestos |
 
-*Fuente: Kazegami_Modelo_Canvas.pdf (equipo de trabajo, 2026).*
+*Nota.* Kazegami_Modelo_Canvas.pdf (equipo de trabajo, 2026).
 
 
 **Ámbito y motivación.** El mercado es **local** (zona urbana de Cartagena de Indias), con un componente de **turismo** nacional e internacional. La motivación es atender una demanda que la encuesta muestra como insatisfecha en precio y porción: el **67,0 %** de los encuestados señala los *precios altos* como lo que menos le gusta de los restaurantes japoneses de la ciudad y el **43,4 %** las *porciones pequeñas* (sección 5.1).

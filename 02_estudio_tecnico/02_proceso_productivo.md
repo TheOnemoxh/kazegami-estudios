@@ -6,7 +6,7 @@ El proceso de Kazegami tiene dos momentos: la **producción anticipada** (mise e
 
 ![Figura 5. Diagrama de flujo del proceso de Rollos de sushi](assets/diagramas/d01_flujo_rollos_sushi.png){width=15.5cm}
 
-*Fuente: Elaboración propia.*
+*Nota.* Elaboración propia.
 
 
 Table: Tabla 14. Cursograma analítico: Rollos de sushi
@@ -33,7 +33,7 @@ Table: Tabla 14. Cursograma analítico: Rollos de sushi
 
 ![Figura 6. Diagrama de flujo del proceso de Ramen](assets/diagramas/d02_flujo_ramen.png){width=15.5cm}
 
-*Fuente: Elaboración propia.*
+*Nota.* Elaboración propia.
 
 
 Table: Tabla 15. Cursograma analítico: Ramen
@@ -58,7 +58,7 @@ Table: Tabla 15. Cursograma analítico: Ramen
 
 ![Figura 7. Diagrama de flujo del proceso de Tempura](assets/diagramas/d03_flujo_tempura.png){width=15.5cm}
 
-*Fuente: Elaboración propia.*
+*Nota.* Elaboración propia.
 
 
 Table: Tabla 16. Cursograma analítico: Tempura
@@ -83,7 +83,7 @@ Table: Tabla 16. Cursograma analítico: Tempura
 
 ![Figura 8. Diagrama de flujo de la prestación del servicio](assets/diagramas/d04_flujo_servicio.png){width=15.5cm}
 
-*Fuente: Elaboración propia.*
+*Nota.* Elaboración propia.
 
 
 Table: Tabla 17. Cursograma analítico: prestación del servicio
@@ -133,14 +133,14 @@ Table: Tabla 20. Puntos críticos de control (enfoque HACCP)
 | Enfriamiento del caldo de ramen | Clostridium perfringens | 60 °C → 21 °C en ≤ 2 h | Termómetro y registro | Recalentar a 74 °C o descartar |
 | Aceite de fritura | Compuestos polares (oxidación) | Cambio cada 2-3 días o según tira reactiva | Tira de prueba | Cambio de aceite; entrega a gestor |
 
-*Fuente: Resolución 2674 de 2013; buenas prácticas internacionales de manipulación de pescado crudo.*
+*Nota.* Resolución 2674 de 2013; buenas prácticas internacionales de manipulación de pescado crudo.
 
 
 ## 4.6 Distribución de áreas del local (layout)
 
 ![Figura 9. Distribución en planta del local (≈ 200 m²)](assets/diagramas/d05_layout_local.png){width=15.5cm}
 
-*Fuente: Elaboración propia.*
+*Nota.* Elaboración propia.
 
 
 Table: Tabla 21. Distribución de áreas del local

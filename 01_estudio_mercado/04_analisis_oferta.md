@@ -17,14 +17,14 @@ Table: Tabla 32. Matriz comparativa de competidores en Cartagena
 | Perú Fusión / Hamachi / NIKU | Indirecto (nikkei) | Centro y Getsemaní | Sí / No / — | $$$ | Fusión peruano-japonesa reconocida | No es cocina japonesa tradicional |
 | Restaurantes de comida de mar | Sustituto | Toda la ciudad | — / — / — | $$-$$$ | Pescado local, tradición | Sin técnica japonesa |
 
-*Fuente: La Carta (2026), Agenda Colombia (2026) y Tripadvisor (2026). Disponibilidad de ramen y tempura por verificar con la carta vigente de cada local.*
+*Nota.* La Carta (2026), Agenda Colombia (2026) y Tripadvisor (2026). Disponibilidad de ramen y tempura por verificar con la carta vigente de cada local.
 
 
 **Hallazgo clave.** Ningún competidor directo identificado combina **barra de sushi a la vista + ramen de caldo largo + tempura** con **pescado de pesca artesanal local** y precios dentro del rango modal de la encuesta. El ramen, segundo plato más mencionado (40 menciones), es el producto con **menor oferta especializada** en la ciudad.
 
 ![Figura 19. Lo que menos gusta de los restaurantes japoneses/asiáticos de Cartagena (debilidades de la competencia)](assets/graficas/g11_disgustos.png){width=15cm}
 
-*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
+*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
 
 
 Table: Tabla 33. Debilidades de la competencia detectadas en la encuesta y respuesta de Kazegami
@@ -39,7 +39,7 @@ Table: Tabla 33. Debilidades de la competencia detectadas en la encuesta y respu
 | Mala atención | 11 | 10,4 % | Protocolo de servicio y capacitación del equipo de sala |
 | Ambientación del sitio | 6 | 5,7 % | Ambiente japonés sereno con barra a la vista |
 
-*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
+*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
 
 
 ### Régimen de mercado
@@ -59,7 +59,7 @@ Table: Tabla 34. Factores que determinan la oferta de los 3 platos
 | 5. Capacidad instalada | Locales de 30 a 80 puestos; barras de sushi con 1 a 3 sushimen | Limita cuántos platos puede vender cada competidor |
 | 6. Gobierno | Impoconsumo 8 %, controles del DADIS, vedas de la AUNAP, restricciones del PEMP en el Centro | Elevan costos y barreras de entrada |
 
-*Fuente: Clase del Seminario Taller (factores de la oferta) aplicados por el equipo.*
+*Nota.* Clase del Seminario Taller (factores de la oferta) aplicados por el equipo.
 
 
 ### Oferta actual estimada (2026)
@@ -87,12 +87,12 @@ Table: Tabla 36. Tabla maestra de proveedores para los 3 platos
 | Mayoristas nacionales | Distribuidores mayoristas de Cartagena | Azúcar, sal, fécula, aceite vegetal, queso crema, ajonjolí | Semanal | Precio mayorista y crédito a 30 días |
 | Empaques y desechables | Distribuidores de desechables biodegradables | Palillos de bambú, servilletas, papel absorbente | Mensual | Cumplimiento de la Ley 2232 de 2022 |
 
-*Fuente: Canvas (socios clave) y recetas estándar.*
+*Nota.* Canvas (socios clave) y recetas estándar.
 
 
 ![Figura 20. Origen de la materia prima de los 3 platos (participación en el costo)](assets/graficas/g36_origen_insumos.png){width=14cm}
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 ## 5.3 Proyección de la oferta para 5 años (2027-2031)
@@ -110,12 +110,12 @@ Table: Tabla 37. Proyección de la oferta (platos/año)
 | 2030 | 48,7 | 828.061 | 16.236 |
 | 2031 | 49,7 | 844.622 | 16.561 |
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 ![Figura 21. Proyección de la oferta 2027-2031](assets/graficas/g27_proyeccion_oferta.png){width=15.5cm}
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 ## 5.4 Comparar demanda y oferta
@@ -133,12 +133,12 @@ Table: Tabla 38. Balance oferta vs. demanda, demanda insatisfecha y cuota de Kaz
 | 2030 | 828.061 | 1.068.500 | 240.439 | 22,5 % | 42.855 | 17,8 % |
 | 2031 | 844.622 | 1.099.788 | 255.166 | 23,2 % | 46.965 | 18,4 % |
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 ![Figura 22. Comparativa oferta vs. demanda y demanda insatisfecha](assets/graficas/g28_oferta_vs_demanda.png){width=15.5cm}
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 Table: Tabla 39. Demanda insatisfecha por escenario (platos/año)
@@ -152,12 +152,12 @@ Table: Tabla 39. Demanda insatisfecha por escenario (platos/año)
 | 2030 | 159.835 | 240.439 | 325.878 |
 | 2031 | 152.458 | 255.166 | 366.170 |
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 ![Figura 23. Platos que servirá Kazegami por año (capacidad utilizada)](assets/graficas/g30_unidades_kazegami.png){width=15.5cm}
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 **Lectura.** La demanda insatisfecha es positiva en los tres escenarios: incluso en el pesimista quedan más de 152 mil platos al año sin atender. Kazegami solo necesita capturar entre el **14,7 %** (2027) y el **18,4 %** (2031) de esa brecha para usar su capacidad, lo que equivale a una cuota de mercado de 3,0 % a 4,3 %. La meta es **prudente**: la demanda clasifica como **insatisfecha** y hay espacio para un nuevo oferente diferenciado.

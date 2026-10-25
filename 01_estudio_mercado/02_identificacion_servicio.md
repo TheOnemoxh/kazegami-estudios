@@ -4,7 +4,7 @@ Kazegami es un **servicio de restaurante a la mesa** cuyo producto central son t
 
 ![Figura 1. Platos más frecuentados por los encuestados (en naranja, el Top 3 que define el portafolio)](assets/graficas/g06_platos_top3.png){width=15.5cm}
 
-*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
+*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
 
 
 Table: Tabla 6. Justificación del portafolio: Top 3 de la encuesta
@@ -19,7 +19,7 @@ Table: Tabla 6. Justificación del portafolio: Top 3 de la encuesta
 | — | Opciones vegetarianas y/o veganas | 6 | 5,7 % | — | Se descarta como plato (se ofrece variante vegetariana del rollo) |
 | — | Aún no sé, quisiera ver el menú | 32 | 30,2 % | — | No es un plato |
 
-*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
+*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
 
 
 El portafolio técnico, de insumos, costos y precios del proyecto se enfoca **exclusivamente** en el Top 3 ganador. Los demás platos quedan fuera de este estudio y podrán evaluarse después con datos de venta reales.
@@ -35,7 +35,7 @@ Table: Tabla 7. Usos del servicio y de cada plato
 | Tempura | Entrada para compartir o plato principal ligero; acompañante natural del sushi | Celebraciones (8,5 %), cenas en pareja | Almuerzo y cena |
 | Servicio en el local | Experiencia cultural japonesa: barra a la vista, ambiente sereno, atención cercana | Todas | 12:00-15:00 y 18:00-22:30 |
 
-*Fuente: Encuesta (pregunta de ocasión, n = 106) y Canvas.*
+*Nota.* Encuesta (pregunta de ocasión, n = 106) y Canvas.
 
 
 ## 3.2 Usuarios
@@ -49,12 +49,12 @@ Table: Tabla 8. Segmentación de usuarios
 | 3. Turistas nacionales y extranjeros | Visitantes de clase media-alta y alta; segmento principal del Canvas | 15,1 % de la muestra visita o quiere visitar Cartagena; 866.264 turistas extranjeros en 2025 | Buscan experiencia auténtica; usan Google Maps, TripAdvisor y recomendación del hotel |
 | 4. Ejecutivos y empresarios | Profesionales que almuerzan cerca del trabajo o atienden clientes | 51,9 % pagaría $20.000-$30.000 por un menú ejecutivo | Rapidez al mediodía; reunión de negocios; experiencia omakase por reserva |
 
-*Fuente: Encuesta (n = 106); Migración Colombia vía El Universal (2026); Canvas.*
+*Nota.* Encuesta (n = 106); Migración Colombia vía El Universal (2026); Canvas.
 
 
 ![Figura 2. Rango de edad de los encuestados](assets/graficas/g03_edades.png){width=13cm}
 
-*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
+*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
 
 
 **Lectura.** La muestra es mayoritariamente joven y residente (84,0 % vive en Cartagena). Por eso la demanda se estima con la población adulta de la ciudad y se complementa con el turismo, que es el segmento prioritario del Canvas y que la encuesta capturó solo parcialmente.
@@ -76,7 +76,7 @@ Table: Tabla 9. Ficha técnica comparativa de los 3 platos
 | Alérgenos a informar | Pescado, crustáceos, soya, ajonjolí, lácteos | Gluten, soya, huevo, ajonjolí | Crustáceos, gluten, huevo, soya |
 | Variante vegetariana | Rollo de vegetales y mango | Ramen de miso y hongos | Tempura solo vegetales |
 
-*Fuente: Recetas estándar del equipo (ver Estudio Técnico, sección 6).*
+*Nota.* Recetas estándar del equipo (ver Estudio Técnico, sección 6).
 
 
 Table: Tabla 10. Composición por porción (receta estándar resumida)
@@ -98,7 +98,7 @@ Table: Tabla 11. Portafolio de producto enfocado en el Top 3
 | Cocina caliente | Ramen (tonkotsu-miso de la casa; versión vegetariana) | Plato fuerte; base del menú ejecutivo de mediodía | 29,4 % | $38.000 |
 | Cocina caliente | Tempura (mixta de langostino y vegetales; solo vegetales) | Entrada para compartir o plato ligero | 25,7 % | $34.000 |
 
-*Fuente: Participación según el peso de cada plato dentro del Top 3 de la encuesta.*
+*Nota.* Participación según el peso de cada plato dentro del Top 3 de la encuesta.
 
 
 **Clasificación económica del producto.** Es un **bien de consumo final**, **perecedero**, de **compra frecuente/ocasional** y **no indispensable** (bien normal, cuya demanda crece con el ingreso). Se vende como servicio en el local, sin domicilios, de acuerdo con la propuesta "experiencia 100 % en el local" del Canvas.
@@ -116,12 +116,12 @@ Table: Tabla 12. Bienes sustitutos con precios promedio en Cartagena
 | Comida rápida (hamburguesas, pizza) | Lejano (misma ocasión de salida) | $22.000 - $38.000 | 38,7 % elige comida rápida |
 | Comida típica o local (corrientazo, fritos) | Lejano | $15.000 - $30.000 | 29,2 % elige comida típica |
 
-*Fuente: Encuesta (n = 106); rangos de precio de referencia estimados por el equipo con cartas digitales de Cartagena (oct. 2026), a verificar con visita.*
+*Nota.* Encuesta (n = 106); rangos de precio de referencia estimados por el equipo con cartas digitales de Cartagena (oct. 2026), a verificar con visita.
 
 
 ![Figura 3. Tipo de restaurante que los encuestados eligen con más frecuencia](assets/graficas/g08_tipo_restaurante.png){width=14cm}
 
-*Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
+*Nota.* Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.
 
 
 Table: Tabla 13. Bienes y servicios complementarios con precios promedio
@@ -135,7 +135,7 @@ Table: Tabla 13. Bienes y servicios complementarios con precios promedio
 | Transporte (taxi, plataformas) | Necesario para llegar al local | $8.000 - $20.000 por trayecto urbano | No |
 | Parqueadero | Clientes con vehículo propio | $4.000 - $8.000 por hora | Convenio con parqueadero cercano |
 
-*Fuente: Encuesta, pregunta abierta; precios de referencia estimados por el equipo.*
+*Nota.* Encuesta, pregunta abierta; precios de referencia estimados por el equipo.
 
 
 ## 3.9 Clasificación del bien, 3.10 Sistemas de distribución y 3.11 Bienes y servicios del sector público
@@ -160,7 +160,7 @@ Table: Tabla 15. Sistemas de distribución
 | Intermediarios turísticos | Hoteles, agencias y guías que recomiendan y reservan | Sí (alianzas, sin comisión de venta del plato) |
 | Domicilios por plataformas | Rappi, iFood y similares | No (el sushi y la tempura pierden calidad; la propuesta es la experiencia en el local) |
 
-*Fuente: Encuesta (medio de reserva) y Canvas.*
+*Nota.* Encuesta (medio de reserva) y Canvas.
 
 
 Table: Tabla 16. Bienes y servicios del sector público requeridos
@@ -191,12 +191,12 @@ Table: Tabla 17. Precios y estructura de costos estimados por plato (2027)
 | Food cost (MP ÷ precio neto) | 29,6 % | 32,0 % | 33,5 % |
 | Margen de contribución por plato | $25.364 | $22.819 | $20.192 |
 
-*Fuente: Recetas estándar y tablas de insumos del Estudio Técnico (formato Punto 6).*
+*Nota.* Recetas estándar y tablas de insumos del Estudio Técnico (formato Punto 6).
 
 
 ![Figura 4. Estructura del precio de venta por plato](assets/graficas/g34_estructura_precio.png){width=14cm}
 
-*Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+*Nota.* Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.
 
 
 ## 3.13 Legislación y otros aspectos institucionales
@@ -221,4 +221,4 @@ Table: Tabla 18. Matriz normativa para la producción, comercialización y uso d
 | Ley 2232 de 2022 (plásticos de un solo uso) | Minambiente | Reducción gradual de plásticos de un solo uso | Palillos de bambú y servilletas de papel; sin pitillos plásticos |
 | Decreto 1072 de 2015 (SG-SST) y Código Sustantivo del Trabajo | Ministerio del Trabajo | Contratos, seguridad social y sistema de seguridad y salud en el trabajo | Nómina formal con prestaciones; matriz de riesgos de cocina |
 
-*Fuente: Normativa colombiana vigente a octubre de 2026; recopilación del equipo.*
+*Nota.* Normativa colombiana vigente a octubre de 2026; recopilación del equipo.
