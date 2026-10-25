@@ -1,6 +1,8 @@
 # Conclusiones
 
-Table: Tabla 51. Conclusiones del estudio de mercado
+La tabla resume los principales hallazgos del estudio de mercado y la evidencia que los sustenta.
+
+Table: Tabla 52. Conclusiones del estudio de mercado
 
 | Tema | Conclusión | Evidencia |
 |:--------------------|:--------------------------------------------|:--------------------------------------------|
@@ -21,11 +23,11 @@ Agenda Colombia. (2026). *El mejor sushi en Cartagena*. https://agendacolombia.c
 
 Agronegocios. (2026, 24 de octubre). *Precio del filete de salmón congelado* [Datos SIPSA-DANE]. https://www.agronegocios.co/precios/filete-de-salmon-congelado
 
+Agronegocios. (2026, 24 de octubre). *Precios del agro en Cartagena (Bazurto)* [Datos del SIPSA-DANE]. https://www.agronegocios.co/precios/azucar-refinada/caribe/bolivar/cartagena
+
+Cartagena Cómo Vamos. (2023). *Servicios públicos: Encuesta de Percepción Ciudadana 2023*. https://cartagenacomovamos.org/wp-content/uploads/2023/12/servicios-publicos-epc-2023-cartagenacomovamos-INF.pdf
+
 Cartagena Cómo Vamos. (2025). *Turismo en Cartagena en el primer trimestre de 2025*. https://cartagenacomovamos.org/turismo-en-cartagena-primer-trimestre-2025/
-
-Dame Ramen. (2026). *Menú* [Página web]. Recuperado el 24 de octubre de 2026 de https://dameramen.com/menu/
-
-El Universal. (2020, 8 de septiembre). *69 % de las viviendas en Cartagena pertenece a estratos 1 y 2*. https://www.eluniversal.com.co/cartagena/2020/09/08/69-de-las-viviendas-en-cartagena-pertenece-a-estratos-1-y-ii/
 
 Congreso de Colombia. (1979). *Ley 9 de 1979, por la cual se dictan medidas sanitarias*. Diario Oficial.
 
@@ -37,21 +39,27 @@ Congreso de Colombia. (2016). *Ley 1801 de 2016, Código Nacional de Seguridad y
 
 Congreso de Colombia. (2022). *Ley 2232 de 2022, reducción de plásticos de un solo uso*. Diario Oficial.
 
+Dame Ramen. (2026). *Menú* [Página web]. Recuperado el 24 de octubre de 2026 de https://dameramen.com/menu/
+
+El Universal. (2020, 8 de septiembre). *69 % de las viviendas en Cartagena pertenece a estratos 1 y 2*. https://www.eluniversal.com.co/cartagena/2020/09/08/69-de-las-viviendas-en-cartagena-pertenece-a-estratos-1-y-ii/
+
 El Universal. (2025, 13 de agosto). *Población de Cartagena se reducirá: estas son las proyecciones del DANE*. https://www.eluniversal.com.co/cartagena/2025/08/13/poblacion-de-cartagena-se-reducira-estas-son-las-proyecciones-del-dane/
 
 El Universal. (2025, 26 de diciembre). *Corpoturismo presenta balance 2025: 5,5 millones de visitantes en Cartagena*. https://www.eluniversal.com.co/
 
 El Universal. (2026, 16 de marzo). *Los cinco países que más turistas le generaron a Cartagena durante 2025*. https://www.eluniversal.com.co/economica/2026/03/16/los-cinco-paises-que-mas-turistas-le-generaron-a-cartagena-durante-2025/
 
-La Cevichería Cartagena. (2026). *Carta* [Página web]. Recuperado el 24 de octubre de 2026 de https://lacevicheriacartagena.com/carta/
+Global Gourmet Market. (2026). *Productos asiáticos: arroz para sushi, nori, soya, miso, mirin, kombu y harina para tempura*. Recuperado el 24 de octubre de 2026 de https://www.globalgourmetmarket.com/
 
 La Carta. (2026). *Best sushi in Cartagena: Top 6*. https://lacarta.co/cartagena/gastronomy/best-sushi-in-cartagena/
 
-Miranda Miranda, J. J. (2005). *Gestión de proyectos: identificación, formulación, evaluación financiera, económica, social, ambiental* (5.ª ed.). MM Editores.
+La Cevichería Cartagena. (2026). *Carta* [Página web]. Recuperado el 24 de octubre de 2026 de https://lacevicheriacartagena.com/carta/
 
 Ministerio de Salud y Protección Social. (2013). *Resolución 2674 de 2013, requisitos sanitarios para la fabricación, procesamiento, preparación, almacenamiento, transporte, distribución y comercialización de alimentos*.
 
 Ministerio del Trabajo. (2025). *Decreto 1469 de 2025, por el cual se fija el salario mínimo mensual legal vigente para 2026*.
+
+Miranda Miranda, J. J. (2005). *Gestión de proyectos: identificación, formulación, evaluación financiera, económica, social, ambiental* (5.ª ed.). MM Editores.
 
 Portafolio. (2025). *¿En qué gastaron más los hogares colombianos en el 2024?* [Datos de Raddar]. https://www.portafolio.co/economia/finanzas/en-que-gastaron-mas-los-hogares-colombianos-en-el-2024-622923
 
@@ -59,11 +67,15 @@ Portafolio. (2025, 23 de febrero). *Acodres afirma que el año pasado se cerraro
 
 Portafolio. (2026). *Salario mínimo de 2026 sigue en $1.750.905*. https://www.portafolio.co/economia/gobierno/salario-minimo-de-2026-sigue-en-1-750-905-y-gobierno-descarta-devolucion-de-dinero-a-trabajadores-504218
 
-Sapag Chain, N., Sapag Chain, R., y Sapag P., J. M. (2014). *Preparación y evaluación de proyectos* (6.ª ed.). McGraw-Hill.
+Presidencia de la República de Colombia. (1989). *Decreto 624 de 1989, Estatuto Tributario* (art. 512-1, impuesto nacional al consumo de restaurantes). Diario Oficial.
 
 Rappi. (2026). *Masaki Sushi Wok: precios y menú* [Página web]. Recuperado el 24 de octubre de 2026 de https://www.rappi.com.co/restaurantes/900039514-masaki-sushi-wok
 
+Rappi. (2026). *Menús de Nami, Koi Koi Sushi, Cocina Nikkei y My Sushi Delivery en Cartagena* [Plataforma de domicilios]. Recuperado el 24 de octubre de 2026 de https://www.rappi.com.co/restaurantes
+
 Rivers, C. (s.f.). *Cómo calcular el coste de los alimentos en tu restaurante*. Gordon Food Service. https://gfs.com/es-us/?p=5384
+
+Sapag Chain, N., Sapag Chain, R., y Sapag P., J. M. (2014). *Preparación y evaluación de proyectos* (6.ª ed.). McGraw-Hill.
 
 Telencuestas. (2025). *Población de Cartagena de Indias en 2025* [Con base en proyecciones del DANE]. https://telencuestas.com/censos-de-poblacion/colombia/2025/bolivar/cartagena-de-indias
 
@@ -75,6 +87,8 @@ Tripadvisor. (2026). *The best sushi in Cartagena*. https://www.tripadvisor.com/
 
 Valora Analitik. (2025, 4 de diciembre). *Sushi Master 2025 dejó más de $10.000 millones a Colombia*. https://www.valoraanalitik.com/?p=532819
 
+WISK. (2022, 27 de marzo). *La mejor guía de gestión de inventario para restaurantes* (B. Patynski, autor). https://www.wisk.ai/es/blog/guia-definitiva-para-la-gestion-de-inventario-en-restaurantes
+
 
 ```{=openxml}
 <w:p><w:r><w:br w:type="page"/></w:r></w:p>
@@ -83,7 +97,9 @@ Valora Analitik. (2025, 4 de diciembre). *Sushi Master 2025 dejó más de $10.00
 
 # Anexo A. Supuestos y limitaciones
 
-Table: Tabla 52. Estado de verificación de los datos usados en el estudio
+Este anexo separa los datos verificados con una fuente de los que son estimaciones o supuestos del equipo, para que el lector sepa qué tan firme es cada cifra.
+
+Table: Tabla 53. Estado de verificación de los datos usados en el estudio
 
 | Dato | Valor | Estado | Fuente o base de la estimación |
 |:-------------------------------|:-------------------------|:-------------|:-------------------------------------|
@@ -109,7 +125,9 @@ Table: Tabla 52. Estado de verificación de los datos usados en el estudio
 
 # Anexo B. Resumen del instrumento de encuesta aplicado
 
-Table: Tabla 53. Ficha técnica de la encuesta
+La ficha técnica describe cómo se aplicó la encuesta que sustenta el estudio.
+
+Table: Tabla 54. Ficha técnica de la encuesta
 
 | Elemento | Detalle |
 |:----------------------------|:--------------------------------------------------------------------------------|
@@ -122,7 +140,7 @@ Table: Tabla 53. Ficha técnica de la encuesta
 | Error muestral de referencia | ≈ ±9,5 % al 95 % de confianza si fuera aleatoria (p = q = 0,5) |
 
 
-Table: Tabla 54. Preguntas del instrumento y variable que miden
+Table: Tabla 55. Preguntas del instrumento y variable que miden
 
 | N.º | Pregunta (resumida) | Tipo | Variable / uso en el estudio |
 |:---------:|:-----------------------------------------------|:--------------|:------------------------------------|

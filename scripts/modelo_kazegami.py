@@ -267,7 +267,7 @@ def balance(p: dict) -> pd.DataFrame:
 # ---------------------------------------------------------------------------
 CAP = {
     "mesas": 12, "puestos_mesa": 4, "puestos_barra": 8,
-    "rot_almuerzo": 1.5, "rot_cena": 2.0,
+    "rot_almuerzo": 1.5, "rot_tarde": 0.5, "rot_noche": 1.5,  # horario continuo 12:00-22:00
     "platos_por_comensal": 1.2,
     "dias_anio": 312,  # 6 días/semana (lunes cerrado) × 52
     "factor_instalada": 0.80,
@@ -280,7 +280,7 @@ def puestos() -> int:
 
 
 def capacidad() -> pd.DataFrame:
-    rot = CAP["rot_almuerzo"] + CAP["rot_cena"]
+    rot = CAP["rot_almuerzo"] + CAP["rot_tarde"] + CAP["rot_noche"]
     com_dia_dis = puestos() * rot
     platos_dia_dis = com_dia_dis * CAP["platos_por_comensal"]
     dis = platos_dia_dis * CAP["dias_anio"]
@@ -319,31 +319,31 @@ class Insumo:
     tipo: str = "Costo (materia prima directa)"
 
 
-# Precios mayoristas SIPSA-DANE en Cartagena (Bazurto), 26-oct-2026, salvo que se indique otra fuente.
-F_SIPSA_CTG = "SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios)"
-F_SIPSA_NAL = "SIPSA-DANE, promedio nacional, 26-oct-2026 (vía Agronegocios)"
-F_SIPSA_CAR = "SIPSA-DANE, región Caribe, 26-oct-2026 (vía Agronegocios)"
+# Precios mayoristas SIPSA-DANE en Cartagena (Bazurto), consultados en Agronegocios el 24-oct-2026, salvo que se indique otra fuente.
+F_SIPSA_CTG = "SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026"
+F_SIPSA_NAL = "SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026"
+F_SIPSA_CAR = "SIPSA-DANE, región Caribe (vía Agronegocios), consulta 24-oct-2026"
 F_GGM = "Global Gourmet Market Colombia, consulta 24-oct-2026"
 REND_FILETE = 0.46  # rendimiento en filete de referencia (Mancera, 2024: 46,15 % en cachama); se asume similar para pargo
 
 RECETAS: dict[str, list[Insumo]] = {
-    "Rollos de sushi": [  # 1 rollo = 8 piezas (≈ 260 g)
-        Insumo("Arroz japonés para sushi (bulto Botan 50 lb)", 0.120, "kg", 370_000 / 22.68, "Importador de insumos japoneses", "Importado", F_GGM + ": $370.000 / 50 lb"),
-        Insumo("Vinagre de arroz (Kenko 750 ml)", 0.015, "L", 18_000 / 0.75, "Importador de insumos japoneses", "Importado", F_GGM + ": $18.000 / 750 ml"),
-        Insumo("Azúcar refinada (sazón del shari)", 0.005, "kg", 3_820, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
+    "Rollos de sushi": [  # 1 rollo = 10 piezas (≈ 320 g)
+        Insumo("Arroz japonés para sushi (bulto Botan 50 lb)", 0.150, "kg", 370_000 / 22.68, "Importador de insumos japoneses", "Importado", F_GGM + ": $370.000 / 50 lb"),
+        Insumo("Vinagre de arroz (Kenko 750 ml)", 0.019, "L", 18_000 / 0.75, "Importador de insumos japoneses", "Importado", F_GGM + ": $18.000 / 750 ml"),
+        Insumo("Azúcar refinada (sazón del shari)", 0.006, "kg", 3_820, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
         Insumo("Sal (sazón del shari)", 0.002, "kg", 1_100, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
         Insumo("Alga nori (paquete de 100 hojas)", 1, "und", 98_000 / 100, "Importador de insumos japoneses", "Importado", F_GGM + ": $98.000 / 100 hojas"),
-        Insumo(f"Pargo rojo entero fresco (pesca artesanal; 45 g de filete, rinde {int(REND_FILETE*100)} %)", 0.045 / REND_FILETE, "kg", 21_000, "Pescadores artesanales – Mercado de Bazurto", "Caribe", F_SIPSA_CTG),
-        Insumo("Langostino 16-20", 0.025, "kg", 62_445, "Pescadería mayorista", "Nacional", F_SIPSA_NAL),
-        Insumo("Aguacate papelillo", 0.030, "kg", 11_083, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Pepino cohombro", 0.020, "kg", 2_367, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Mango de azúcar (toque caribeño)", 0.015, "kg", 2_400, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Queso crema (Alpina 380 g)", 0.020, "kg", 13_000 / 0.38, "Distribuidor de lácteos", "Nacional", "Mercasur, consulta 24-oct-2026: $13.000 / 380 g"),
-        Insumo("Ajonjolí descortezado", 0.003, "kg", 12_000 / 0.25, "Importador de insumos japoneses", "Nacional", F_GGM + ": $12.000 / 250 g"),
+        Insumo(f"Pargo rojo entero fresco (pesca artesanal; 56 g de filete, rinde {int(REND_FILETE*100)} %)", 0.056 / REND_FILETE, "kg", 21_000, "Pescadores artesanales – Mercado de Bazurto", "Caribe", F_SIPSA_CTG),
+        Insumo("Langostino 16-20", 0.031, "kg", 62_445, "Pescadería mayorista", "Nacional", F_SIPSA_NAL),
+        Insumo("Aguacate papelillo", 0.038, "kg", 11_083, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Pepino cohombro", 0.025, "kg", 2_367, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Mango de azúcar (toque caribeño)", 0.019, "kg", 2_400, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Queso crema (Alpina 380 g)", 0.025, "kg", 13_000 / 0.38, "Distribuidor de lácteos", "Nacional", "Mercasur, consulta 24-oct-2026: $13.000 / 380 g"),
+        Insumo("Ajonjolí descortezado", 0.004, "kg", 12_000 / 0.25, "Importador de insumos japoneses", "Nacional", F_GGM + ": $12.000 / 250 g"),
         Insumo("Salsa de soya (Sakura 20 L)", 0.015, "L", 294_000 / 20, "Importador de insumos japoneses", "Importado", F_GGM + ": $294.000 / 20 L"),
         Insumo("Wasabi en polvo (Waner 1 kg)", 0.002, "kg", 115_000, "Importador de insumos japoneses", "Importado", F_GGM + ": $115.000 / kg"),
         Insumo("Jengibre encurtido – gari (340 g)", 0.010, "kg", 15_000 / 0.34, "Importador de insumos japoneses", "Importado", F_GGM + ": $15.000 / 340 g"),
-        Insumo("Mayonesa (base de la salsa spicy de la casa)", 0.010, "kg", 18_490, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
+        Insumo("Mayonesa (base de la salsa spicy de la casa)", 0.012, "kg", 18_490, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
     ],
     "Ramen": [  # 1 bowl ≈ 650 ml
         Insumo("Fideo de trigo estilo chuka (Best Choice 400 g)", 0.120, "kg", 15_500 / 0.4, "Importador de insumos japoneses", "Importado", F_GGM + ": $15.500 / 400 g"),
@@ -380,6 +380,30 @@ PRECIO_VENTA = {"Rollos de sushi": 40_000, "Ramen": 38_000, "Tempura": 38_000}  
 IMPOCONSUMO = 0.08
 
 # Precios reales de la competencia (para el método de precios)
+# Precios publicados por restaurantes de Cartagena (consulta 24-oct-2026): (restaurante, zona, n, promedio, mínimo, máximo, fuente)
+MERCADO_ROLLOS = [
+    ("Masaki Sushi Wok", "Centro (Calle del Colegio)", 12, 49_550, 40_000, 57_000, "Rappi"),
+    ("Nami", "Bocagrande (Av. San Martín)", 16, 51_975, 38_500, 73_700, "Rappi"),
+    ("Koi Koi Sushi", "Cl. 29 #18B-64", 39, 54_385, 46_000, 64_000, "Rappi"),
+    ("Cocina Nikkei", "Cra 11 #39-21", 12, 49_342, 46_800, 52_900, "Rappi"),
+    ("My Sushi Delivery", "Santa Mónica", 40, 43_170, 27_900, 58_000, "Rappi"),
+]
+MERCADO_RAMEN = [
+    ("Dame Ramen", "Bocagrande", 9, 45_667, 35_000, 69_000, "dameramen.com"),
+    ("Nami", "Bocagrande", 2, 58_300, 56_100, 60_500, "Rappi"),
+    ("Koi Koi Sushi", "Cl. 29 #18B-64", 1, 64_000, 64_000, 64_000, "Rappi"),
+    ("Cocina Nikkei", "Cra 11 #39-21", 2, 43_800, 40_800, 46_800, "Rappi"),
+]
+MERCADO_TEMPURA = [
+    ("Masaki Sushi Wok", "Centro", 1, 25_000, 25_000, 25_000, "Rappi"),
+    ("Koi Koi Sushi", "Cl. 29 #18B-64", 1, 32_000, 32_000, 32_000, "Rappi"),
+]
+
+
+def promedio_mercado(lista) -> float:
+    return sum(x[3] for x in lista) / len(lista)
+
+
 COMPETENCIA_PRECIOS = {
     "Rollos de sushi": ("Masaki Sushi Wok (Rappi): 12 rollos completos entre $40.000 y $57.000; promedio $49.550", 49_550),
     "Ramen": ("Dame Ramen, Bocagrande (menú web): 9 ramen entre $35.000 y $69.000; promedio $45.667", 45_667),
@@ -557,10 +581,11 @@ OPEX_MENSUAL = [  # (concepto, valor mensual)
     ("Arriendo del local (200 m² × $75.295/m², mediana Manga)", AREA_LOCAL_M2 * ARRIENDO_M2_MANGA),
     ("Energía eléctrica (Afinia: 2.600 kWh × $1.240/kWh)", round(CONSUMO_KWH_MES * TARIFA_ENERGIA_KWH, -3)),
     ("Agua y alcantarillado (Aguas de Cartagena)", 650_000),
-    ("Gas natural (Gases del Caribe)", 1_100_000),
+    ("Gas natural (Surtigas)", 1_100_000),
     ("Internet y telefonía", 250_000),
     ("Marketing digital y pauta en redes (presupuesto del equipo)", 2_500_000),
-    ("Aseo, fumigación y control de plagas", 450_000),
+    ("Recolección de residuos (Pacaribe, usuario no residencial; estimación)", 250_000),
+    ("Fumigación y control de plagas (estimación)", 200_000),
     ("Mantenimiento de equipos", 600_000),
     ("Seguros (todo riesgo y responsabilidad civil)", 550_000),
     ("Derechos de autor por música (Sayco–Acinpro / OSA)", 120_000),

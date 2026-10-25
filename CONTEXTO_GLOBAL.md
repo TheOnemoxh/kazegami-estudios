@@ -26,7 +26,7 @@
 | Propuesta de valor | Del mar directo al plato; técnica 100 % japonesa con ingredientes locales; opciones vegetarianas/veganas; experiencia en barra de sushi, ambiente sereno, servicio cercano |
 | Canales | Restaurante físico (único punto en Cartagena); Instagram, TikTok, WhatsApp; Google Maps, TripAdvisor |
 | Relación con clientes | Atención personalizada en mesa y barra; fidelización; reservas por WhatsApp e Instagram; reseñas y encuestas |
-| Fuentes de ingreso | Carta (almuerzo y cena); menú ejecutivo de mediodía; omakase por reserva; bebidas (sake, té, cerveza japonesa, cocteles); eventos privados |
+| Fuentes de ingreso | Carta (horario continuo de 12:00 m. a 10:00 p. m., martes a domingo); menú ejecutivo de mediodía; omakase por reserva; bebidas (sake, té, cerveza japonesa, cocteles); eventos privados |
 | Recursos clave | Local con barra de sushi a la vista; chef sushiman; cocina y refrigeración; marca y recetario; POS y reservas |
 | Actividades clave | Preparación diaria de sushi y ramen; control de calidad y cadena de frío; servicio en sala y barra; compras e inventario; redes |
 | Socios clave | Pesca artesanal (Bazurto, Mercado del Mar); importadores japoneses (arroz, nori, soya, wasabi); agricultores de Bolívar; escuelas de gastronomía; empaques y medios de pago; hoteles y agencias |
@@ -76,12 +76,17 @@ Detalle completo, tablas por pregunta y cruces: `datos/RESUMEN_ENCUESTA.md`.
 | Puestos del local | 56 (12 mesas × 4 + 8 en barra) | Diseño |
 | Capacidad diseñada / instalada | 73.382 / 58.706 platos/año | Diseño |
 | Platos Kazegami 2027 → 2031 | 29.353 → 46.965 (8,8 % → 11,0 % de la DI) | — |
-| Costo MP por porción: sushi / ramen / tempura | $9.255 / $12.120 / $11.953 | Precios SIPSA-DANE y proveedores (verificados) |
-| Costo unitario total (formato Punto 6) | $9.936 / $13.189 / $12.687 | — |
-| Precios de venta | $40.000 / $38.000 / $38.000 | Competencia real: rollos prom. $49.550 (Masaki), ramen prom. $45.667 (Dame Ramen) |
-| Inversión técnica inicial | $394.891.102 | Equipos mayormente verificados; obra y mobiliario estimados |
+| Costo MP por porción: sushi (rollo de 10 piezas ≈ 320 g) / ramen / tempura | $11.087 / $12.120 / $11.953 | Precios SIPSA-DANE y proveedores (verificados) |
+| Costo unitario total (formato Punto 6) | $11.768 / $13.189 / $12.687 | Food cost 29,9 % / 34,4 % / 34,0 % |
+| Precios de venta | $40.000 / $38.000 / $38.000 | Promedio real de mercado (Rappi y dameramen.com, 24-oct-2026): rollos $49.684 (5 restaurantes), ramen $52.942 (4), tempura de vegetales $28.500 (2) |
+| Inversión técnica inicial | $396.901.294 | Equipos mayormente verificados; obra y mobiliario estimados |
 | Arriendo (Manga, mediana Fincaraíz) | $75.295/m² → $15.059.000/mes | Verificado |
 | Microlocalización | Manga 6,91 · Centro Histórico 6,76 · Getsemaní 5,59 · Bocagrande 4,38 | Votos y arriendo cuantitativos; resto cualitativo |
+
+| Horario | Martes a domingo, continuo de 12:00 m. a 10:00 p. m. (rotaciones 1,5 almuerzo + 0,5 tarde + 1,5 noche) | Diseño |
+| Servicios públicos | Afinia (energía), Aguas de Cartagena (agua), Surtigas (gas natural), Pacaribe (aseo) | Cartagena Cómo Vamos 2023 |
+| Compras a proveedores | Pescado y vegetales 2 veces/semana; carnes y secos nacionales semanal; importados y desechables mensual | WISK (2022): 4-6 pedidos de alimentos al mes |
+| Tiempos de entrega | Rollos 15-20 min; ramen y tempura 12-15 min; mesa completa ≤ 20 min (≤ 25 en hora pico) | Estándar operativo del equipo |
 
 **Regla:** toda cifra nueva necesita fuente; si no existe dato público, se escribe "Estimación" y se explica en qué se basa.
 

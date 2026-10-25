@@ -98,7 +98,7 @@ Table: Tabla 3. Modelo Canvas de Kazegami (síntesis)
 | Propuesta de valor | Del mar directo al plato, técnica 100 % japonesa con ingredientes locales; opciones vegetarianas y veganas; experiencia 100 % en el local |
 | Canales | Restaurante físico (único punto en Cartagena); Instagram, TikTok y WhatsApp; Google Maps y TripAdvisor |
 | Relación con clientes | Atención personalizada en mesa y barra; programa de fidelización; reservas por WhatsApp e Instagram; reseñas y encuestas de satisfacción |
-| Fuentes de ingreso | Venta a la carta (almuerzo y cena); menú ejecutivo de mediodía; experiencia omakase por reserva; bebidas (sake, té, cervezas japonesas, cocteles); eventos privados |
+| Fuentes de ingreso | Venta a la carta (horario continuo de 12:00 m. a 10:00 p. m.); menú ejecutivo de mediodía; experiencia omakase por reserva; bebidas (sake, té, cervezas japonesas, cocteles); eventos privados |
 | Recursos clave | Local con barra de sushi a la vista; chef sushiman y equipo; cocina equipada y refrigeración; marca y recetario; sistema POS y reservas |
 | Actividades clave | Preparación diaria de sushi y ramen; control de calidad y cadena de frío; servicio en sala y barra; compras, inventario y reservas; contenido y pauta en redes |
 | Socios clave | Pesca artesanal (Bazurto, Mercado del Mar); importadores de insumos japoneses; agricultores de Bolívar; escuelas de gastronomía; proveedores de empaques y medios de pago; hoteles y agencias turísticas |

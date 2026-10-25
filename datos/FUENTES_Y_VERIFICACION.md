@@ -44,41 +44,41 @@
 |:---|:---|:---|:---|
 | Arroz japonés para sushi (bulto Botan 50 lb) | $16.314/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $370.000 / 50 lb |
 | Vinagre de arroz (Kenko 750 ml) | $24.000/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $18.000 / 750 ml |
-| Azúcar refinada (sazón del shari) | $3.820/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Sal (sazón del shari) | $1.100/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
+| Azúcar refinada (sazón del shari) | $3.820/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Sal (sazón del shari) | $1.100/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | Alga nori (paquete de 100 hojas) | $980/und | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
-| Pargo rojo entero fresco (pesca artesanal; 45 g de filete, rinde 46 %) | $21.000/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Langostino 16-20 | $62.445/kg | Verificado | SIPSA-DANE, promedio nacional, 26-oct-2026 (vía Agronegocios) |
-| Aguacate papelillo | $11.083/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Pepino cohombro | $2.367/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Mango de azúcar (toque caribeño) | $2.400/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
+| Pargo rojo entero fresco (pesca artesanal; 56 g de filete, rinde 46 %) | $21.000/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Langostino 16-20 | $62.445/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Aguacate papelillo | $11.083/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Pepino cohombro | $2.367/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Mango de azúcar (toque caribeño) | $2.400/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | Queso crema (Alpina 380 g) | $34.211/kg | Verificado | Mercasur, consulta 24-oct-2026: $13.000 / 380 g |
 | Ajonjolí descortezado | $48.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $12.000 / 250 g |
 | Salsa de soya (Sakura 20 L) | $14.700/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
 | Wasabi en polvo (Waner 1 kg) | $115.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $115.000 / kg |
 | Jengibre encurtido – gari (340 g) | $44.118/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.000 / 340 g |
-| Mayonesa (base de la salsa spicy de la casa) | $18.490/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
+| Mayonesa (base de la salsa spicy de la casa) | $18.490/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | Fideo de trigo estilo chuka (Best Choice 400 g) | $38.750/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.500 / 400 g |
-| Espinazo de cerdo (caldo) | $12.750/kg | Verificado | SIPSA-DANE, región Caribe, 26-oct-2026 (vía Agronegocios) |
-| Rabadillas de pollo (caldo) | $6.500/kg | Verificado | SIPSA-DANE, promedio nacional, 26-oct-2026 (vía Agronegocios) |
-| Tocino de barriga de cerdo (chashu) | $18.170/kg | Verificado | SIPSA-DANE, promedio nacional, 26-oct-2026 (vía Agronegocios) |
-| Huevo rojo A (ajitama) | $494/und | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
+| Espinazo de cerdo (caldo) | $12.750/kg | Verificado | SIPSA-DANE, región Caribe (vía Agronegocios), consulta 24-oct-2026 |
+| Rabadillas de pollo (caldo) | $6.500/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Tocino de barriga de cerdo (chashu) | $18.170/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Huevo rojo A (ajitama) | $494/und | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | Miso (Hikari 1 kg) | $40.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $40.000 / kg |
 | Mirin (Kikkoman 375 ml) | $114.667/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $43.000 / 375 ml |
 | Alga nori (½ hoja) | $980/und | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
-| Cebollín chino | $6.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Repollo blanco salteado | $2.077/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Ajo | $5.858/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
+| Cebollín chino | $6.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Repollo blanco salteado | $2.077/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Ajo | $5.858/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | Aceite de ajonjolí (Kuki 1.650 ml) | $83.939/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $138.500 / 1.650 ml |
-| Berenjena | $1.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Ahuyama | $1.667/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Cebolla cabezona blanca | $2.408/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
+| Berenjena | $1.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Ahuyama | $1.667/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Cebolla cabezona blanca | $2.408/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | Harina para tempura (Best Choice 1 kg) | $23.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $23.000 / kg |
-| Fécula de maíz | $37.153/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Huevo rojo A (½ unidad) | $494/und | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
-| Aceite vegetal para freír (consumo + reposición) | $9.792/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
+| Fécula de maíz | $37.153/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Huevo rojo A (½ unidad) | $494/und | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Aceite vegetal para freír (consumo + reposición) | $9.792/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | Alga kombu (dashi para tentsuyu) | $160.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $16.000 / 100 g |
-| Rábano rojo rallado (en lugar de daikon) | $6.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto), 26-oct-2026 (vía Agronegocios) |
+| Rábano rojo rallado (en lugar de daikon) | $6.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 
 ## 3. Maquinaria y equipos
 

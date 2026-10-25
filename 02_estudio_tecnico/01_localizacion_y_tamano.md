@@ -2,6 +2,8 @@
 
 ## 2.1 Macrolocalización
 
+La macrolocalización define la región y la ciudad donde operará el restaurante. Se analiza de lo general a lo particular —país, región, ciudad y zona— y en cada nivel se indican los factores que justifican la elección, con datos de población, turismo y de la encuesta.
+
 Table: Tabla 3. Macrolocalización de Kazegami
 
 | Nivel | Ubicación | Factores que la justifican |
@@ -22,7 +24,7 @@ Table: Tabla 4. Factores de macrolocalización evaluados
 | Materia prima | Pesca artesanal en Bazurto y Mercado del Mar; agro de Bolívar a menos de 2 horas | Alta |
 | Insumos importados | Puerto marítimo y aeropuerto internacional; mayoristas en Barranquilla (2 h) | Media-alta |
 | Mano de obra | Escuelas de gastronomía (SENA, institutos privados) y oferta de cocineros | Media |
-| Servicios públicos | Afinia, Acuacar, Gases del Caribe; cortes de energía frecuentes | Media (se mitiga con planta eléctrica) |
+| Servicios públicos | Afinia (energía), Acuacar (agua), Surtigas (gas natural) y Pacaribe (aseo); cortes de energía frecuentes | Media (se mitiga con planta eléctrica) |
 | Marco institucional | DADIS, Cámara de Comercio, Planeación Distrital | Media |
 
 
@@ -110,12 +112,14 @@ Table: Tabla 9. Características del local propuesto
 
 # 3. Tamaño del proyecto
 
+El tamaño del proyecto es la capacidad de producción de Kazegami, medida en platos por año. Antes de calcularlo se revisan los factores que lo limitan o lo favorecen: la demanda insatisfecha, la disponibilidad de insumos, la tecnología, el financiamiento, la capacidad de la barra de sushi y la organización.
+
 Table: Tabla 10. Factores que condicionan el tamaño
 
 | Factor | Situación | Efecto sobre el tamaño |
 |:--------------------------|:------------------------------------------|:---------------------------------------|
 | Demanda insatisfecha | 333.187 platos/año en 2027 | No limita: Kazegami atiende menos del 20 % de la brecha |
-| Disponibilidad de insumos | Pesca artesanal diaria; importados con stock de 1 mes | No limita si se diversifican proveedores |
+| Disponibilidad de insumos | Pesca artesanal comprada 2 veces por semana y ultracongelada; importados con stock de 1 mes | No limita si se diversifican proveedores |
 | Tecnología y equipos | Equipos industriales disponibles en Colombia | No limita |
 | Financiamiento | Inversión de aportes de los socios y crédito | **Limita**: se escoge un local de 200 m² |
 | Capacidad del sushiman | Estimación del equipo: un sushiman arma 12-15 rollos por hora | Se requieren 2 sushimen en hora pico |
@@ -124,6 +128,8 @@ Table: Tabla 10. Factores que condicionan el tamaño
 
 ## 3.1 Capacidad diseñada (máxima teórica)
 
+La capacidad diseñada es la producción máxima que el local podría alcanzar si todos sus puestos se ocuparan en cada rotación durante todo el horario. Con el horario continuo de 12:00 m. a 10:00 p. m., el día se divide en tres franjas: el almuerzo, la tarde (horas valle) y la noche. La tabla muestra el cálculo paso a paso.
+
 Table: Tabla 11. Cálculo de la capacidad diseñada
 
 | Variable | Valor | Cálculo |
@@ -131,9 +137,10 @@ Table: Tabla 11. Cálculo de la capacidad diseñada
 | Puestos en mesas | 48 | 12 mesas × 4 puestos |
 | Puestos en barra de sushi | 8 | Barra a la vista |
 | **Total de puestos** | **56** |  |
-| Rotación en almuerzo (12:00-15:00) | 1,5 | Estancia promedio de 60-75 min |
-| Rotación en cena (18:00-22:30) | 2,0 | Estancia promedio de 90 min |
-| Comensales por día | 196 | 56 × 3,5 |
+| Rotación franja de almuerzo (12:00 m. - 3:00 p. m.) | 1,5 | Estancia promedio de 60-75 min |
+| Rotación franja de la tarde (3:00 p. m. - 6:00 p. m.) | 0,5 | Horas valle: medio salón ocupado |
+| Rotación franja de la noche (6:00 p. m. - 10:00 p. m.) | 1,5 | Estancia promedio de 90 min |
+| Comensales por día | 196 | 56 puestos × 3,5 rotaciones |
 | Platos del Top 3 por comensal | 1,2 | Plato fuerte + tempura compartida |
 | Platos por día | 235 |  |
 | Días de operación al año | 312 | 6 días por semana (lunes cerrado) × 52 |
@@ -184,8 +191,9 @@ Table: Tabla 14. Distribución diaria de la producción en 2027 (día promedio)
 
 | Turno | Comensales | Rollos de sushi | Ramen | Tempura |
 |:----------------------------|-------------------:|-------------------:|-------------------:|-------------------:|
-| Almuerzo (40 %) | 31 | 17 | 11 | 10 |
-| Cena (60 %) | 47 | 25 | 17 | 15 |
+| Almuerzo 12:00 m. - 3:00 p. m. (43 %) | 34 | 18 | 12 | 10 |
+| Tarde 3:00 p. m. - 6:00 p. m. (14 %) | 11 | 6 | 4 | 3 |
+| Noche 6:00 p. m. - 10:00 p. m. (43 %) | 34 | 18 | 12 | 10 |
 | **Total día** | **78** | **42** | **28** | **24** |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*

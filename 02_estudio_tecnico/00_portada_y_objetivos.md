@@ -62,7 +62,7 @@ Table: Tabla 1. Datos de entrada que vienen del Estudio de Mercados
 | Demanda insatisfecha 2027-2031 (base) | 333.187 → 425.267 platos/año | Tamaño del proyecto |
 | Zona preferida por los encuestados | Centro Histórico (33), Manga (17), Bocagrande (10), Getsemaní (8) | Microlocalización |
 | Precios de venta | Rollos $40.000 · Ramen $38.000 · Tempura $38.000 | Validación de costos unitarios |
-| Horario y servicio | Almuerzo y cena; experiencia 100 % en el local | Capacidad y rotación |
+| Horario y servicio | Martes a domingo, horario continuo de 12:00 m. a 10:00 p. m.; experiencia 100 % en el local | Capacidad y rotación |
 
 
 # 1. Objetivos del estudio técnico

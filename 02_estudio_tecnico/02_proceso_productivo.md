@@ -4,6 +4,8 @@ El proceso de Kazegami tiene dos momentos: la **producción anticipada** (mise e
 
 ## 4.1 Proceso productivo de Rollos de sushi
 
+El rollo de sushi es el proceso más delicado de Kazegami porque el pescado se sirve crudo. Por eso empieza con la recepción y la ultracongelación del pargo, sigue con la preparación del arroz (shari) y termina con el armado y corte del rollo al momento del pedido. El diagrama de flujo muestra la secuencia general y el cursograma detalla cada actividad con su tiempo, su responsable y su control.
+
 ![Figura 5. Diagrama de flujo del proceso de Rollos de sushi](assets/diagramas/d01_flujo_rollos_sushi.png){width=15.5cm}
 
 *Fuente: Elaboración propia.*
@@ -13,23 +15,25 @@ Table: Tabla 15. Cursograma analítico: Rollos de sushi
 
 | N.º | Actividad | Símbolo | Tiempo | Responsable | Temperatura / control de calidad |
 |:---:|:--------------------------------|:--------------|-----------:|:--------------|:-----------------------------|
-| 1 | Recepción del pescado del día (Bazurto / Mercado del Mar) | ⇨ Transporte | 15 min | Jefe de cocina | Transporte en nevera con hielo |
+| 1 | Recepción del pescado (martes y viernes, Bazurto / Mercado del Mar) | ⇨ Transporte | 15 min | Jefe de cocina | Transporte en nevera con hielo |
 | 2 | Control de recepción del pescado | □ Inspección | 5 min | Jefe de cocina | T° interna ≤ 4 °C; ojos brillantes, agallas rojas, olor a mar |
 | 3 | Eviscerado, fileteado y porcionado del pargo (rinde ≈ 46 %) | ○ Operación | 25 min | Sushiman | Tabla y cuchillo exclusivos para pescado crudo |
 | 4 | Ultracongelación para control de parásitos | ▽ Almacenamiento | 15 h | Sushiman | −35 °C durante 15 h (o −20 °C × 7 días) |
-| 5 | Almacenamiento refrigerado | ▽ Almacenamiento | ≤ 48 h | Sushiman | 0-4 °C; rotulado con fecha; PEPS |
+| 5 | Almacenamiento congelado y descongelado diario en refrigeración | ▽ Almacenamiento | ≤ 4 días congelado + ≤ 48 h refrigerado | Sushiman | −18 °C; se descongela a 0-4 °C solo lo del día; rotulado con fecha; PEPS |
 | 6 | Lavado del arroz japonés | ○ Operación | 10 min | Auxiliar de cocina | 3-4 aguas hasta que salga clara |
 | 7 | Reposo del arroz | D Demora | 30 min | — | — |
 | 8 | Cocción del arroz en arrocera | ○ Operación | 20 min | Auxiliar de cocina | Proporción 1:1,1 arroz-agua |
 | 9 | Sazonado del shari y enfriado | ○ Operación | 10 min | Sushiman | Mezcla de vinagre, azúcar y sal; 30-35 °C; vida útil 4 h |
 | 10 | Corte de vegetales y mise en place de barra | ○ Operación | 20 min | Sushiman auxiliar | Vegetales desinfectados; mesa refrigerada a 4 °C |
-| 11 | Armado del rollo en makisu (al pedido) | ○ Operación | 4 min | Sushiman | Guantes o manos lavadas; 120 g de arroz por rollo |
-| 12 | Corte en 8 piezas y emplatado | ○ Operación | 2 min | Sushiman | Cuchillo yanagiba húmedo |
+| 11 | Armado del rollo en makisu (al pedido) | ○ Operación | 4 min | Sushiman | Guantes o manos lavadas; 150 g de arroz y 56 g de pescado por rollo |
+| 12 | Corte en 10 piezas y emplatado | ○ Operación | 2 min | Sushiman | Cuchillo yanagiba húmedo |
 | 13 | Control de calidad final | □ Inspección | 30 s | Sushiman | Forma, peso, T° del pescado ≤ 5 °C, presentación |
 | 14 | Entrega en barra o pase a mesa | ⇨ Transporte | 1 min | Mesero | Consumo antes de 30 min |
 
 
 ## 4.2 Proceso productivo de Ramen
+
+El ramen depende de una producción anticipada larga: el caldo se cocina entre 10 y 12 horas y el chashu y el huevo marinado se preparan desde el día anterior. Gracias a eso, al momento del pedido solo se calienta el caldo, se cocina el fideo y se arma el bowl. El diagrama y el cursograma presentan ambas etapas.
 
 ![Figura 6. Diagrama de flujo del proceso de Ramen](assets/diagramas/d02_flujo_ramen.png){width=15.5cm}
 
@@ -56,6 +60,8 @@ Table: Tabla 16. Cursograma analítico: Ramen
 
 ## 4.3 Proceso productivo de Tempura
 
+La tempura se prepara casi por completo al momento del pedido para conservar su textura crocante. La producción anticipada se limita a pelar el langostino y cortar los vegetales; el batido, la fritura y el emplatado se hacen cuando llega la comanda, como muestran el diagrama y el cursograma.
+
 ![Figura 7. Diagrama de flujo del proceso de Tempura](assets/diagramas/d03_flujo_tempura.png){width=15.5cm}
 
 *Fuente: Elaboración propia.*
@@ -81,6 +87,8 @@ Table: Tabla 17. Cursograma analítico: Tempura
 
 ## 4.4 Prestación del servicio en sala y barra
 
+La prestación del servicio describe el recorrido del cliente desde que reserva hasta que paga. El diagrama de flujo y el cursograma identifican los pasos de atención y los tiempos de cada uno, y al final se resumen las actividades de los cuatro procesos y los tiempos de entrega al cliente.
+
 ![Figura 8. Diagrama de flujo de la prestación del servicio](assets/diagramas/d04_flujo_servicio.png){width=15.5cm}
 
 *Fuente: Elaboración propia.*
@@ -95,7 +103,7 @@ Table: Tabla 18. Cursograma analítico: prestación del servicio
 | 3 | Ubicación en mesa o barra | ⇨ Transporte | 1 min | Anfitrión | Mesa limpia y montada |
 | 4 | Presentación de la carta y toma del pedido en tablet | ○ Operación | 5 min | Mesero | Preguntar por alergias |
 | 5 | Envío de la comanda digital a cocina y barra | ⇨ Transporte | Inmediato | Sistema POS | Impresión de comanda en cada estación |
-| 6 | Preparación de los platos | D Demora | 8-15 min | Cocina y barra | Tiempos estándar por plato |
+| 6 | Preparación de los platos | D Demora | 12-20 min | Cocina y barra | Tiempos estándar por plato, incluida la cola de pedidos |
 | 7 | Servicio a la mesa | ⇨ Transporte | 1 min | Mesero | Orden de salida: tempura → sushi → ramen |
 | 8 | Verificación de satisfacción | □ Inspección | 30 s | Mesero | A los 2 min de servir |
 | 9 | Factura electrónica y cobro | ○ Operación | 3 min | Cajero | Datáfono, QR o efectivo |
@@ -112,16 +120,23 @@ Table: Tabla 19. Resumen de los cursogramas
 | Servicio en sala y barra | 5 | 1 | 3 | 1 | 0 | 10 |
 
 
+Los tiempos de entrega se calcularon sumando las operaciones al pedido de cada cursograma (armado, cocción, emplatado, control y pase) y agregando el tiempo de espera por la cola de comandas en las horas de mayor afluencia. Son un estándar operativo definido por el equipo.
+
 Table: Tabla 20. Tiempos de entrega al cliente (producción al pedido)
 
-| Plato | Tiempo de preparación al pedido | Etapas críticas previas | Tiempo objetivo pedido → mesa |
-|:-------------------|:----------------------|:------------------------------------------|:----------------------|
-| Rollos de sushi | 6-8 min | Pescado ultracongelado y refrigerado; shari listo | ≤ 10 min |
-| Ramen | 4-5 min | Caldo de 10-12 h, chashu y huevo listos | ≤ 8 min |
-| Tempura | 5-7 min | Langostino y vegetales porcionados | ≤ 8 min |
+| Plato | Tiempo de preparación sin cola | Etapas críticas previas | Tiempo objetivo pedido → mesa (con cola) |
+|:----------------------|:----------------------|:--------------------------------------|:-------------------------|
+| Rollos de sushi | 8-10 min | Pescado ultracongelado y descongelado; shari listo | 15-20 min |
+| Ramen | 6-8 min | Caldo de 10-12 h, chashu y huevo listos | 12-15 min |
+| Tempura | 6-8 min | Langostino y vegetales porcionados | 12-15 min |
+| **Pedido completo de una mesa** | — | Los platos de una misma mesa salen juntos | **≤ 20 min (≤ 25 min en hora pico)** |
+
+*Fuente: Estándar operativo del equipo con base en los cursogramas.*
 
 
 ## 4.5 Puntos críticos de control (inocuidad)
+
+Los puntos críticos de control son las etapas del proceso donde un error puede poner en riesgo la salud del cliente. Siguiendo el enfoque HACCP, la tabla identifica cinco puntos críticos de los tres platos, el peligro asociado, el límite que no se debe superar, cómo se vigila y qué se hace si falla.
 
 Table: Tabla 21. Puntos críticos de control (enfoque HACCP)
 
@@ -137,6 +152,8 @@ Table: Tabla 21. Puntos críticos de control (enfoque HACCP)
 
 
 ## 4.6 Distribución de áreas del local (layout)
+
+La distribución en planta organiza los 200 m² del local para que los insumos avancen en una sola dirección —de la recepción al almacenamiento, la preparación, la cocción y el servicio— sin cruzarse con la vajilla sucia ni con los residuos. La figura muestra el plano general y la tabla detalla el área, la función y los equipos de cada zona.
 
 ![Figura 9. Distribución en planta del local (≈ 200 m²)](assets/diagramas/d05_layout_local.png){width=15.5cm}
 

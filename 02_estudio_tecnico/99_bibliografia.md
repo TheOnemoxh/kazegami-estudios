@@ -1,16 +1,18 @@
 # Referencias
 
-Agronegocios. (2026, 26 de octubre). *Precios del agro en Cartagena* [Datos del SIPSA-DANE]. https://www.agronegocios.co/precios/repollo-blanco/caribe/bolivar/cartagena
+Agronegocios. (2026, 24 de octubre). *Langostino 16-20* [Datos del SIPSA-DANE]. https://www.agronegocios.co/precios/langostino-16-20
 
-Agronegocios. (2026, 26 de octubre). *Langostino 16-20* [Datos del SIPSA-DANE]. https://www.agronegocios.co/precios/langostino-16-20
-
-Aleluya. (2026). *Costo de un empleado en Colombia 2026*. https://aleluya.com/blog/nomina/costo-de-un-empleado-en-colombia-2026/
+Agronegocios. (2026, 24 de octubre). *Precios del agro en Cartagena (Bazurto)* [Datos del SIPSA-DANE]. https://www.agronegocios.co/precios/azucar-refinada/caribe/bolivar/cartagena
 
 Alcaldía Mayor de Cartagena de Indias. (2001). *Decreto 0977 de 2001, Plan de Ordenamiento Territorial del Distrito de Cartagena de Indias*.
+
+Aleluya. (2026). *Costo de un empleado en Colombia 2026*. https://aleluya.com/blog/nomina/costo-de-un-empleado-en-colombia-2026/
 
 America Food Solutions. (2026). *Refrigerador chiller vertical industrial de 2 puertas TG1400R2A*. https://www.americafoodsolutions.co/tienda/refrigerador-chiller-vertical-2-puertas-tg1400r2a/
 
 Baca Urbina, G. (2013). *Evaluación de proyectos* (7.ª ed.). McGraw-Hill.
+
+Cartagena Cómo Vamos. (2023). *Servicios públicos: Encuesta de Percepción Ciudadana 2023*. https://cartagenacomovamos.org/wp-content/uploads/2023/12/servicios-publicos-epc-2023-cartagenacomovamos-INF.pdf
 
 Congreso de Colombia. (1979). *Ley 9 de 1979, por la cual se dictan medidas sanitarias*. Diario Oficial.
 
@@ -46,8 +48,6 @@ Maquitec de Colombia. (2026). *Planta eléctrica diésel cabinada Power Motors 2
 
 Mercasur. (2026). *Queso crema Alpina*. https://mercasur.com.co/es/productos/alp-q-crema-200g
 
-Miranda Miranda, J. J. (2005). *Gestión de proyectos: identificación, formulación, evaluación financiera, económica, social, ambiental* (5.ª ed.). MM Editores.
-
 Ministerio de Agricultura y Desarrollo Rural. (2015). *Decreto 1071 de 2015, Decreto Único Reglamentario del Sector Agropecuario, Pesquero y de Desarrollo Rural*.
 
 Ministerio de Hacienda y Crédito Público. (2016). *Decreto 1625 de 2016, Decreto Único Reglamentario en materia tributaria*.
@@ -57,6 +57,8 @@ Ministerio de Salud y Protección Social. (2013). *Resolución 2674 de 2013, req
 Ministerio del Trabajo. (2015). *Decreto 1072 de 2015, Decreto Único Reglamentario del Sector Trabajo*.
 
 Ministerio del Trabajo. (2025). *Decreto 1469 de 2025, por el cual se fija el salario mínimo mensual legal vigente para 2026*.
+
+Miranda Miranda, J. J. (2005). *Gestión de proyectos: identificación, formulación, evaluación financiera, económica, social, ambiental* (5.ª ed.). MM Editores.
 
 Pallomaro. (2026). *Olla arrocera a gas 10 L* y *Estufa a gas de piso 36" 6 puestos*. https://tienda.pallomaro.com/
 
@@ -70,9 +72,11 @@ SMR Industriales. (2026). *Campana extractora para cocinas industriales*. https:
 
 ## Estado de verificación de los precios
 
+La tabla indica, para cada grupo de precios usados en el estudio, de dónde se obtuvo, cuándo se consultó y si es un dato verificado o una estimación del equipo.
+
 | Rubro | Fuente | Fecha de consulta | Estado |
 |:-----------------|:--------------------------------------|:---------|:-------------------------------|
-| Pescado, langostino, vegetales, carnes, huevo y básicos | SIPSA-DANE (Cartagena–Bazurto, región Caribe o nacional) vía Agronegocios | 24-26 oct. 2026 | Verificado |
+| Pescado, langostino, vegetales, carnes, huevo y básicos | SIPSA-DANE (Cartagena–Bazurto, región Caribe o nacional) vía Agronegocios | 24 oct. 2026 | Verificado |
 | Insumos japoneses (arroz, nori, soya, miso, mirin, kombu, harina para tempura) | Global Gourmet Market (lista de precios; varios productos aparecen agotados) | 24 oct. 2026 | Verificado (precio de lista) |
 | Queso crema | Mercasur | 24 oct. 2026 | Verificado |
 | Abatidor, neveras, mesas refrigeradas, vitrina, hielo, freidora, estufa, arrocera, mesas de acero, campana, planta eléctrica | Makfrio, America Food Solutions, Exhibir Equipos, Pallomaro, FrigoMaster, SMR Industriales, Maquitec | 24 oct. 2026 | Verificado |

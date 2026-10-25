@@ -83,18 +83,18 @@ def flujo(nombre: str, titulo: str, pasos: list[tuple[str, str]]):
 
 
 PROCESO_SUSHI = [
-    ("T", "Recepción del pescado del día (Bazurto / Mercado del Mar)"),
+    ("T", "Recepción del pescado, martes y viernes (Bazurto / Mercado del Mar)"),
     ("I", "Control de recepción: T° ≤ 4 °C, olor, ojos, agallas"),
     ("O", "Eviscerado, fileteado y porcionado del pargo"),
     ("A", "Ultracongelación −35 °C × 15 h (control de parásitos)"),
-    ("A", "Almacenamiento refrigerado 0–4 °C (rotación PEPS)"),
+    ("A", "Congelado −18 °C; descongelado diario 0–4 °C (PEPS)"),
     ("O", "Lavado del arroz japonés (3–4 aguas)"),
     ("D", "Reposo del arroz 30 min"),
     ("O", "Cocción del arroz en arrocera (20 min)"),
     ("O", "Sazonado del shari con vinagre y enfriado a 35 °C"),
     ("O", "Corte de vegetales y mise en place de barra"),
     ("O", "Armado del rollo (nori + shari + relleno) en makisu"),
-    ("O", "Corte en 8 piezas y emplatado"),
+    ("O", "Corte en 10 piezas y emplatado"),
     ("I", "Control de calidad del sushiman (forma, T°, presentación)"),
     ("T", "Entrega en barra o pase a mesa"),
 ]
@@ -135,7 +135,7 @@ SERVICIO = [
     ("T", "Ubicación en mesa o barra de sushi"),
     ("O", "Presentación de la carta (Top 3) y toma de pedido en tablet"),
     ("T", "Comanda digital a cocina y barra (POS)"),
-    ("D", "Preparación de platos (8–15 min)"),
+    ("D", "Preparación de platos (12–20 min)"),
     ("T", "Servicio a la mesa"),
     ("I", "Verificación de satisfacción (2 min después)"),
     ("O", "Factura electrónica y cobro (tarjeta, QR, efectivo)"),

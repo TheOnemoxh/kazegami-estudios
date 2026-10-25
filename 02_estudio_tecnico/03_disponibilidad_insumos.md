@@ -12,36 +12,36 @@ Table: Tabla 23. Disponibilidad de los insumos de Rollos de sushi, Ramen y Tempu
 | Espinazo de cerdo | Bolívar | 1.295,0 kg | Alta | Todo el año | Costilla de cerdo |
 | Rabadillas de pollo | Bolívar | 863,3 kg | Alta | Todo el año | Pollo entero |
 | Tocino de barriga de cerdo | Bolívar | 518,0 kg | Alta | Todo el año | Pernil de cerdo |
-| Aguacate papelillo | Bolívar | 395,0 kg | Alta | Producción regional (SIPSA Cartagena) | Aguacate común o Hass |
+| Aguacate papelillo | Bolívar | 500,3 kg | Alta | Producción regional (SIPSA Cartagena) | Aguacate común o Hass |
+| Pepino cohombro | Bolívar | 329,1 kg | Alta | Todo el año | — |
 | Berenjena | Bolívar | 264,4 kg | Alta | Mercado local / nacional | — |
 | Ahuyama | Bolívar | 264,4 kg | Alta | Mercado local / nacional | — |
-| Pepino cohombro | Bolívar | 263,3 kg | Alta | Todo el año | — |
 | Repollo blanco salteado | Bolívar | 259,0 kg | Alta | Mercado local / nacional | — |
+| Mango de azúcar | Bolívar | 250,1 kg | Media | Fruta de temporada | Mango Tommy |
 | Cebolla cabezona blanca | Bolívar | 226,6 kg | Alta | Mercado local / nacional | — |
-| Mango de azúcar | Bolívar | 197,5 kg | Media | Fruta de temporada | Mango Tommy |
 | Rábano rojo rallado | Bolívar | 151,1 kg | Alta | Mercado local / nacional | — |
 | Cebollín chino | Bolívar | 86,3 kg | Alta | Mercado local / nacional | — |
 | Ajo | Bolívar | 69,1 kg | Alta | Mercado local / nacional | — |
-| Pargo rojo entero fresco | Caribe | 1.287,9 kg | Media-alta | Pesca artesanal; menor captura con mar de leva (dic.-mar.) | Sierra o mojarra (SIPSA Cartagena) |
+| Pargo rojo entero fresco | Caribe | 1.602,8 kg | Media-alta | Pesca artesanal; menor captura con mar de leva (dic.-mar.) | Sierra o mojarra (SIPSA Cartagena) |
 | Alga nori | Importado | 17.482,3 und | Media | Importada; aparece agotada en la tienda consultada | Stock de seguridad de 1 mes |
-| Arroz japonés para sushi | Importado | 1.579,9 kg | Media | Importado; aparece agotado en la tienda consultada | Arroz Calrose o Nishiki (otros importadores) |
+| Arroz japonés para sushi | Importado | 1.974,8 kg | Media | Importado; aparece agotado en la tienda consultada | Arroz Calrose o Nishiki (otros importadores) |
 | Fideo de trigo estilo chuka | Importado | 1.036,0 kg | Media | Importado | Fideo fresco elaborado en el local con harina de trigo |
 | Salsa de soya | Importado | 445,7 L | Alta | Varias marcas importadas | — |
 | Harina para tempura | Importado | 377,7 kg | Media | Importada | Harina de trigo + fécula de maíz |
-| Vinagre de arroz | Importado | 197,5 L | Alta | Mercado local / nacional | — |
+| Vinagre de arroz | Importado | 250,1 L | Alta | Mercado local / nacional | — |
 | Miso | Importado | 172,7 kg | Media | Importado | Stock de 1 mes |
 | Mirin | Importado | 161,9 L | Media | Importado | Vino de arroz + azúcar |
 | Jengibre encurtido – gari | Importado | 131,7 kg | Alta | Mercado local / nacional | — |
 | Aceite de ajonjolí | Importado | 43,2 L | Alta | Mercado local / nacional | — |
 | Wasabi en polvo | Importado | 26,3 kg | Media | Importado | Stock de 1 mes |
 | Alga kombu | Importado | 15,1 kg | Media | Importada | Stock de 1 mes |
-| Langostino 16-20 | Nacional | 1.235,6 kg | Alta | Disponible todo el año | Camarón de cultivo nacional |
+| Langostino 16-20 | Nacional | 1.314,6 kg | Alta | Disponible todo el año | Camarón de cultivo nacional |
 | Aceite vegetal para freír | Nacional | 453,2 kg | Alta | Mercado local / nacional | — |
-| Queso crema | Nacional | 263,3 kg | Alta | Mercado local / nacional | — |
-| Mayonesa | Nacional | 131,7 kg | Alta | Mercado local / nacional | — |
+| Queso crema | Nacional | 329,1 kg | Alta | Mercado local / nacional | — |
+| Mayonesa | Nacional | 158,0 kg | Alta | Mercado local / nacional | — |
 | Fécula de maíz | Nacional | 113,3 kg | Alta | Mercado local / nacional | — |
-| Azúcar refinada | Nacional | 65,8 kg | Alta | Mercado local / nacional | — |
-| Ajonjolí descortezado | Nacional | 39,5 kg | Alta | Mercado local / nacional | — |
+| Azúcar refinada | Nacional | 79,0 kg | Alta | Mercado local / nacional | — |
+| Ajonjolí descortezado | Nacional | 52,7 kg | Alta | Mercado local / nacional | — |
 | Sal | Nacional | 26,3 kg | Alta | Mercado local / nacional | — |
 
 *Fuente: Recetas estándar × unidades de la capacidad utilizada 2027.*
@@ -52,7 +52,7 @@ Table: Tabla 23. Disponibilidad de los insumos de Rollos de sushi, Ramen y Tempu
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
-**Lectura.** El **23 %** del costo de la materia prima es local (pesca artesanal y agro de la región, con precios SIPSA de Bazurto), en línea con la propuesta de valor "del mar directo al plato". Los insumos japoneses importados (45 % del costo) son de baja perecibilidad, por lo que se compran cada mes y se mantiene un stock de seguridad de 30 días para cubrir retrasos.
+**Lectura.** El **24 %** del costo de la materia prima es local (pesca artesanal y agro de la región, con precios SIPSA de Bazurto), en línea con la propuesta de valor "del mar directo al plato". Los insumos japoneses importados (44 % del costo) son de baja perecibilidad, por lo que se compran cada mes y se mantiene un stock de seguridad de 30 días para cubrir retrasos.
 
 Table: Tabla 24. Riesgos de abastecimiento y mitigación
 
@@ -66,6 +66,8 @@ Table: Tabla 24. Riesgos de abastecimiento y mitigación
 
 
 ## 5.2 Ficha técnica de maquinaria y equipos
+
+La ficha técnica describe los equipos necesarios para producir los tres platos: su especificación, la cantidad, el área donde se ubican, la función que cumplen y su vida útil. Los equipos de refrigeración y ultracongelación son los más importantes, porque garantizan la inocuidad del pescado crudo.
 
 Table: Tabla 25. Ficha técnica de maquinaria y equipos
 
@@ -101,6 +103,8 @@ Table: Tabla 25. Ficha técnica de maquinaria y equipos
 
 ## 5.3 Tecnología
 
+Además de los equipos de cocina, Kazegami necesita tecnología de información para tomar pedidos, facturar, controlar el inventario y registrar las temperaturas. La tabla presenta cada componente, la solución elegida, su función y proveedores de referencia en Colombia.
+
 Table: Tabla 26. Tecnología de información y gestión
 
 | Componente | Solución | Función | Proveedores de referencia en Colombia |
@@ -115,6 +119,8 @@ Table: Tabla 26. Tecnología de información y gestión
 
 
 ## 5.4 Personal requerido
+
+El personal se dimensionó para operar la capacidad instalada durante el horario continuo de 12:00 m. a 10:00 p. m., con dos sushimen en la barra para las horas pico. La tabla presenta los cargos, el salario base de cada uno, su costo mensual con prestaciones sociales y la fuente del salario.
 
 Table: Tabla 27. Personal requerido para operar la capacidad instalada
 

@@ -1,42 +1,52 @@
 # 6. Precio
 
+El precio de los tres platos se fijó combinando tres referencias reales: el costo de cada receta, los precios que publican los competidores y la disposición de pago que mostró la encuesta.
+
 ## 6.1 Método o métodos utilizados para fijar el precio
 
-Table: Tabla 40. Comparación de métodos de fijación de precios
+Existen varios métodos para fijar el precio de un plato y cada uno mira una variable distinta: el costo, la competencia o lo que el cliente está dispuesto a pagar. La tabla compara los cuatro métodos más usados en restaurantes y señala el papel que cumple cada uno en la decisión de Kazegami.
+
+Table: Tabla 41. Comparación de métodos de fijación de precios
 
 | Método | Cómo funciona | Ventaja | Limitación | Uso en Kazegami |
 |:---------------------|:----------------------------|:--------------------|:--------------------|:-----------------|
 | Costo más margen (markup) | Precio = costo de la receta ÷ food cost objetivo (≈ 30 %) | Asegura cubrir la materia prima | Ignora al cliente y a la competencia | **Base del cálculo** |
-| Basado en la competencia | Precio alineado con los restaurantes $$$ de la ciudad | Precio creíble para el mercado | Puede no cubrir costos | **Techo de precio** |
+| Basado en la competencia | Precio alineado con los restaurantes japoneses de precio medio de la ciudad | Precio creíble para el mercado | Puede no cubrir costos | **Techo de precio** |
 | Basado en el valor percibido (disposición de pago) | Precio según lo que el cliente pagaría (encuesta) | Responde a la demanda real | Datos declarados, no observados | **Validación final** |
 | Precio de penetración | Precio inicial bajo para ganar clientes | Atrae prueba | Reduce el margen | Solo en promociones de apertura |
 
 
-**Método adoptado: mixto.** (1) Se calcula el costo unitario con la receta estándar; (2) se fija un precio que deje un food cost dentro del rango de 28 % a 35 % que reporta Gordon Food Service para restaurantes rentables (Rivers, s.f.); (3) se verifica que el precio quede por debajo del promedio real de la competencia (Masaki y Dame Ramen) y (4) que el ticket promedio del comensal (≈ 1,2 platos + bebida) quede dentro del rango de **$60.000 a $100.000**, el más votado en la encuesta.
+**Método adoptado: mixto.** (1) Se calcula el costo unitario con la receta estándar; (2) se fija un precio que deje un food cost dentro del rango de 28 % a 35 % que reporta Gordon Food Service para restaurantes rentables (Rivers, s.f.); (3) se verifica que el precio quede por debajo del promedio real de la competencia (sección 3.12) y (4) que el ticket promedio del comensal (≈ 1,2 platos + bebida) quede dentro del rango de **$60.000 a $100.000**, el más votado en la encuesta.
 
-Table: Tabla 41. Precios y costos unitarios de los 3 platos (COP, 2027)
+La tabla aplica el método mixto a los tres platos: parte del costo unitario, calcula el precio teórico por markup, lo compara con el precio real del mercado y llega al precio de venta con su food cost y su margen.
+
+Table: Tabla 42. Precios y costos unitarios de los 3 platos (COP, 2027)
 
 | Concepto | Rollos de sushi | Ramen | Tempura |
 |:-------------------------------------------|---------------------:|---------------------:|---------------------:|
-| Costo de materia prima por porción | $9.255 | $12.120 | $11.953 |
+| Costo de materia prima por porción | $11.087 | $12.120 | $11.953 |
 | Servicios y depreciación de la línea por porción | $681 | $1.070 | $735 |
-| **Costo unitario total** | **$9.936** | **$13.189** | **$12.687** |
-| Precio con markup teórico (MP ÷ 30 %) + 8 % | $33.318 | $43.630 | $43.030 |
-| Precio real de la competencia | Masaki: $40.000-$57.000 (prom. $49.550) | Dame Ramen: $35.000-$69.000 (prom. $45.667) | Masaki: $25.000 (solo vegetales) |
+| **Costo unitario total** | **$11.768** | **$13.189** | **$12.687** |
+| Precio con markup teórico (MP ÷ 30 %) + 8 % | $39.914 | $43.630 | $43.030 |
+| Precio promedio real de la competencia | $49.684 (5 restaurantes) | $52.942 (4 restaurantes) | $28.500 (solo vegetales, 2 restaurantes) |
 | **Precio de venta Kazegami (con impoconsumo)** | **$40.000** | **$38.000** | **$38.000** |
 | Precio neto (sin impoconsumo 8 %) | $37.037 | $35.185 | $35.185 |
-| Food cost resultante | 25,0 % | 34,4 % | 34,0 % |
-| Margen de contribución por plato | $27.101 | $21.996 | $22.498 |
-| Margen de contribución (% del precio neto) | 73,2 % | 62,5 % | 63,9 % |
+| Food cost resultante | 29,9 % | 34,4 % | 34,0 % |
+| Margen de contribución por plato | $25.269 | $21.996 | $22.498 |
+| Margen de contribución (% del precio neto) | 68,2 % | 62,5 % | 63,9 % |
 
 *Fuente: Recetas estándar con precios SIPSA-DANE y proveedores (Estudio Técnico, sección 6); competencia: Rappi y dameramen.com (oct. 2026).*
 
 
-Table: Tabla 42. Productos complementarios y precios de la carta
+**Lectura.** En el rollo de sushi el precio por markup ($39.914) coincide casi exactamente con el precio elegido de $40.000, que además queda 19 % por debajo del promedio del mercado. En ramen y tempura el markup teórico ($43.630 y $43.030) es mayor que el precio elegido; se fija en $38.000 para mantener la promesa de precio justo, lo que deja un food cost de 34,4 % y 34,0 %, todavía dentro del rango de 28 % a 35 %.
+
+Además de los tres platos, la carta incluye productos complementarios que elevan el ticket promedio. Sus precios se fijaron con base en las respuestas de la encuesta.
+
+Table: Tabla 43. Productos complementarios y precios de la carta
 
 | Producto | Precio (COP) | Sustento en la encuesta |
 |:-------------------------------------------------|-------------------:|:---------------------------------------|
-| Menú ejecutivo de mediodía (ramen + bebida), lunes a viernes | $28.000 | 51,9 % pagaría $20.000-$30.000 |
+| Menú ejecutivo de mediodía (ramen + bebida), martes a viernes de 12:00 m. a 3:00 p. m. | $28.000 | 51,9 % pagaría $20.000-$30.000 |
 | Experiencia omakase (60-90 min, por reserva, bebidas aparte) | $150.000 | 46,2 % pagaría $100.000-$200.000; 19,8 % muy interesado |
 | Bebidas sin alcohol | $8.000 - $12.000 | — |
 | Cerveza japonesa / sake | $16.000 - $35.000 | Pedido espontáneo: cerveza Asahi |
@@ -44,6 +54,8 @@ Table: Tabla 42. Productos complementarios y precios de la carta
 
 *Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
+
+El omakase es el producto de mayor precio. La figura muestra cuánto pagarían los encuestados por esa experiencia, lo que respalda el precio de $150.000.
 
 ![Figura 24. Precio que pagarían por una experiencia omakase](assets/graficas/g17_omakase_precio.png){width=14cm}
 
@@ -63,7 +75,9 @@ La comercialización de Kazegami se diseña para un **canal directo** (del resta
 
 ## 7.1 Almacenamiento y cadena de frío
 
-Table: Tabla 43. Formas de almacenamiento por insumo
+En un restaurante que sirve pescado crudo, el almacenamiento es un tema de inocuidad y no solo de orden. La tabla define, para cada insumo, cómo se guarda, a qué temperatura, cuánto tiempo puede durar y qué control se aplica, siguiendo el principio de primero en entrar, primero en salir (PEPS).
+
+Table: Tabla 44. Formas de almacenamiento por insumo
 
 | Insumo | Forma de almacenamiento | Temperatura | Vida útil máxima | Control |
 |:----------------------|:-----------------------|:-----------------|:-----------------|:-------------------------|
@@ -78,7 +92,9 @@ Table: Tabla 43. Formas de almacenamiento por insumo
 
 ## 7.2 Sistemas de transporte
 
-Table: Tabla 44. Transporte de insumos
+El transporte cubre el trayecto de los insumos desde cada proveedor hasta el local y la forma en que los clientes llegan al restaurante. La ubicación en Manga permite que el pescado de Bazurto llegue en menos de 20 minutos sin romper la cadena de frío.
+
+Table: Tabla 45. Transporte de insumos
 
 | Tramo | Medio | Condición | Responsable |
 |:-------------------------------|:-------------------------------|:-------------------------|:------------------|
@@ -90,7 +106,9 @@ Table: Tabla 44. Transporte de insumos
 
 ## 7.3 Presentación del producto o servicio
 
-Table: Tabla 45. Presentación del servicio en sala y barra
+La presentación del servicio es lo que el cliente ve y vive dentro del local. Como la propuesta de valor de Kazegami es la experiencia japonesa en el restaurante, cada elemento —la barra, la vajilla, la carta, el ambiente, los uniformes y el horario— se definió para reforzarla.
+
+Table: Tabla 46. Presentación del servicio en sala y barra
 
 | Elemento | Descripción |
 |:------------------------|:------------------------------------------------------------------------------------|
@@ -99,12 +117,14 @@ Table: Tabla 45. Presentación del servicio en sala y barra
 | Carta | Física y con código QR; muestra precios finales, alérgenos y opciones vegetarianas |
 | Ambiente | Decoración japonesa serena (madera, luz cálida, plantas); música ambiental suave |
 | Uniformes | Chaquetilla de cocina negra y delantal índigo; personal de sala con camisa de lino |
-| Horario | Martes a domingo: almuerzo 12:00-15:00 y cena 18:00-22:30 |
+| Horario | Martes a domingo, horario continuo de 12:00 m. a 10:00 p. m. (la cocina recibe el último pedido a las 9:30 p. m.); lunes de descanso |
 
 
 ## 7.4 Crédito a los consumidores y medios de pago
 
-Table: Tabla 46. Medios de pago y políticas de crédito
+Kazegami vende de contado, porque es un servicio de consumo inmediato, pero acepta los medios de pago más usados en Colombia. Solo se ofrece crédito a empresas que contraten eventos o almuerzos corporativos. La tabla detalla cada medio y su política.
+
+Table: Tabla 47. Medios de pago y políticas de crédito
 
 | Medio de pago | Disponible | Observación |
 |:--------------------------------------|:-----------------|:----------------------------------------------------|
@@ -118,7 +138,9 @@ Table: Tabla 46. Medios de pago y políticas de crédito
 
 ## 7.5 Asistencia técnica al usuario (atención y reservas)
 
-Table: Tabla 47. Protocolo de atención y reservas
+La asistencia al usuario en un restaurante corresponde al protocolo de atención, desde la reserva hasta el pago. Los tiempos de entrega se fijaron como un estándar operativo del equipo que considera el tiempo real de preparación de cada plato —el armado y corte del rollo, la cocción del fideo y el montaje del ramen, y la fritura de la tempura— más la cola de pedidos en las horas de mayor afluencia. Son tiempos realistas que evitan la demora en el servicio, queja del 18,9 % de los encuestados.
+
+Table: Tabla 48. Protocolo de atención y reservas
 
 | Paso | Acción | Tiempo objetivo |
 |:-----------------|:----------------------------------------------------------------------|:--------------------|
@@ -126,12 +148,14 @@ Table: Tabla 47. Protocolo de atención y reservas
 | 2. Bienvenida | El anfitrión recibe, verifica la reserva y ubica en mesa o barra | < 2 min |
 | 3. Orientación | El mesero explica la carta, los alérgenos y recomienda el Top 3 | < 5 min |
 | 4. Pedido | Comanda digital en tablet que llega a cocina y barra | Inmediato |
-| 5. Entrega | Sushi 6-8 min; ramen 4-5 min; tempura 5-7 min | ≤ 15 min |
+| 5. Entrega | Rollos de sushi 15-20 min; ramen 12-15 min; tempura 12-15 min (los platos de una misma mesa salen juntos) | ≤ 20 min desde el pedido (≤ 25 min en hora pico) |
 | 6. Seguimiento | Verificación de satisfacción a los 2 minutos de servir | — |
 | 7. Cierre | Factura electrónica, invitación a reseña en Google Maps y registro en fidelización | < 5 min |
 
 *Fuente: Encuesta (medio de reserva, n = 106); Canvas (relación con clientes).*
 
+
+La reserva es el primer contacto con el cliente. La figura confirma que WhatsApp es el medio preferido, seguido por la página web.
 
 ![Figura 26. Medio preferido para reservar una mesa](assets/graficas/g20_reserva.png){width=14cm}
 
@@ -140,7 +164,9 @@ Table: Tabla 47. Protocolo de atención y reservas
 
 ## 7.6 Canales de distribución
 
-Table: Tabla 48. Canales de distribución y de comunicación
+Kazegami tiene un solo canal de distribución, el local, pero usa varios canales de comunicación para atraer clientes y recibir reservas. La tabla los relaciona con la evidencia de la encuesta sobre dónde buscan recomendaciones los consumidores.
+
+Table: Tabla 49. Canales de distribución y de comunicación
 
 | Canal | Tipo | Función | Evidencia |
 |:-------------------------|:------------------------|:--------------------------------|:-------------------------|
@@ -155,6 +181,8 @@ Table: Tabla 48. Canales de distribución y de comunicación
 *Fuente: Encuesta (n = 106, selección múltiple) y Canvas.*
 
 
+Instagram y TikTok son, por mucho, el canal más usado para descubrir restaurantes (85,8 %), seguidos por la recomendación de amigos y familiares (63,2 %) y Google Maps (44,3 %), como muestra la figura.
+
 ![Figura 27. Dónde buscan recomendaciones de restaurantes los encuestados](assets/graficas/g19_canales_busqueda.png){width=15cm}
 
 *Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
@@ -162,7 +190,9 @@ Table: Tabla 48. Canales de distribución y de comunicación
 
 ## 7.7 Mecanismos de promoción y publicidad
 
-Table: Tabla 49. Plan de marketing, redes sociales y alianzas turísticas
+El plan de promoción concentra el presupuesto en los canales que la encuesta identificó como más usados. La primera tabla describe cada acción, su público, su frecuencia y el indicador con que se medirá; la segunda resume el costo mensual y anual de la comercialización.
+
+Table: Tabla 50. Plan de marketing, redes sociales y alianzas turísticas
 
 | Acción | Canal | Público | Frecuencia | Presupuesto mensual (COP, definido por el equipo) | Indicador |
 |:---------------------------|:-----------------|:-----------------|:------------|----------------:|:----------------|
@@ -175,7 +205,7 @@ Table: Tabla 49. Plan de marketing, redes sociales y alianzas turísticas
 | Lanzamiento: 2 x 1 en ramen las 4 primeras semanas | Redes y local | Nuevos clientes | Apertura | Incluido en el costo del plato | Pruebas del producto |
 
 
-Table: Tabla 50. Costos de comercialización (mensual y anual)
+Table: Tabla 51. Costos de comercialización (mensual y anual)
 
 | Concepto | Mensual (COP) | Anual (COP) |
 |:------------------------------------------------------------|-----------------------:|-----------------------:|
@@ -187,6 +217,8 @@ Table: Tabla 50. Costos de comercialización (mensual y anual)
 | Plataforma de reservas + WhatsApp Business API | $150.000 | $1.800.000 |
 | Comisión de datáfonos (≈ 2,5 % de las ventas con tarjeta, **estimación**) | $1.200.000 | $14.400.000 |
 
+
+El mayor gasto es la pauta digital, coherente con que el 85,8 % de los encuestados busca restaurantes en redes sociales. Para medir el potencial de esta estrategia, la figura muestra la probabilidad de visita declarada.
 
 ![Figura 28. Probabilidad de visitar Kazegami en la zona elegida](assets/graficas/g21_probabilidad_visita.png){width=14cm}
 

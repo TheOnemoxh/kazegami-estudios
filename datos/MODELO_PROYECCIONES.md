@@ -69,8 +69,8 @@
 | adecuacion | $120.771.600 |
 | tecnologia_hw | $13.300.000 |
 | software_anual | $6.300.000 |
-| insumos_anual_2027 | $316.772.144 |
-| inventario_inicial | $26.397.679 |
+| insumos_anual_2027 | $340.894.455 |
+| inventario_inicial | $28.407.871 |
 | nomina_mensual | $34.671.579 |
 | opex_mensual | $24.503.000 |
 | dep_mensual | $3.999.945 |
