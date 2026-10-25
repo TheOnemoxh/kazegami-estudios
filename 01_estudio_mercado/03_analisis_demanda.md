@@ -34,7 +34,7 @@ Table: Tabla 20. Frecuencia de consumo y ponderación anual
 | Unas pocas veces al año | 37 | 34,9 % | 4 | 148 |
 | Casi nunca | 24 | 22,6 % | 1 | 24 |
 | Nunca lo he probado | 27 | 25,5 % | 0 | 0 |
-| Sin respuesta | 1 | 0,9 % | — | — |
+| Sin respuesta | 1 | 0,9 % | - | - |
 | **Total / promedio** | **106** | **100,0 %** | **6,02 por persona** | **632** |
 
 *Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
@@ -46,6 +46,8 @@ La tercera variable es la capacidad de pago. La encuesta preguntó cuánto gasta
 
 *Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
+
+La tabla detalla las mismas respuestas en números y muestra el porcentaje acumulado desde el rango más alto, que es el dato que se usa en el embudo de la demanda.
 
 Table: Tabla 21. Disposición de pago por una cena completa (capacidad de pago)
 
@@ -82,6 +84,9 @@ Table: Tabla 22. Embudo de la demanda actual de los 3 platos en Cartagena (2026)
 | **10. Demanda actual total** | **Paso 6 + paso 9** | **941.590 platos/año** |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+
+
+El embudo reduce el millón de habitantes de Cartagena a las personas que realmente pueden y quieren comprar los platos de Kazegami, y les suma los turistas extranjeros. El resultado, 941.590 platos al año, es la demanda actual de referencia para todo el estudio.
 
 
 El total del embudo se reparte entre los tres platos según el peso que cada uno tuvo en las menciones de la encuesta (Rollos de sushi 44,9 %, Ramen 29,4 % y Tempura 25,7 %). Así se obtiene la demanda anual, mensual y diaria de cada producto.
@@ -163,6 +168,8 @@ Table: Tabla 25. Comportamiento histórico de las variables y demanda reconstrui
 
 **Lectura.** La demanda reconstruida es casi constante entre 2024 y 2026, porque la población de Cartagena está estable (incluso empieza a bajar según el DANE) y el turismo extranjero creció solo 1,22 % en 2025. Por eso el crecimiento futuro no puede depender del tamaño del mercado, sino del aumento del consumo por persona. Los siguientes indicadores del sector ayudan a estimar ese aumento.
 
+La tabla reúne indicadores del sector de restaurantes, del turismo y del consumo de sushi, con su fuente y la lectura que el equipo hace de cada uno.
+
 Table: Tabla 26. Indicadores de contexto del sector
 
 | Indicador | Dato | Fuente | Lectura |
@@ -204,6 +211,9 @@ Table: Tabla 27. Proyección de la demanda total de los 3 platos (platos/año)
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
+En los tres escenarios la demanda crece durante todo el periodo. El escenario base, con un crecimiento de 3,5 % anual, es el que se usa para dimensionar el restaurante, porque se apoya en el crecimiento real del gasto en comidas fuera del hogar.
+
+
 ![Figura 10. Demanda histórica y proyectada 2027-2031 por escenario](assets/graficas/g25_proyeccion_demanda_escenarios.png){width=15.5cm}
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
@@ -223,6 +233,9 @@ Table: Tabla 28. Proyección de la demanda por plato, escenario base (platos/añ
 | 2031 | 502.234 | 329.333 | 288.167 | 1.119.734 |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
+
+
+Los Rollos de sushi siguen siendo el plato con más demanda durante todo el periodo, con 502.234 unidades en 2031, lo que confirma que la barra de sushi debe ser el centro de la operación de Kazegami.
 
 
 ![Figura 11. Proyección de la demanda por plato (escenario base)](assets/graficas/g26_proyeccion_demanda_platos.png){width=15.5cm}
@@ -246,7 +259,7 @@ Table: Tabla 29. Segmentos, nichos y mercado meta
 | Segmento 2 | Parejas y familias de estratos 4 a 6 | Mayor ticket; ocasiones especiales |
 | Segmento 3 | Turistas y empresarios (segmento principal del Canvas) | 87.691 turistas/año que consumen cocina japonesa |
 | Nicho | Experiencia omakase por reserva | 19,8 % muy interesado y dispuesto a pagar precio premium |
-| **Mercado meta** | Participación de Kazegami en la demanda total (escenario base) | **3,0 % en 2027 → 4,2 % en 2031** |
+| **Mercado meta** | Participación de Kazegami en la demanda total (escenario base) | **2,1 % en 2027 → 3,4 % en 2031** |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -345,8 +358,8 @@ Table: Tabla 32. Zona de influencia según las zonas votadas en la encuesta
 
 | Zona | Han comido allí cocina japonesa (menciones) | Preferida para Kazegami (votos) | Rol en la zona de influencia |
 |:-------------------------|----------------------:|------------------:|:-----------------------------------------|
-| Centro Histórico | 38 | 33 | Influencia primaria: turismo y vida nocturna (a 5 min de Manga) |
-| Manga | 31 | 17 | **Ubicación propuesta**: residencial, cercana a Bazurto y al Centro |
+| Centro Histórico | 38 | 33 | **Ubicación propuesta**: turismo, hoteles y vida nocturna |
+| Manga | 31 | 17 | Influencia primaria residencial, a 5 minutos del Centro |
 | Bocagrande / Castillogrande | 28 | 10 | Influencia secundaria: hoteles y residentes de estratos altos |
 | Getsemaní | 19 | 8 | Influencia primaria: turismo joven |
 | Crespo / Pie de la Popa | 6 / 5 | 2 / 1 | Influencia secundaria residencial |
@@ -355,4 +368,4 @@ Table: Tabla 32. Zona de influencia según las zonas votadas en la encuesta
 *Fuente: Encuesta (n = 106), preguntas de zonas. Selección múltiple en la columna de consumo.*
 
 
-**Lectura.** El triángulo **Centro Histórico - Manga - Bocagrande** concentra el consumo actual y la preferencia de ubicación. Manga queda en el centro geográfico de ese triángulo, a menos de 10 minutos de las tres zonas y del Mercado de Bazurto; por eso el Estudio Técnico la selecciona como microlocalización.
+**Lectura.** El triángulo **Centro Histórico - Manga - Bocagrande** concentra el consumo actual y la preferencia de ubicación. Dentro de él, el Centro Histórico es la zona con más consumo de cocina japonesa y más votos, y es el punto de llegada de los turistas; por eso el Estudio Técnico la selecciona como microlocalización, con Manga y Bocagrande como zonas de influencia cercanas.

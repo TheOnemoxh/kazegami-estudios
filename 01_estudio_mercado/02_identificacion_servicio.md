@@ -16,10 +16,10 @@ Table: Tabla 6. Justificación del portafolio: Top 3 de la encuesta
 | 1 | Rollos de sushi | 61 | 57,5 % | 44,9 % | Se incluye |
 | 2 | Ramen | 40 | 37,7 % | 29,4 % | Se incluye |
 | 3 | Tempura | 35 | 33,0 % | 25,7 % | Se incluye |
-| — | Platos de pescado y mariscos estilo japonés | 26 | 24,5 % | — | Se descarta del análisis técnico y de costos |
-| — | Sashimi | 7 | 6,6 % | — | Se descarta |
-| — | Opciones vegetarianas y/o veganas | 6 | 5,7 % | — | Se descarta como plato (se ofrece variante vegetariana del rollo) |
-| — | Aún no sé, quisiera ver el menú | 32 | 30,2 % | — | No es un plato |
+| - | Platos de pescado y mariscos estilo japonés | 26 | 24,5 % | - | Se descarta del análisis técnico y de costos |
+| - | Sashimi | 7 | 6,6 % | - | Se descarta |
+| - | Opciones vegetarianas y/o veganas | 6 | 5,7 % | - | Se descarta como plato (se ofrece variante vegetariana del rollo) |
+| - | Aún no sé, quisiera ver el menú | 32 | 30,2 % | - | No es un plato |
 
 *Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
@@ -42,6 +42,9 @@ Table: Tabla 7. Usos del servicio y de cada plato
 *Fuente: Encuesta (pregunta de ocasión, n = 106) y Canvas.*
 
 
+El uso de cada plato define cómo se arma la carta: el rollo para compartir en las salidas en grupo, el ramen como plato fuerte también al mediodía y la tempura como entrada. Como las ocasiones principales son las salidas con amigos y en pareja, el servicio debe estar pensado para grupos pequeños y para la noche.
+
+
 ## 3.2 Usuarios
 
 Los usuarios de Kazegami se agrupan en cuatro segmentos según quién decide la visita y por qué motivo. La encuesta captó con fuerza a los adultos jóvenes residentes, mientras que el Canvas prioriza a turistas y empresarios; por eso la segmentación combina ambas fuentes. Para cada segmento se describe el perfil, la evidencia que lo respalda y el ritual de compra, es decir, cómo descubre el restaurante, qué valora y cómo reserva.
@@ -56,6 +59,9 @@ Table: Tabla 8. Segmentación de usuarios
 | 4. Ejecutivos y empresarios | Profesionales que almuerzan cerca del trabajo o atienden clientes | 51,9 % pagaría $20.000-$30.000 por un menú ejecutivo | Rapidez al mediodía; reunión de negocios; experiencia omakase por reserva |
 
 *Fuente: Encuesta (n = 106); Migración Colombia vía El Universal (2026); Canvas.*
+
+
+Los cuatro segmentos tienen motivos de compra distintos, por lo que Kazegami necesita estrategias diferentes: precio justo y redes sociales para los jóvenes, calidad y atención para parejas y familias, visibilidad en el Centro Histórico y alianzas hoteleras para los turistas, y rapidez al mediodía para los ejecutivos.
 
 
 ![Figura 2. Rango de edad de los encuestados](assets/graficas/g03_edades.png){width=13cm}
@@ -80,13 +86,16 @@ Table: Tabla 9. Presentación de los tres productos e impacto en costos
 *Fuente: Encuesta (n = 106); Tripadvisor (oct. 2026); precios SIPSA-DANE y Global Gourmet Market (oct. 2026); recetas estándar del Estudio Técnico.*
 
 
+En los tres productos el mayor costo es la proteína: el pescado y el langostino en el rollo, el langostino en la tempura y los insumos importados en el ramen. Comprar el pescado en Bazurto y preparar el caldo por lotes es lo que permite ofrecer porciones generosas a un precio menor que el de la competencia.
+
+
 ## 3.4 Composición
 
-Los **Rollos de sushi** de Kazegami se componen de una base de arroz japonés de grano corto cocido y sazonado con vinagre de arroz, azúcar y sal (el *shari*), envuelto en una hoja de alga nori. El relleno combina pescado blanco fresco de la pesca artesanal del Caribe —pargo rojo comprado en el Mercado de Bazurto— con langostino, aguacate papelillo, pepino y un toque de mango de azúcar que le da identidad caribeña al rollo. Se completa con queso crema, ajonjolí y una salsa picante de la casa, y se acompaña con salsa de soya, wasabi y jengibre encurtido (*gari*). En total, cada rollo usa unos 150 g de arroz y 56 g de filete de pescado.
+Los **Rollos de sushi** de Kazegami se componen de una base de arroz japonés de grano corto cocido y sazonado con vinagre de arroz, azúcar y sal (el *shari*), envuelto en una hoja de alga nori. El relleno combina pescado blanco fresco de la pesca artesanal del Caribe (pargo rojo comprado en el Mercado de Bazurto) con langostino, aguacate papelillo, pepino y un toque de mango de azúcar que le da identidad caribeña al rollo. Se completa con queso crema, ajonjolí y una salsa picante de la casa, y se acompaña con salsa de soya, wasabi y jengibre encurtido (*gari*). En total, cada rollo usa unos 150 g de arroz y 56 g de filete de pescado.
 
 El **Ramen** se compone de cuatro elementos que se preparan por separado y se unen al momento de servir. El primero es el caldo, elaborado durante 10 a 12 horas con espinazo de cerdo y rabadillas de pollo hasta obtener un fondo espeso y con cuerpo. El segundo es el *tare*, la base de sabor hecha con miso, salsa de soya y mirin. El tercero es el fideo de trigo estilo *chuka*. El cuarto son los acompañantes: chashu (tocino de cerdo cocido a baja temperatura), huevo marinado (*ajitama*), cebollín, repollo salteado, ajo, media hoja de nori y unas gotas de aceite de ajonjolí.
 
-La **Tempura** se compone de cinco langostinos y una selección de vegetales de la región —berenjena, ahuyama y cebolla—, cubiertos con un batido muy ligero de harina para tempura, fécula de maíz, huevo y agua helada, y fritos en aceite vegetal. Se sirve con salsa *tentsuyu*, preparada con un caldo de alga kombu, salsa de soya y mirin, y con rábano rallado, que reemplaza al daikon japonés.
+La **Tempura** se compone de cinco langostinos y una selección de vegetales de la región (berenjena, ahuyama y cebolla), cubiertos con un batido muy ligero de harina para tempura, fécula de maíz, huevo y agua helada, y fritos en aceite vegetal. Se sirve con salsa *tentsuyu*, preparada con un caldo de alga kombu, salsa de soya y mirin, y con rábano rallado, que reemplaza al daikon japonés.
 
 La lista completa de ingredientes, con las cantidades por porción y el precio y la fuente de cada uno, está en la sección 6 del Estudio Técnico.
 
@@ -124,13 +133,16 @@ Table: Tabla 11. Bienes sustitutos y precios reales en Cartagena
 | Sustituto | Tipo de sustitución | Precio verificado (COP) | Fuente del precio | Preferencia en la encuesta |
 |:----------------------------|:-------------|:----------------------|:-------------------|:----------------------|
 | Rollos de sushi de otros restaurantes (5 restaurantes) | Directo | $27.900 - $73.700 por rollo; promedio $49.684 | Rappi, 24-oct-2026 | 4,7 % elige comida japonesa/asiática como opción habitual |
-| Ramen de otros restaurantes (4 restaurantes) | Directo | $35.000 - $69.000; promedio $52.942 | Rappi y dameramen.com, 24-oct-2026 | — |
-| Tempura de vegetales (Masaki y Koi Koi) | Directo | $25.000 - $32.000 | Rappi, 24-oct-2026 | — |
+| Ramen de otros restaurantes (4 restaurantes) | Directo | $35.000 - $69.000; promedio $52.942 | Rappi y dameramen.com, 24-oct-2026 | - |
+| Tempura de vegetales (Masaki y Koi Koi) | Directo | $25.000 - $32.000 | Rappi, 24-oct-2026 | - |
 | Ceviches y platos de mar (La Cevichería) | Cercano | $59.000 - $160.000 por plato | Carta web de La Cevichería, 24-oct-2026 | 14,2 % elige comida de mar |
 | Menú ejecutivo de restaurante formal | Lejano (almuerzo) | ≈ $20.000 (informal ≈ $13.000) | ACODRES vía Portafolio (2025) | 29,2 % elige comida típica |
-| Comida rápida (hamburguesas, pizza) | Lejano (misma ocasión de salida) | Sin precio verificado | — | 38,7 % elige comida rápida |
+| Comida rápida (hamburguesas, pizza) | Lejano (misma ocasión de salida) | Sin precio verificado | - | 38,7 % elige comida rápida |
 
 *Fuente: Encuesta (n = 106); Rappi; dameramen.com; lacevicheriacartagena.com; Portafolio (2025).*
+
+
+Los sustitutos directos cuestan más que los platos de Kazegami, lo que es una ventaja; pero los sustitutos lejanos, como la comida rápida y la típica, son los que el cliente elige con más frecuencia. Por eso la estrategia no consiste en competir con ellos en precio, sino en ofrecer una experiencia diferente.
 
 
 ![Figura 3. Tipo de restaurante que los encuestados eligen con más frecuencia](assets/graficas/g08_tipo_restaurante.png){width=14cm}
@@ -142,7 +154,7 @@ Table: Tabla 11. Bienes sustitutos y precios reales en Cartagena
 
 ## 3.8 Complementarios
 
-Un bien complementario es aquel que se consume junto con los platos principales y que aumenta el valor de la visita. En un restaurante japonés los complementarios más importantes son las bebidas —té, cerveza y sake— y los postres, que además mejoran el ticket promedio. La encuesta los menciona de forma espontánea: en la pregunta abierta aparecen la cerveza Asahi y los postres. La tabla presenta los complementarios con su precio real en un restaurante japonés de la ciudad.
+Un bien complementario es aquel que se consume junto con los platos principales y que aumenta el valor de la visita. En un restaurante japonés los complementarios más importantes son las bebidas (té, cerveza y sake) y los postres, que además mejoran el ticket promedio. La encuesta los menciona de forma espontánea: en la pregunta abierta aparecen la cerveza Asahi y los postres. La tabla presenta los complementarios con su precio real en un restaurante japonés de la ciudad.
 
 Table: Tabla 12. Bienes y servicios complementarios con precios reales
 
@@ -153,10 +165,13 @@ Table: Tabla 12. Bienes y servicios complementarios con precios reales
 | Cerveza artesanal | Maridaje con tempura y sushi (pedido espontáneo en la encuesta: cerveza Asahi) | $12.000 - $16.000 | Menú de Dame Ramen, 24-oct-2026 | Sí |
 | Sake (botella) | Maridaje de la experiencia premium | $50.000 | Menú de Dame Ramen, 24-oct-2026 | Sí |
 | Gyozas (6 unidades) | Entrada complementaria | $32.000 - $45.000 | Menú de Dame Ramen, 24-oct-2026 | No (fuera del Top 3) |
-| Postres japoneses | Cierre de la experiencia (pedido espontáneo: postres) | Sin precio verificado | — | Sí |
-| Transporte y parqueadero | Necesarios para llegar al local | Sin precio verificado | — | No |
+| Postres japoneses | Cierre de la experiencia (pedido espontáneo: postres) | Sin precio verificado | - | Sí |
+| Transporte y parqueadero | Necesarios para llegar al local | Sin precio verificado | - | No |
 
 *Fuente: Encuesta (pregunta abierta); dameramen.com/menu.*
+
+
+Las bebidas y los postres son los complementarios que más aportan al ticket promedio, y Kazegami los incluirá en su carta. Sus precios en el mercado, entre $7.000 y $16.000 por bebida, se tomaron como referencia para la carta de complementarios de la sección 6.
 
 
 ## 3.9 Bien de capital, intermedio o final
@@ -174,6 +189,9 @@ Table: Tabla 13. Clasificación del bien o servicio
 | Sector | Terciario: servicios de alojamiento y comida | CIIU 5611 - expendio a la mesa de comidas preparadas |
 
 
+Al ser un bien final, normal y de compra ocasional, la demanda de Kazegami depende del ingreso de los clientes y de las ocasiones de salida. Por eso el estudio usa la capacidad de pago y la frecuencia de consumo como filtros para estimar la demanda.
+
+
 ## 3.10 Sistemas de distribución
 
 El sistema de distribución define cómo llega el producto desde quien lo produce hasta quien lo consume. Kazegami usa un **canal directo**: el mismo restaurante prepara y sirve los platos en su local, sin intermediarios en la venta. Los canales digitales y las alianzas turísticas no venden el plato, sino que llevan al cliente hasta la mesa. Se decidió no vender por plataformas de domicilios porque el sushi y la tempura pierden calidad en el traslado y porque la propuesta de valor es la experiencia en el local.
@@ -188,6 +206,9 @@ Table: Tabla 14. Sistemas de distribución
 | Domicilios por plataformas | Rappi, DiDi Food y similares | No (el sushi y la tempura pierden calidad; la propuesta es la experiencia en el local) |
 
 *Fuente: Encuesta (medio de reserva) y Canvas.*
+
+
+El canal directo le permite a Kazegami controlar la calidad del producto y la experiencia de principio a fin, y evita pagar comisiones a plataformas de domicilios. A cambio, todo el esfuerzo comercial se concentra en atraer al cliente hasta el local.
 
 
 ## 3.11 Bienes y servicios del sector público
@@ -207,6 +228,9 @@ Table: Tabla 15. Bienes y servicios del sector público requeridos
 | Seguridad y prevención de incendios | Policía Nacional y Cuerpo de Bomberos de Cartagena | Seguridad del sector; certificado de bomberos |
 
 *Fuente: Cartagena Cómo Vamos, Encuesta de Percepción Ciudadana 2023 (empresas de servicios públicos de Cartagena).*
+
+
+La operación depende sobre todo de la energía y del gas: un corte de energía rompe la cadena de frío del pescado y sin gas no se puede cocinar el caldo ni freír la tempura. Por eso el Estudio Técnico incluye una planta eléctrica de respaldo y los costos de estos servicios dentro de la operación mensual.
 
 
 ## 3.12 Precios y costos
@@ -256,6 +280,9 @@ Table: Tabla 17. Precios reales de los insumos principales
 *Fuente: SIPSA-DANE vía Agronegocios (precios mayoristas, consulta del 24 de octubre de 2026) y lista de precios de Global Gourmet Market (24 de octubre de 2026).*
 
 
+El pescado y el langostino son los insumos más caros por kilo, pero se compran a precios mayoristas en el mercado local; los insumos japoneses son importados, pero se usan en cantidades pequeñas por porción, por lo que su peso en el costo es moderado.
+
+
 Con esos costos y la receta estándar de cada plato se calcula el costo por porción y se compara con el precio de mercado y con el precio propuesto para Kazegami.
 
 Table: Tabla 18. Precios y costos por plato (2027)
@@ -264,14 +291,17 @@ Table: Tabla 18. Precios y costos por plato (2027)
 |:----------------------------------|---------------:|---------------:|---------------:|:---------------------------|
 | Precio promedio de mercado en Cartagena | $49.684 | $52.942 | $28.500 (solo vegetales) | Rappi y dameramen.com (oct. 2026) |
 | Costo de materia prima por porción | $11.087 | $12.120 | $11.953 | Recetas con precios SIPSA-DANE y Global Gourmet Market |
-| Costo unitario total (MP + servicios + depreciación de la línea) | $11.768 | $13.189 | $12.687 | Tablas formato Punto 6 (Estudio Técnico) |
+| Costo unitario total (MP + servicios + depreciación de la línea) | $12.060 | $13.648 | $13.002 | Tablas de insumos y costos (Estudio Técnico, sección 6) |
 | **Precio de venta Kazegami (con impoconsumo)** | **$40.000** | **$38.000** | **$38.000** | Decisión del equipo (método mixto, sección 6) |
 | Diferencia frente al promedio de mercado | -19,5 % | -28,2 % | Incluye 5 langostinos | Cálculo del equipo |
 | Impuesto nacional al consumo (8 %) | $2.963 | $2.815 | $2.815 | Estatuto Tributario, art. 512-1 |
 | Food cost (MP ÷ precio neto) | 29,9 % | 34,4 % | 34,0 % | Rango de referencia 28-35 %: Gordon Food Service |
-| Margen de contribución por plato | $25.269 | $21.996 | $22.498 | Cálculo del equipo |
+| Margen de contribución por plato | $24.977 | $21.537 | $22.183 | Cálculo del equipo |
 
 *Fuente: Rappi; dameramen.com; SIPSA-DANE; Global Gourmet Market; Estatuto Tributario; Rivers (s.f.).*
+
+
+Los tres platos dejan un margen de contribución de al menos $21.537 por unidad y un food cost dentro del rango de 28 % a 35 %, aun con precios inferiores a los del mercado. Esto confirma que el precio justo que pide la encuesta es compatible con un negocio rentable.
 
 
 ![Figura 4. Estructura del precio de venta por plato](assets/graficas/g34_estructura_precio.png){width=14cm}
@@ -293,7 +323,8 @@ Table: Tabla 19. Matriz normativa para la producción, comercialización y uso d
 | Resolución 2674 de 2013 | Ministerio de Salud / INVIMA | Buenas prácticas de manufactura, curso de manipulación de alimentos, plan de saneamiento | Curso para todo el personal; plan de limpieza, control de plagas, agua potable y residuos |
 | Concepto sanitario (inspección, vigilancia y control) | DADIS Cartagena | Visita y concepto favorable del establecimiento | Requisito antes de abrir y en visitas periódicas |
 | Ley 13 de 1990 y Decreto 1071 de 2015 (pesca) | AUNAP | Pesca artesanal legal, tallas mínimas y vedas | Comprar solo a pescadores con permiso; respetar vedas (p. ej. langosta y caracol pala) |
-| Plan de Ordenamiento Territorial (Decreto 0977 de 2001) y PEMP del Centro Histórico | Secretaría de Planeación Distrital / Mincultura | Uso del suelo compatible y restricciones en zona patrimonial | Certificado de uso del suelo en Manga (fuera del área patrimonial) |
+| Plan de Ordenamiento Territorial (Decreto 0977 de 2001) y PEMP del Centro Histórico | Secretaría de Planeación Distrital / Mincultura | Uso del suelo compatible y restricciones en zona patrimonial | Certificado de uso del suelo en el Centro Histórico; local que ya haya operado como restaurante |
+| Ley 1185 de 2008 (patrimonio cultural) | Instituto de Patrimonio y Cultura de Cartagena (IPCC), ente gestor del PEMP | Autorización previa para intervenir inmuebles del Centro Histórico | Trámite de cualquier adecuación del local (cocina, extracción, avisos) |
 | Código de Comercio y Ley 1258 de 2008 | Cámara de Comercio de Cartagena | Registro mercantil y constitución de la S.A.S. | Matrícula mercantil anual |
 | Estatuto Tributario: RUT, facturación electrónica e impuesto nacional al consumo del 8 % (art. 512-1) | DIAN | Inscripción, factura electrónica y declaración bimestral de impoconsumo | Software POS con facturación electrónica; precios con impoconsumo incluido |
 | Impuesto de Industria y Comercio (ICA) | Secretaría de Hacienda Distrital | Registro y declaración | Tarifa del Distrito para restaurantes |
@@ -306,3 +337,6 @@ Table: Tabla 19. Matriz normativa para la producción, comercialización y uso d
 | Decreto 1072 de 2015 (SG-SST) y Código Sustantivo del Trabajo | Ministerio del Trabajo | Contratos, seguridad social y sistema de seguridad y salud en el trabajo | Nómina formal con prestaciones; matriz de riesgos de cocina |
 
 *Fuente: Normativa colombiana vigente a octubre de 2026; recopilación del equipo.*
+
+
+Cumplir estas normas es un requisito para abrir: sin concepto sanitario del DADIS, registro mercantil, RUT y certificado de bomberos el restaurante no puede operar. Por estar en el Centro Histórico, además, cualquier adecuación del local debe ser autorizada por el IPCC, lo que se tendrá en cuenta en el cronograma de apertura.

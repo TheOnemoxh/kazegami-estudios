@@ -87,8 +87,8 @@ PROCESO_SUSHI = [
     ("I", "Control de recepción: T° ≤ 4 °C, olor, ojos, agallas"),
     ("O", "Eviscerado, fileteado y porcionado del pargo"),
     ("A", "Ultracongelación −35 °C × 15 h (control de parásitos)"),
-    ("A", "Congelado −18 °C; descongelado diario 0–4 °C (PEPS)"),
-    ("O", "Lavado del arroz japonés (3–4 aguas)"),
+    ("A", "Congelado −18 °C; descongelado diario 0-4 °C (PEPS)"),
+    ("O", "Lavado del arroz japonés (3-4 aguas)"),
     ("D", "Reposo del arroz 30 min"),
     ("O", "Cocción del arroz en arrocera (20 min)"),
     ("O", "Sazonado del shari con vinagre y enfriado a 35 °C"),
@@ -103,7 +103,7 @@ PROCESO_RAMEN = [
     ("T", "Recepción de huesos, panceta y vegetales"),
     ("I", "Control de recepción: T° cárnicos ≤ 4 °C"),
     ("O", "Blanqueado de huesos (10 min) y lavado"),
-    ("O", "Cocción del caldo a fuego lento (10–12 h)"),
+    ("O", "Cocción del caldo a fuego lento (10-12 h)"),
     ("O", "Colado, desgrasado y ajuste del tare (soya/miso)"),
     ("A", "Enfriamiento rápido y refrigeración del caldo ≤ 4 °C"),
     ("O", "Marinado del huevo (ajitama) 12 h y horneado del chashu"),
@@ -119,10 +119,10 @@ PROCESO_TEMPURA = [
     ("I", "Control de recepción: langostino ≤ 4 °C, sin manchas"),
     ("O", "Pelado, desvenado y corte del langostino"),
     ("O", "Lavado, desinfección y corte de vegetales"),
-    ("A", "Refrigeración de porciones (0–4 °C)"),
+    ("A", "Refrigeración de porciones (0-4 °C)"),
     ("O", "Preparación del batido con agua helada (al momento)"),
-    ("I", "Control de T° del aceite (170–180 °C)"),
-    ("O", "Rebozado y fritura (2–3 min por tanda)"),
+    ("I", "Control de T° del aceite (170-180 °C)"),
+    ("O", "Rebozado y fritura (2-3 min por tanda)"),
     ("O", "Escurrido sobre rejilla y papel absorbente"),
     ("O", "Emplatado con salsa tentsuyu y rábano"),
     ("I", "Control de calidad: crocancia y color dorado claro"),
@@ -135,7 +135,7 @@ SERVICIO = [
     ("T", "Ubicación en mesa o barra de sushi"),
     ("O", "Presentación de la carta (Top 3) y toma de pedido en tablet"),
     ("T", "Comanda digital a cocina y barra (POS)"),
-    ("D", "Preparación de platos (12–20 min)"),
+    ("D", "Preparación de platos (12-20 min)"),
     ("T", "Servicio a la mesa"),
     ("I", "Verificación de satisfacción (2 min después)"),
     ("O", "Factura electrónica y cobro (tarjeta, QR, efectivo)"),
@@ -207,7 +207,7 @@ subgraph cluster_p { label=<<B>Proveedores (socios clave)</B>>; style="rounded,d
   p3 [label="Importadores de insumos\njaponeses (arroz, nori, soya)", fillcolor="#d6e6f8", color="#2a78d6"];
   p4 [label="Empaques, bebidas\ny medios de pago", fillcolor="#e3e1da", color="#7a776e"];
 }
-r [label="Recepción e inspección\ncadena de frío 0–4 °C / −35 °C", fillcolor="#fde3d6", color="#eb6834"];
+r [label="Recepción e inspección\ncadena de frío 0-4 °C / −35 °C", fillcolor="#fde3d6", color="#eb6834"];
 k [label="Producción en cocina\ny barra de sushi\n(Rollos · Ramen · Tempura)", fillcolor="#fbd2bf", color="#eb6834"];
 s [label="Servicio en sala y barra\n(único punto en Cartagena)", fillcolor="#fde3d6", color="#eb6834"];
 c [label="Cliente final\n(residentes y turistas)", shape=ellipse, fillcolor="#2a78d6", fontcolor="white", color="#2a78d6"];

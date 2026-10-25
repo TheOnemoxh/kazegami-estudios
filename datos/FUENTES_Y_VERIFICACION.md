@@ -3,7 +3,7 @@
 > Generado por `scripts/analizar_encuesta.py` desde `scripts/modelo_kazegami.py`. Consultas realizadas el 24 de octubre de 2026.
 > **Verificado** = dato tomado de una fuente pública citada. **Estimación** = no existe dato público; valor razonado por el equipo con base en la investigación. **Decisión** = definición del proyecto.
 
-**Resumen:** 72 datos verificados y 32 estimaciones.
+**Resumen:** 77 datos verificados y 34 estimaciones.
 
 ## 1. Mercado, demanda, oferta y operación
 
@@ -23,7 +23,7 @@
 | Crecimiento de establecimientos de restaurantes 2024 | 2 % | Verificado | ACODRES vía Portafolio (23-feb-2025) |
 | Crecimiento del gasto: total hogares / comidas fuera del hogar (dic-2024) | 2,02 % / 3,6 % | Verificado | Raddar vía Portafolio: https://www.portafolio.co/economia/finanzas/en-que-gastaron-mas-los-hogares-colombianos-en-el-2024-622923 |
 | Crecimiento Sushi Master 2024 → 2025 (piezas) | 438.898 → 480.397 (+9,5 %) | Verificado | Valora Analitik (04-dic-2025): https://www.valoraanalitik.com/?p=532819 |
-| Precios de rollos (Masaki Sushi Wok) | $40.000-$57.000 (prom. $49.550) | Verificado | Rappi: https://www.rappi.com.co/restaurantes/900039514-masaki-sushi-wok |
+| Precios de rollos en 5 restaurantes (Masaki, Nami, Koi Koi, Cocina Nikkei, My Sushi Delivery) | $27.900-$73.700 (prom. $49.684) | Verificado | Rappi (24-oct-2026): https://www.rappi.com.co/restaurantes |
 | Precios de ramen (Dame Ramen) | $35.000-$69.000 (prom. $45.667) | Verificado | https://dameramen.com/menu/ |
 | Tempura de vegetales (Masaki) | $25.000 | Verificado | Rappi (ídem) |
 | Food cost de restaurantes rentables | 28 %-35 % | Verificado | Gordon Food Service (Rivers, s.f.): https://gfs.com/es-us/?p=5384 |
@@ -31,10 +31,13 @@
 | Arriendo de locales ($/m² mediana): Manga / Centro / Bocagrande / Getsemaní | $75.295 / $110.000 / $130.000 / $83.333 | Verificado | Fincaraíz (24-oct-2026): https://www.fincaraiz.com.co/arriendo/locales/manga/cartagena |
 | Tarifa de energía Afinia | $1.033,32/kWh (+20 % contribución comercial) | Verificado | El Universal (11-sep-2026); Ley 142 de 1994 |
 | Consumo de energía del local | 2.600 kWh/mes | Estimación | Cálculo del equipo según equipos instalados |
-| Factor prestacional | 1,38 | Verificado | Aleluya (2026): https://aleluya.com/blog/nomina/costo-de-un-empleado-en-colombia-2026/ |
+| Aportes: pensión 12 % / 4 %, salud 0 % (exonerada) / 4 %, ARL clase I 0,522 %, caja 4 % | Empresa / trabajador | Verificado | Ley 100 de 1993; Ley 1122 de 2007; Decreto 1772 de 1994; Ley 21 de 1982; E.T. art. 114-1 |
+| Recargo dominical 100 % (jul-2027) y nocturno 35 % desde las 7:00 p. m.; jornada de 42 h | — | Verificado | Ley 2466 de 2025; Ley 2101 de 2021; Portafolio (01-jul-2026) |
+| Aceptación de la propina sugerida (10 %) | 70 % de las cuentas | Estimación | Supuesto del equipo; tope del 10 % según Ley 1935 de 2018 |
+| Clase de riesgo ARL de restaurantes | Clase I | Estimación | Referencia de Decreto 768 de 2022; la ARL confirma la clase al afiliar |
 | Salario de chef (promedio Colombia) | $1.947.429 | Verificado | Indeed Colombia (02-oct-2026) |
 | Salario del administrador | 2 SMMLV | Estimación | Sin dato público verificable para Cartagena |
-| Capacidad: puestos, rotación, utilización, platos por comensal | 56 / 3,5 / 50-80 % / 1,2 | Estimación | Parámetros de diseño del equipo |
+| Capacidad: puestos, rotación, utilización, platos por comensal | 56 / 3,5 / 35-65 % / 1,2 | Estimación | Parámetros de diseño del equipo |
 | Calificaciones cualitativas de la microlocalización | 1-10 | Estimación | Juicio del equipo (flujo turístico, proveedores, acceso, competencia, normativa) |
 | Precios de venta de Kazegami | $40.000 / $38.000 / $38.000 | Decisión | Método mixto: costo + food cost 28-35 % + precio de la competencia + disposición de pago |
 
@@ -42,43 +45,47 @@
 
 | Insumo | Precio | Estado | Fuente |
 |:---|:---|:---|:---|
-| Arroz japonés para sushi (bulto Botan 50 lb) | $16.314/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $370.000 / 50 lb |
-| Vinagre de arroz (Kenko 750 ml) | $24.000/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $18.000 / 750 ml |
+| Arroz japonés de grano corto (base del shari del rollo) | $16.314/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $370.000 / 50 lb |
+| Vinagre de arroz (sazón del shari) | $24.000/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $18.000 / 750 ml |
 | Azúcar refinada (sazón del shari) | $3.820/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | Sal (sazón del shari) | $1.100/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Alga nori (paquete de 100 hojas) | $980/und | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
-| Pargo rojo entero fresco (pesca artesanal; 56 g de filete, rinde 46 %) | $21.000/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Langostino 16-20 | $62.445/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
-| Aguacate papelillo | $11.083/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Pepino cohombro | $2.367/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Mango de azúcar (toque caribeño) | $2.400/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Queso crema (Alpina 380 g) | $34.211/kg | Verificado | Mercasur, consulta 24-oct-2026: $13.000 / 380 g |
-| Ajonjolí descortezado | $48.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $12.000 / 250 g |
-| Salsa de soya (Sakura 20 L) | $14.700/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
-| Wasabi en polvo (Waner 1 kg) | $115.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $115.000 / kg |
-| Jengibre encurtido – gari (340 g) | $44.118/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.000 / 340 g |
-| Mayonesa (base de la salsa spicy de la casa) | $18.490/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Fideo de trigo estilo chuka (Best Choice 400 g) | $38.750/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.500 / 400 g |
-| Espinazo de cerdo (caldo) | $12.750/kg | Verificado | SIPSA-DANE, región Caribe (vía Agronegocios), consulta 24-oct-2026 |
-| Rabadillas de pollo (caldo) | $6.500/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
-| Tocino de barriga de cerdo (chashu) | $18.170/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
-| Huevo rojo A (ajitama) | $494/und | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Miso (Hikari 1 kg) | $40.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $40.000 / kg |
-| Mirin (Kikkoman 375 ml) | $114.667/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $43.000 / 375 ml |
-| Alga nori (½ hoja) | $980/und | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
-| Cebollín chino | $6.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Repollo blanco salteado | $2.077/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Ajo | $5.858/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Aceite de ajonjolí (Kuki 1.650 ml) | $83.939/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $138.500 / 1.650 ml |
-| Berenjena | $1.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Ahuyama | $1.667/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Cebolla cabezona blanca | $2.408/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Harina para tempura (Best Choice 1 kg) | $23.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $23.000 / kg |
-| Fécula de maíz | $37.153/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Huevo rojo A (½ unidad) | $494/und | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Aceite vegetal para freír (consumo + reposición) | $9.792/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Alga kombu (dashi para tentsuyu) | $160.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $16.000 / 100 g |
-| Rábano rojo rallado (en lugar de daikon) | $6.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Alga nori (envoltura del rollo) | $980/und | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
+| Pargo rojo entero fresco (relleno de pescado del rollo; rinde 46 % en filete) | $21.000/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Langostino 16-20 (relleno del rollo) | $62.445/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Aguacate papelillo (relleno del rollo) | $11.083/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Pepino cohombro (relleno del rollo) | $2.367/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Mango de azúcar (relleno caribeño del rollo) | $2.400/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Queso crema (relleno del rollo) | $34.211/kg | Verificado | Mercasur, consulta 24-oct-2026: $13.000 / 380 g |
+| Ajonjolí descortezado (cobertura del rollo) | $48.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $12.000 / 250 g |
+| Salsa de soya (acompañante del rollo) | $14.700/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
+| Wasabi en polvo (acompañante del rollo) | $115.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $115.000 / kg |
+| Jengibre encurtido o gari (acompañante del rollo) | $44.118/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.000 / 340 g |
+| Mayonesa (base de la salsa picante del rollo) | $18.490/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Fideo de trigo estilo chuka (fideo del ramen) | $38.750/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.500 / 400 g |
+| Espinazo de cerdo (caldo del ramen) | $12.750/kg | Verificado | SIPSA-DANE, región Caribe (vía Agronegocios), consulta 24-oct-2026 |
+| Rabadillas de pollo (caldo del ramen) | $6.500/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Tocino de barriga de cerdo (chashu del ramen) | $18.170/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Huevo rojo A (huevo marinado del ramen) | $494/und | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Miso (tare o base de sabor del ramen) | $40.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $40.000 / kg |
+| Salsa de soya (tare del ramen) | $14.700/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
+| Mirin (tare del ramen) | $114.667/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $43.000 / 375 ml |
+| Alga nori (topping del ramen; ½ hoja) | $980/und | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
+| Cebollín chino (topping del ramen) | $6.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Repollo blanco (topping salteado del ramen) | $2.077/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Ajo (caldo y aceite aromático del ramen) | $5.858/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Aceite de ajonjolí (aceite aromático del ramen) | $83.939/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $138.500 / 1.650 ml |
+| Langostino 16-20 (tempura de langostino) | $62.445/kg | Verificado | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Berenjena (tempura de vegetales) | $1.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Ahuyama (tempura de vegetales) | $1.667/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Cebolla cabezona blanca (tempura de vegetales) | $2.408/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Harina para tempura (batido) | $23.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $23.000 / kg |
+| Fécula de maíz (batido) | $37.153/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Huevo rojo A (batido; ½ unidad) | $494/und | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Aceite vegetal (fritura; consumo y reposición) | $9.792/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Alga kombu (dashi de la salsa tentsuyu) | $160.000/kg | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $16.000 / 100 g |
+| Salsa de soya (salsa tentsuyu) | $14.700/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
+| Mirin (salsa tentsuyu) | $114.667/L | Verificado | Global Gourmet Market Colombia, consulta 24-oct-2026: $43.000 / 375 ml |
+| Rábano rojo (rallado de acompañamiento, en lugar de daikon) | $6.333/kg | Verificado | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 
 ## 3. Maquinaria y equipos
 

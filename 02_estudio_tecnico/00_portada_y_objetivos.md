@@ -52,7 +52,7 @@ Cartagena de Indias, 25 de octubre de 2026
 
 # Introducción
 
-El **Estudio Técnico** de KAZEGAMI RESTAURANTE responde a cuatro preguntas: **dónde** se ubica el restaurante, **qué tamaño** debe tener, **cómo** se producen y se sirven los platos y **qué insumos, equipos y tecnología** se necesitan y cuánto cuestan. Toma como punto de partida los resultados del Estudio de Mercados (Taller No. 1): una demanda insatisfecha de **333.187 platos en 2027** y un portafolio enfocado en los tres platos más frecuentados de la encuesta: **Rollos de sushi, Ramen y Tempura**.
+El **Estudio Técnico** de KAZEGAMI RESTAURANTE responde a cuatro preguntas: **dónde** se ubica el restaurante, **qué tamaño** debe tener, **cómo** se producen y se sirven los platos y **qué insumos, equipos y tecnología** se necesitan y cuánto cuestan. Toma como punto de partida los resultados del Estudio de Mercados: una demanda insatisfecha de **333.187 platos en 2027** y un portafolio enfocado en los tres platos más frecuentados de la encuesta: **Rollos de sushi, Ramen y Tempura**.
 
 Table: Tabla 1. Datos de entrada que vienen del Estudio de Mercados
 
@@ -65,6 +65,9 @@ Table: Tabla 1. Datos de entrada que vienen del Estudio de Mercados
 | Horario y servicio | Martes a domingo, horario continuo de 12:00 m. a 10:00 p. m.; experiencia 100 % en el local | Capacidad y rotación |
 
 
+Estos datos son el punto de partida del estudio técnico: la demanda insatisfecha limita el tamaño, la preferencia de zona orienta la localización y los precios de venta permiten verificar que los costos sean viables.
+
+
 # 1. Objetivos del estudio técnico
 
 ## 1.1 Objetivo general
@@ -75,9 +78,9 @@ Determinar la localización óptima, el tamaño, el proceso productivo y los req
 
 1. Definir la macro y microlocalización del restaurante con el método de ponderación de factores por puntos.
 2. Establecer la capacidad diseñada, instalada y utilizada del local para los cinco años de operación.
-3. Describir con diagramas de flujo y cursogramas analíticos los procesos de los 3 platos y la prestación del servicio, y distribuir las áreas del local.
+3. Describir con diagramas de flujo y cursogramas analíticos los procesos de los 3 platos y la prestación del servicio, y definir las áreas que tendrá el local.
 4. Verificar la disponibilidad de los insumos (pesca del Caribe, agro de Bolívar e importados japoneses), de la maquinaria y de la tecnología.
-5. Cuantificar los costos de insumos (formato del Punto 6), maquinaria, mobiliario, adecuación y tecnología.
+5. Cuantificar los costos de insumos, maquinaria, mobiliario, adecuación, tecnología y personal.
 
 Table: Tabla 2. Alcance técnico del estudio
 
@@ -85,6 +88,9 @@ Table: Tabla 2. Alcance técnico del estudio
 |:--------------------|:----------------------|:----------------------------------------------------|:----------:|
 | Localización | ¿Dónde? | Matriz de macrolocalización y método de ponderación de factores | 2 |
 | Tamaño | ¿Cuánto producir? | Capacidad diseñada, instalada y utilizada; rotación de puestos | 3 |
-| Proceso productivo | ¿Cómo producir y servir? | Diagramas de flujo, cursogramas analíticos (ASME), layout | 4 |
+| Proceso productivo | ¿Cómo producir y servir? | Diagramas de flujo, cursogramas analíticos (ASME) y áreas del local | 4 |
 | Disponibilidad | ¿Con qué recursos? | Tablas de insumos, fichas técnicas de equipos y tecnología | 5 |
-| Costos | ¿Cuánto cuesta? | Tablas de insumos por plato (formato Punto 6) y presupuestos | 6 |
+| Costos | ¿Cuánto cuesta? | Tablas de insumos y costos por plato y presupuestos | 6 |
+
+
+Cada sección responde a una de estas preguntas y, en conjunto, permiten saber si el restaurante puede operar con los recursos disponibles y cuánto cuesta ponerlo en marcha.

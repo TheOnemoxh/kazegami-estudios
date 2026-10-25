@@ -25,15 +25,15 @@ Table: Tabla 42. Precios y costos unitarios de los 3 platos (COP, 2027)
 | Concepto | Rollos de sushi | Ramen | Tempura |
 |:-------------------------------------------|---------------------:|---------------------:|---------------------:|
 | Costo de materia prima por porción | $11.087 | $12.120 | $11.953 |
-| Servicios y depreciación de la línea por porción | $681 | $1.070 | $735 |
-| **Costo unitario total** | **$11.768** | **$13.189** | **$12.687** |
+| Servicios y depreciación de la línea por porción | $972 | $1.528 | $1.049 |
+| **Costo unitario total** | **$12.060** | **$13.648** | **$13.002** |
 | Precio con markup teórico (MP ÷ 30 %) + 8 % | $39.914 | $43.630 | $43.030 |
 | Precio promedio real de la competencia | $49.684 (5 restaurantes) | $52.942 (4 restaurantes) | $28.500 (solo vegetales, 2 restaurantes) |
 | **Precio de venta Kazegami (con impoconsumo)** | **$40.000** | **$38.000** | **$38.000** |
 | Precio neto (sin impoconsumo 8 %) | $37.037 | $35.185 | $35.185 |
 | Food cost resultante | 29,9 % | 34,4 % | 34,0 % |
-| Margen de contribución por plato | $25.269 | $21.996 | $22.498 |
-| Margen de contribución (% del precio neto) | 68,2 % | 62,5 % | 63,9 % |
+| Margen de contribución por plato | $24.977 | $21.537 | $22.183 |
+| Margen de contribución (% del precio neto) | 67,4 % | 61,2 % | 63,0 % |
 
 *Fuente: Recetas estándar con precios SIPSA-DANE y proveedores (Estudio Técnico, sección 6); competencia: Rappi y dameramen.com (oct. 2026).*
 
@@ -48,7 +48,7 @@ Table: Tabla 43. Productos complementarios y precios de la carta
 |:-------------------------------------------------|-------------------:|:---------------------------------------|
 | Menú ejecutivo de mediodía (ramen + bebida), martes a viernes de 12:00 m. a 3:00 p. m. | $28.000 | 51,9 % pagaría $20.000-$30.000 |
 | Experiencia omakase (60-90 min, por reserva, bebidas aparte) | $150.000 | 46,2 % pagaría $100.000-$200.000; 19,8 % muy interesado |
-| Bebidas sin alcohol | $8.000 - $12.000 | — |
+| Bebidas sin alcohol | $8.000 - $12.000 | - |
 | Cerveza japonesa / sake | $16.000 - $35.000 | Pedido espontáneo: cerveza Asahi |
 | Postres japoneses | $14.000 | Pedido espontáneo: postres |
 
@@ -90,23 +90,29 @@ Table: Tabla 44. Formas de almacenamiento por insumo
 | Arroz de sushi preparado (shari) | Recipiente hangiri tapado | 30-35 °C | 4 h | Se descarta al cierre de cada turno |
 
 
+Los insumos más delicados son el pescado para consumo crudo y el arroz de sushi preparado, que tienen las vidas útiles más cortas. Estos tiempos definen la frecuencia de compra a los proveedores y la capacidad de los equipos de refrigeración del Estudio Técnico.
+
+
 ## 7.2 Sistemas de transporte
 
-El transporte cubre el trayecto de los insumos desde cada proveedor hasta el local y la forma en que los clientes llegan al restaurante. La ubicación en Manga permite que el pescado de Bazurto llegue en menos de 20 minutos sin romper la cadena de frío.
+El transporte cubre el trayecto de los insumos desde cada proveedor hasta el local y la forma en que los clientes llegan al restaurante. Desde el Mercado de Bazurto hasta el Centro Histórico hay unos 3 km, por lo que el pescado llega en menos de 20 minutos sin romper la cadena de frío.
 
 Table: Tabla 45. Transporte de insumos
 
 | Tramo | Medio | Condición | Responsable |
 |:-------------------------------|:-------------------------------|:-------------------------|:------------------|
-| Bazurto / Mercado del Mar → local en Manga (distancia corta, aprox.) | Vehículo del proveedor o furgón propio con neveras isotérmicas y hielo | Pescado a ≤ 4 °C; trayecto < 20 min | Proveedor / jefe de cocina |
+| Bazurto / Mercado del Mar → local en el Centro Histórico (≈ 3 km) | Vehículo del proveedor o furgón propio con neveras isotérmicas y hielo | Pescado a ≤ 4 °C; trayecto < 20 min | Proveedor / jefe de cocina |
 | Agricultores de Bolívar → local | Camión del proveedor | Canastillas plásticas, sombra | Proveedor |
 | Importador (Bogotá / Barranquilla) → local | Transportadora de carga nacional | Secos en caja, sin humedad | Importador |
 | Clientes → local | Vehículo propio, taxi, plataformas, a pie desde el Centro | Convenio con parqueadero cercano | Cliente |
 
 
+El tramo crítico es el del pescado desde Bazurto, porque de él depende la cadena de frío; por eso se exige transporte en neveras con hielo y un trayecto corto. Los insumos secos e importados no requieren condiciones especiales.
+
+
 ## 7.3 Presentación del producto o servicio
 
-La presentación del servicio es lo que el cliente ve y vive dentro del local. Como la propuesta de valor de Kazegami es la experiencia japonesa en el restaurante, cada elemento —la barra, la vajilla, la carta, el ambiente, los uniformes y el horario— se definió para reforzarla.
+La presentación del servicio es lo que el cliente ve y vive dentro del local. Como la propuesta de valor de Kazegami es la experiencia japonesa en el restaurante, cada elemento (la barra, la vajilla, la carta, el ambiente, los uniformes y el horario) se definió para reforzarla.
 
 Table: Tabla 46. Presentación del servicio en sala y barra
 
@@ -118,6 +124,9 @@ Table: Tabla 46. Presentación del servicio en sala y barra
 | Ambiente | Decoración japonesa serena (madera, luz cálida, plantas); música ambiental suave |
 | Uniformes | Chaquetilla de cocina negra y delantal índigo; personal de sala con camisa de lino |
 | Horario | Martes a domingo, horario continuo de 12:00 m. a 10:00 p. m. (la cocina recibe el último pedido a las 9:30 p. m.); lunes de descanso |
+
+
+Todos los elementos de la presentación buscan reforzar la experiencia japonesa que diferencia a Kazegami. El horario continuo permite atender tanto el almuerzo de los ejecutivos como la cena de parejas y turistas.
 
 
 ## 7.4 Crédito a los consumidores y medios de pago
@@ -136,9 +145,12 @@ Table: Tabla 47. Medios de pago y políticas de crédito
 | Bonos de regalo y fidelización | Sí | Tarjeta de sellos digital: 10 visitas = 1 rollo gratis |
 
 
+Ofrecer pagos con tarjeta, QR y billeteras digitales evita perder ventas, aunque las comisiones de los datáfonos son un costo que se incluye en la comercialización. El crédito se limita a empresas para no comprometer la liquidez del restaurante.
+
+
 ## 7.5 Asistencia técnica al usuario (atención y reservas)
 
-La asistencia al usuario en un restaurante corresponde al protocolo de atención, desde la reserva hasta el pago. Los tiempos de entrega se fijaron como un estándar operativo del equipo que considera el tiempo real de preparación de cada plato —el armado y corte del rollo, la cocción del fideo y el montaje del ramen, y la fritura de la tempura— más la cola de pedidos en las horas de mayor afluencia. Son tiempos realistas que evitan la demora en el servicio, queja del 18,9 % de los encuestados.
+La asistencia al usuario en un restaurante corresponde al protocolo de atención, desde la reserva hasta el pago. Los tiempos de entrega se fijaron como un estándar operativo del equipo que considera el tiempo real de preparación de cada plato (el armado y corte del rollo, la cocción del fideo y el montaje del ramen, y la fritura de la tempura) más la cola de pedidos en las horas de mayor afluencia. Son tiempos realistas que evitan la demora en el servicio, queja del 18,9 % de los encuestados.
 
 Table: Tabla 48. Protocolo de atención y reservas
 
@@ -149,7 +161,7 @@ Table: Tabla 48. Protocolo de atención y reservas
 | 3. Orientación | El mesero explica la carta, los alérgenos y recomienda el Top 3 | < 5 min |
 | 4. Pedido | Comanda digital en tablet que llega a cocina y barra | Inmediato |
 | 5. Entrega | Rollos de sushi 15-20 min; ramen 12-15 min; tempura 12-15 min (los platos de una misma mesa salen juntos) | ≤ 20 min desde el pedido (≤ 25 min en hora pico) |
-| 6. Seguimiento | Verificación de satisfacción a los 2 minutos de servir | — |
+| 6. Seguimiento | Verificación de satisfacción a los 2 minutos de servir | - |
 | 7. Cierre | Factura electrónica, invitación a reseña en Google Maps y registro en fidelización | < 5 min |
 
 *Fuente: Encuesta (medio de reserva, n = 106); Canvas (relación con clientes).*
@@ -170,7 +182,7 @@ Table: Tabla 49. Canales de distribución y de comunicación
 
 | Canal | Tipo | Función | Evidencia |
 |:-------------------------|:------------------------|:--------------------------------|:-------------------------|
-| Restaurante físico en Manga | Distribución directa (único punto) | Producción y servicio de los 3 platos | Canvas |
+| Restaurante físico en el Centro Histórico | Distribución directa (único punto) | Producción y servicio de los 3 platos | Canvas |
 | Instagram y TikTok | Comunicación y reservas | Contenido de la barra de sushi, videos de preparación | 85,8 % busca recomendaciones allí |
 | Recomendaciones de amigos y familiares | Boca a boca | Fidelización y referidos | 63,2 % |
 | Google Maps | Visibilidad local y reseñas | Ficha optimizada con fotos y horarios | 44,3 % |
@@ -197,13 +209,18 @@ Table: Tabla 50. Plan de marketing, redes sociales y alianzas turísticas
 | Acción | Canal | Público | Frecuencia | Presupuesto mensual (COP, definido por el equipo) | Indicador |
 |:---------------------------|:-----------------|:-----------------|:------------|----------------:|:----------------|
 | Videos cortos de la barra de sushi y del caldo de ramen | Instagram Reels y TikTok | Segmento 1 (18-35) | 4 por semana | $800.000 (pauta) | Alcance y mensajes de reserva |
-| Pauta geolocalizada (radio 5 km) | Meta Ads | Residentes de Manga, Centro y Bocagrande | Permanente | $700.000 | Costo por reserva |
+| Pauta geolocalizada (radio 5 km) | Meta Ads | Turistas y residentes del Centro, Manga y Bocagrande | Permanente | $700.000 | Costo por reserva |
 | Ficha de Google Maps y gestión de reseñas | Google Business Profile | Todos | Diaria | $0 | Calificación ≥ 4,6 |
 | Alianzas con hoteles y agencias | Visitas comerciales, material impreso con QR | Turistas (segmento del Canvas) | Mensual | $300.000 | Reservas referidas |
 | Influenciadores gastronómicos locales | Instagram / TikTok | Segmentos 1 y 2 | 1 por mes | $500.000 (canje + pago) | Seguidores nuevos |
 | Programa de fidelización | WhatsApp y tarjeta digital | Clientes recurrentes | Permanente | $200.000 | % de clientes que regresan |
 | Lanzamiento: 2 x 1 en ramen las 4 primeras semanas | Redes y local | Nuevos clientes | Apertura | Incluido en el costo del plato | Pruebas del producto |
 
+
+El plan concentra la inversión en redes sociales y pauta digital, que son los canales que más usa el público objetivo, y en las alianzas con hoteles del Centro Histórico, que llevan turistas al restaurante.
+
+
+La tabla resume cuánto cuesta cada acción de comercialización al mes y al año, junto con los costos de las plataformas de reservas y de los medios de pago.
 
 Table: Tabla 51. Costos de comercialización (mensual y anual)
 

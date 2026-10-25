@@ -271,7 +271,7 @@ CAP = {
     "platos_por_comensal": 1.2,
     "dias_anio": 312,  # 6 días/semana (lunes cerrado) × 52
     "factor_instalada": 0.80,
-    "utilizacion": {2027: 0.50, 2028: 0.58, 2029: 0.66, 2030: 0.73, 2031: 0.80},
+    "utilizacion": {2027: 0.35, 2028: 0.425, 2029: 0.50, 2030: 0.575, 2031: 0.65},  # arranque prudente; +7,5 puntos por año (supuesto del equipo)
 }
 
 
@@ -305,7 +305,7 @@ def unidades_por_plato(p: dict) -> pd.DataFrame:
 
 
 # ---------------------------------------------------------------------------
-# 6. RECETAS ESTÁNDAR (por porción) — formato Punto 6
+# 6. RECETAS ESTÁNDAR (por porción)
 # ---------------------------------------------------------------------------
 @dataclass
 class Insumo:
@@ -328,51 +328,51 @@ REND_FILETE = 0.46  # rendimiento en filete de referencia (Mancera, 2024: 46,15 
 
 RECETAS: dict[str, list[Insumo]] = {
     "Rollos de sushi": [  # 1 rollo = 10 piezas (≈ 320 g)
-        Insumo("Arroz japonés para sushi (bulto Botan 50 lb)", 0.150, "kg", 370_000 / 22.68, "Importador de insumos japoneses", "Importado", F_GGM + ": $370.000 / 50 lb"),
-        Insumo("Vinagre de arroz (Kenko 750 ml)", 0.019, "L", 18_000 / 0.75, "Importador de insumos japoneses", "Importado", F_GGM + ": $18.000 / 750 ml"),
+        Insumo("Arroz japonés de grano corto (base del shari del rollo)", 0.150, "kg", 370_000 / 22.68, "Importador de insumos japoneses", "Importado", F_GGM + ": $370.000 / 50 lb"),
+        Insumo("Vinagre de arroz (sazón del shari)", 0.019, "L", 18_000 / 0.75, "Importador de insumos japoneses", "Importado", F_GGM + ": $18.000 / 750 ml"),
         Insumo("Azúcar refinada (sazón del shari)", 0.006, "kg", 3_820, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
         Insumo("Sal (sazón del shari)", 0.002, "kg", 1_100, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
-        Insumo("Alga nori (paquete de 100 hojas)", 1, "und", 98_000 / 100, "Importador de insumos japoneses", "Importado", F_GGM + ": $98.000 / 100 hojas"),
-        Insumo(f"Pargo rojo entero fresco (pesca artesanal; 56 g de filete, rinde {int(REND_FILETE*100)} %)", 0.056 / REND_FILETE, "kg", 21_000, "Pescadores artesanales – Mercado de Bazurto", "Caribe", F_SIPSA_CTG),
-        Insumo("Langostino 16-20", 0.031, "kg", 62_445, "Pescadería mayorista", "Nacional", F_SIPSA_NAL),
-        Insumo("Aguacate papelillo", 0.038, "kg", 11_083, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Pepino cohombro", 0.025, "kg", 2_367, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Mango de azúcar (toque caribeño)", 0.019, "kg", 2_400, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Queso crema (Alpina 380 g)", 0.025, "kg", 13_000 / 0.38, "Distribuidor de lácteos", "Nacional", "Mercasur, consulta 24-oct-2026: $13.000 / 380 g"),
-        Insumo("Ajonjolí descortezado", 0.004, "kg", 12_000 / 0.25, "Importador de insumos japoneses", "Nacional", F_GGM + ": $12.000 / 250 g"),
-        Insumo("Salsa de soya (Sakura 20 L)", 0.015, "L", 294_000 / 20, "Importador de insumos japoneses", "Importado", F_GGM + ": $294.000 / 20 L"),
-        Insumo("Wasabi en polvo (Waner 1 kg)", 0.002, "kg", 115_000, "Importador de insumos japoneses", "Importado", F_GGM + ": $115.000 / kg"),
-        Insumo("Jengibre encurtido – gari (340 g)", 0.010, "kg", 15_000 / 0.34, "Importador de insumos japoneses", "Importado", F_GGM + ": $15.000 / 340 g"),
-        Insumo("Mayonesa (base de la salsa spicy de la casa)", 0.012, "kg", 18_490, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
+        Insumo("Alga nori (envoltura del rollo)", 1, "und", 98_000 / 100, "Importador de insumos japoneses", "Importado", F_GGM + ": $98.000 / 100 hojas"),
+        Insumo(f"Pargo rojo entero fresco (relleno de pescado del rollo; rinde {int(REND_FILETE*100)} % en filete)", 0.056 / REND_FILETE, "kg", 21_000, "Pescadores artesanales – Mercado de Bazurto", "Caribe", F_SIPSA_CTG),
+        Insumo("Langostino 16-20 (relleno del rollo)", 0.031, "kg", 62_445, "Pescadería mayorista", "Nacional", F_SIPSA_NAL),
+        Insumo("Aguacate papelillo (relleno del rollo)", 0.038, "kg", 11_083, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Pepino cohombro (relleno del rollo)", 0.025, "kg", 2_367, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Mango de azúcar (relleno caribeño del rollo)", 0.019, "kg", 2_400, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Queso crema (relleno del rollo)", 0.025, "kg", 13_000 / 0.38, "Distribuidor de lácteos", "Nacional", "Mercasur, consulta 24-oct-2026: $13.000 / 380 g"),
+        Insumo("Ajonjolí descortezado (cobertura del rollo)", 0.004, "kg", 12_000 / 0.25, "Importador de insumos japoneses", "Nacional", F_GGM + ": $12.000 / 250 g"),
+        Insumo("Salsa de soya (acompañante del rollo)", 0.015, "L", 294_000 / 20, "Importador de insumos japoneses", "Importado", F_GGM + ": $294.000 / 20 L"),
+        Insumo("Wasabi en polvo (acompañante del rollo)", 0.002, "kg", 115_000, "Importador de insumos japoneses", "Importado", F_GGM + ": $115.000 / kg"),
+        Insumo("Jengibre encurtido o gari (acompañante del rollo)", 0.010, "kg", 15_000 / 0.34, "Importador de insumos japoneses", "Importado", F_GGM + ": $15.000 / 340 g"),
+        Insumo("Mayonesa (base de la salsa picante del rollo)", 0.012, "kg", 18_490, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
     ],
     "Ramen": [  # 1 bowl ≈ 650 ml
-        Insumo("Fideo de trigo estilo chuka (Best Choice 400 g)", 0.120, "kg", 15_500 / 0.4, "Importador de insumos japoneses", "Importado", F_GGM + ": $15.500 / 400 g"),
-        Insumo("Espinazo de cerdo (caldo)", 0.150, "kg", 12_750, "Expendio de carnes – Bazurto", "Bolívar", F_SIPSA_CAR),
-        Insumo("Rabadillas de pollo (caldo)", 0.100, "kg", 6_500, "Avícola regional", "Bolívar", F_SIPSA_NAL),
-        Insumo("Tocino de barriga de cerdo (chashu)", 0.060, "kg", 18_170, "Expendio de carnes – Bazurto", "Bolívar", F_SIPSA_NAL),
-        Insumo("Huevo rojo A (ajitama)", 1, "und", 494, "Avícola regional", "Bolívar", F_SIPSA_CTG),
-        Insumo("Miso (Hikari 1 kg)", 0.020, "kg", 40_000, "Importador de insumos japoneses", "Importado", F_GGM + ": $40.000 / kg"),
-        Insumo("Salsa de soya (Sakura 20 L)", 0.020, "L", 294_000 / 20, "Importador de insumos japoneses", "Importado", F_GGM + ": $294.000 / 20 L"),
-        Insumo("Mirin (Kikkoman 375 ml)", 0.010, "L", 43_000 / 0.375, "Importador de insumos japoneses", "Importado", F_GGM + ": $43.000 / 375 ml"),
-        Insumo("Alga nori (½ hoja)", 0.5, "und", 98_000 / 100, "Importador de insumos japoneses", "Importado", F_GGM + ": $98.000 / 100 hojas"),
-        Insumo("Cebollín chino", 0.010, "kg", 6_333, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Repollo blanco salteado", 0.030, "kg", 2_077, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Ajo", 0.008, "kg", 5_858, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Aceite de ajonjolí (Kuki 1.650 ml)", 0.005, "L", 138_500 / 1.65, "Importador de insumos japoneses", "Importado", F_GGM + ": $138.500 / 1.650 ml"),
+        Insumo("Fideo de trigo estilo chuka (fideo del ramen)", 0.120, "kg", 15_500 / 0.4, "Importador de insumos japoneses", "Importado", F_GGM + ": $15.500 / 400 g"),
+        Insumo("Espinazo de cerdo (caldo del ramen)", 0.150, "kg", 12_750, "Expendio de carnes – Bazurto", "Bolívar", F_SIPSA_CAR),
+        Insumo("Rabadillas de pollo (caldo del ramen)", 0.100, "kg", 6_500, "Avícola regional", "Bolívar", F_SIPSA_NAL),
+        Insumo("Tocino de barriga de cerdo (chashu del ramen)", 0.060, "kg", 18_170, "Expendio de carnes – Bazurto", "Bolívar", F_SIPSA_NAL),
+        Insumo("Huevo rojo A (huevo marinado del ramen)", 1, "und", 494, "Avícola regional", "Bolívar", F_SIPSA_CTG),
+        Insumo("Miso (tare o base de sabor del ramen)", 0.020, "kg", 40_000, "Importador de insumos japoneses", "Importado", F_GGM + ": $40.000 / kg"),
+        Insumo("Salsa de soya (tare del ramen)", 0.020, "L", 294_000 / 20, "Importador de insumos japoneses", "Importado", F_GGM + ": $294.000 / 20 L"),
+        Insumo("Mirin (tare del ramen)", 0.010, "L", 43_000 / 0.375, "Importador de insumos japoneses", "Importado", F_GGM + ": $43.000 / 375 ml"),
+        Insumo("Alga nori (topping del ramen; ½ hoja)", 0.5, "und", 98_000 / 100, "Importador de insumos japoneses", "Importado", F_GGM + ": $98.000 / 100 hojas"),
+        Insumo("Cebollín chino (topping del ramen)", 0.010, "kg", 6_333, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Repollo blanco (topping salteado del ramen)", 0.030, "kg", 2_077, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Ajo (caldo y aceite aromático del ramen)", 0.008, "kg", 5_858, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Aceite de ajonjolí (aceite aromático del ramen)", 0.005, "L", 138_500 / 1.65, "Importador de insumos japoneses", "Importado", F_GGM + ": $138.500 / 1.650 ml"),
     ],
     "Tempura": [  # porción mixta: 5 langostinos + vegetales
-        Insumo("Langostino 16-20", 0.120, "kg", 62_445, "Pescadería mayorista", "Nacional", F_SIPSA_NAL),
-        Insumo("Berenjena", 0.035, "kg", 1_333, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Ahuyama", 0.035, "kg", 1_667, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Cebolla cabezona blanca", 0.030, "kg", 2_408, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
-        Insumo("Harina para tempura (Best Choice 1 kg)", 0.050, "kg", 23_000, "Importador de insumos japoneses", "Importado", F_GGM + ": $23.000 / kg"),
-        Insumo("Fécula de maíz", 0.015, "kg", 37_153, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
-        Insumo("Huevo rojo A (½ unidad)", 0.5, "und", 494, "Avícola regional", "Bolívar", F_SIPSA_CTG),
-        Insumo("Aceite vegetal para freír (consumo + reposición)", 0.060, "kg", 9_792, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
-        Insumo("Alga kombu (dashi para tentsuyu)", 0.002, "kg", 16_000 / 0.1, "Importador de insumos japoneses", "Importado", F_GGM + ": $16.000 / 100 g"),
-        Insumo("Salsa de soya (Sakura 20 L)", 0.010, "L", 294_000 / 20, "Importador de insumos japoneses", "Importado", F_GGM + ": $294.000 / 20 L"),
-        Insumo("Mirin (Kikkoman 375 ml)", 0.010, "L", 43_000 / 0.375, "Importador de insumos japoneses", "Importado", F_GGM + ": $43.000 / 375 ml"),
-        Insumo("Rábano rojo rallado (en lugar de daikon)", 0.020, "kg", 6_333, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Langostino 16-20 (tempura de langostino)", 0.120, "kg", 62_445, "Pescadería mayorista", "Nacional", F_SIPSA_NAL),
+        Insumo("Berenjena (tempura de vegetales)", 0.035, "kg", 1_333, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Ahuyama (tempura de vegetales)", 0.035, "kg", 1_667, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Cebolla cabezona blanca (tempura de vegetales)", 0.030, "kg", 2_408, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
+        Insumo("Harina para tempura (batido)", 0.050, "kg", 23_000, "Importador de insumos japoneses", "Importado", F_GGM + ": $23.000 / kg"),
+        Insumo("Fécula de maíz (batido)", 0.015, "kg", 37_153, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
+        Insumo("Huevo rojo A (batido; ½ unidad)", 0.5, "und", 494, "Avícola regional", "Bolívar", F_SIPSA_CTG),
+        Insumo("Aceite vegetal (fritura; consumo y reposición)", 0.060, "kg", 9_792, "Mayorista de Bazurto", "Nacional", F_SIPSA_CTG),
+        Insumo("Alga kombu (dashi de la salsa tentsuyu)", 0.002, "kg", 16_000 / 0.1, "Importador de insumos japoneses", "Importado", F_GGM + ": $16.000 / 100 g"),
+        Insumo("Salsa de soya (salsa tentsuyu)", 0.010, "L", 294_000 / 20, "Importador de insumos japoneses", "Importado", F_GGM + ": $294.000 / 20 L"),
+        Insumo("Mirin (salsa tentsuyu)", 0.010, "L", 43_000 / 0.375, "Importador de insumos japoneses", "Importado", F_GGM + ": $43.000 / 375 ml"),
+        Insumo("Rábano rojo (rallado de acompañamiento, en lugar de daikon)", 0.020, "kg", 6_333, "Agricultores de Bolívar (Bazurto)", "Bolívar", F_SIPSA_CTG),
     ],
 }
 
@@ -412,24 +412,24 @@ COMPETENCIA_PRECIOS = {
 
 # Activos específicos de cada línea (para la fila de depreciación del formato Punto 6)
 ACTIVOS_PLATO = {
-    "Rollos de sushi": [("Vitrina refrigerada curva para sushi (Makfrio)", 1, 5_136_000),
-                        ("Arrocera industrial a gas 10 L (Pallomaro)", 2, 2_052_750),
-                        ("Cuchillo yanagiba 270 mm Sekiryu", 2, 441_200),
-                        ("Cuchillo sashimi 240 mm", 2, 150_000)],
-    "Ramen": [("Quemador de piso para caldos + marmita 60 L", 1, 2_800_000),
-              ("Ollas de acero inoxidable 60 L", 3, 650_000)],
-    "Tempura": [("Freidora industrial a gas 20 L, 2 canastas (Exhibir Equipos)", 1, 5_089_000)],
+    "Rollos de sushi": [("Vitrina refrigerada curva (exhibición del pescado en la barra)", 1, 5_136_000),
+                        ("Arrocera industrial a gas 10 L (cocción del arroz del shari)", 2, 2_052_750),
+                        ("Cuchillo yanagiba 270 mm (corte del pescado)", 2, 441_200),
+                        ("Cuchillo sashimi 240 mm (corte de los rollos)", 2, 150_000)],
+    "Ramen": [("Quemador de piso con marmita de 60 L (cocción del caldo)", 1, 2_800_000),
+              ("Ollas de acero inoxidable de 60 L (caldo y fideo)", 3, 650_000)],
+    "Tempura": [("Freidora industrial a gas de 20 L y 2 canastas (fritura de la tempura)", 1, 5_089_000)],
 }
 VIDA_UTIL_ANIOS = 10  # maquinaria y equipo / muebles (Decreto 1625/2016 art. 1.2.1.18.4 – tasa 10 %)
 
 # Costos o gastos de servicio asignados a cada línea (mensual, año 2027) – ESTIMACIÓN del equipo
 SERVICIOS_PLATO = {
-    "Rollos de sushi": [("Gas natural (arroceras)", 1, 180_000), ("Energía de la vitrina refrigerada", 1, 220_000),
-                        ("Palillos, servilletas y desechables de barra", 1, 260_000)],
-    "Ramen": [("Gas natural (caldo 10–12 h diarias)", 1, 520_000), ("Agua para caldos y lavado", 1, 90_000),
-              ("Servilletas y cucharas de servicio", 1, 120_000)],
-    "Tempura": [("Gas natural (freidora)", 1, 260_000), ("Disposición de aceite usado (gestor autorizado)", 1, 60_000),
-                ("Papel absorbente y servilletas", 1, 100_000)],
+    "Rollos de sushi": [("Gas natural (cocción del arroz)", 1, 180_000), ("Energía eléctrica (vitrina refrigerada de la barra)", 1, 220_000),
+                        ("Palillos, servilletas y desechables (servicio en barra y mesa)", 1, 260_000)],
+    "Ramen": [("Gas natural (caldo de 10 a 12 horas diarias)", 1, 520_000), ("Agua (caldo y lavado)", 1, 90_000),
+              ("Servilletas y cucharas (servicio del ramen)", 1, 120_000)],
+    "Tempura": [("Gas natural (freidora de la tempura)", 1, 260_000), ("Disposición de aceite usado (entrega a gestor autorizado)", 1, 60_000),
+                ("Papel absorbente y servilletas (escurrido y servicio de la tempura)", 1, 100_000)],
 }
 
 
@@ -561,24 +561,56 @@ SOFTWARE_ANUAL = [  # (servicio, costo anual) – gasto, no activo. ESTIMACIÓN 
     ("Dominio, página web y correo corporativo (anual)", 900_000),
 ]
 
-NOMINA = [  # (cargo, cantidad, salario base mensual, fuente)
-    ("Chef ejecutivo / sushiman principal", 1, 1_947_429, "Indeed Colombia: salario promedio de chef, act. 02-oct-2026"),
-    ("Sushiman auxiliar (barra)", 1, 1_750_905, "SMMLV 2026 (el promedio de Indeed para cocinero, $1.341.350, es inferior al mínimo legal)"),
-    ("Cocinero de línea caliente (ramen y tempura)", 2, 1_750_905, "SMMLV 2026 (Indeed cocinero/a: $1.341.350 < mínimo legal)"),
-    ("Auxiliar de cocina y steward", 2, 1_750_905, "SMMLV 2026"),
-    ("Meseros", 4, 1_750_905, "SMMLV 2026 (Indeed mesero/a: $1.524.922 < mínimo legal)"),
-    ("Anfitrión(a) y cajero(a)", 1, 1_750_905, "SMMLV 2026"),
-    ("Administrador(a)", 1, 3_501_810, "Estimación: 2 SMMLV (sin dato público verificable para Cartagena)"),
+NOMINA = [  # (cargo, cantidad, salario base mensual, fuente, personas en turno A, personas en turno B)
+    ("Chef ejecutivo / sushiman principal", 1, 1_947_429, "Indeed Colombia: salario promedio de chef, act. 02-oct-2026", 0, 1),
+    ("Sushiman auxiliar (barra)", 1, 1_750_905, "SMMLV 2026 (el promedio de Indeed para cocinero, $1.341.350, es inferior al mínimo legal)", 1, 0),
+    ("Cocinero de línea caliente (ramen y tempura)", 2, 1_750_905, "SMMLV 2026 (Indeed cocinero/a: $1.341.350 < mínimo legal)", 1, 1),
+    ("Auxiliar de cocina y steward", 2, 1_750_905, "SMMLV 2026", 1, 1),
+    ("Meseros", 4, 1_750_905, "SMMLV 2026 (Indeed mesero/a: $1.524.922 < mínimo legal)", 2, 2),
+    ("Anfitrión(a) y cajero(a)", 1, 1_750_905, "SMMLV 2026", 0, 1),
+    ("Administrador(a)", 1, 3_501_810, "Estimación: 2 SMMLV (sin dato público verificable para Cartagena)", 0, 0),
 ]
-FACTOR_PRESTACIONAL = 1.38  # Aleluya (2026): ≈ 38 % con exoneración de salud, SENA e ICBF (art. 114-1 E.T., personas jurídicas)
+# Turnos (martes a domingo; jornada de 42 h semanales desde el 15-jul-2026, Ley 2101 de 2021):
+TURNOS = {"A": ("Turno A (apertura)", "10:00 a. m. - 5:00 p. m."), "B": ("Turno B (cierre)", "4:00 p. m. - 11:00 p. m.")}
+HORAS_DIA = 7                       # 42 h ÷ 6 días
+HORAS_MES_SALARIO = 210             # 7 h × 30 días: divisor para el valor de la hora ordinaria (cálculo del equipo)
+DIAS_MES = 26                       # 6 días × 52 semanas ÷ 12
+DOMINGOS_MES = 52 / 12
+HORAS_NOCTURNAS_TURNO_B = 4         # 7:00 p. m. - 11:00 p. m. (jornada nocturna desde las 7:00 p. m., Ley 2466 de 2025)
+RECARGO_NOCTURNO = 0.35             # Código Sustantivo del Trabajo, art. 168
+RECARGO_DOMINICAL = 1.00            # Ley 2466 de 2025: 90 % desde jul-2026 y 100 % desde jul-2027
+
+# Aportes a seguridad social y parafiscales (% del salario devengado)
+APORTES_EMPRESA = [  # (concepto, tasa, base legal)
+    ("Salud (EPS)", 0.0, "Exonerada: art. 114-1 del Estatuto Tributario (sociedades, trabajadores con menos de 10 SMMLV); sin exoneración sería 8,5 %"),
+    ("Pensión", 0.12, "Ley 100 de 1993, art. 20 (cotización total 16 %: 12 % empleador)"),
+    ("Riesgos laborales (ARL) clase I", 0.00522, "Decreto 1772 de 1994 y Decreto 768 de 2022: tarifa inicial clase I (restaurantes)"),
+    ("Caja de compensación familiar", 0.04, "Ley 21 de 1982"),
+    ("SENA e ICBF", 0.0, "Exonerados: art. 114-1 del Estatuto Tributario (sin exoneración 2 % y 3 %)"),
+]
+APORTES_TRABAJADOR = [
+    ("Salud (EPS)", 0.04, "Ley 1122 de 2007 (cotización total 12,5 %: 4 % trabajador)"),
+    ("Pensión", 0.04, "Ley 100 de 1993, art. 20 (4 % trabajador)"),
+]
+PRESTACIONES = [  # (concepto, tasa, ¿incluye auxilio de transporte en la base?)
+    ("Cesantías", 1 / 12, True),
+    ("Intereses sobre cesantías", 0.12 / 12, True),
+    ("Prima de servicios", 1 / 12, True),
+    ("Vacaciones", 15 / 360, False),
+]
+PROPINA_SUGERIDA = 0.10             # Ley 1935 de 2018: máximo 10 % del valor del servicio
+PROPINA_ACEPTACION = 0.70           # supuesto del equipo: proporción de cuentas que acepta la propina sugerida
 
 TARIFA_ENERGIA_KWH = 1_033.32 * 1.20   # Afinia sep-2026 ($1.033,32/kWh, El Universal) + 20 % contribución de usuarios comerciales (Ley 142 de 1994)
 CONSUMO_KWH_MES = 2_600                # ESTIMACIÓN del equipo según potencia de equipos de refrigeración, aire acondicionado e iluminación
-ARRIENDO_M2_MANGA = 75_295             # Fincaraíz, mediana de 20 locales en arriendo en Manga, consulta 24-oct-2026
-AREA_LOCAL_M2 = 200
+# Arriendo: mediana $/m² al mes en Fincaraíz (consulta 24-oct-2026), canon sin administración
+ARRIENDO_M2 = {"Centro Histórico": 110_000, "Manga": 75_295, "Bocagrande": 130_000, "Getsemaní": 83_333}
+ZONA_ELEGIDA = "Centro Histórico"      # resultado de la matriz de microlocalización (sección 8)
+ARRIENDO_M2_LOCAL = ARRIENDO_M2[ZONA_ELEGIDA]
+AREA_LOCAL_M2 = 200                    # área de referencia para estimar el arriendo (supuesto del equipo)
 
 OPEX_MENSUAL = [  # (concepto, valor mensual)
-    ("Arriendo del local (200 m² × $75.295/m², mediana Manga)", AREA_LOCAL_M2 * ARRIENDO_M2_MANGA),
+    ("Arriendo del local (200 m² × $110.000/m², mediana del Centro Histórico)", AREA_LOCAL_M2 * ARRIENDO_M2_LOCAL),
     ("Energía eléctrica (Afinia: 2.600 kWh × $1.240/kWh)", round(CONSUMO_KWH_MES * TARIFA_ENERGIA_KWH, -3)),
     ("Agua y alcantarillado (Aguas de Cartagena)", 650_000),
     ("Gas natural (Surtigas)", 1_100_000),
@@ -588,7 +620,7 @@ OPEX_MENSUAL = [  # (concepto, valor mensual)
     ("Fumigación y control de plagas (estimación)", 200_000),
     ("Mantenimiento de equipos", 600_000),
     ("Seguros (todo riesgo y responsabilidad civil)", 550_000),
-    ("Derechos de autor por música (Sayco–Acinpro / OSA)", 120_000),
+    ("Derechos de autor por música (Sayco-Acinpro / OSA)", 120_000),
 ]
 
 
@@ -599,11 +631,55 @@ def tabla_capex(lista) -> pd.DataFrame:
     return df
 
 
+def nomina_detalle() -> pd.DataFrame:
+    """Nómina por cargo (valores por persona y totales) con recargos, aportes y prestaciones."""
+    smmlv, aux_t = SUP["smmlv_2026"], SUP["aux_transporte_2026"]
+    filas = []
+    for cargo, cant, sal, fuente, n_a, n_b in NOMINA:
+        hora = sal / HORAS_MES_SALARIO
+        # recargos por persona promedio del cargo (los del turno B suman horas nocturnas; el administrador no trabaja domingos)
+        dominical = 0 if cargo.startswith("Administrador") else hora * HORAS_DIA * DOMINGOS_MES * RECARGO_DOMINICAL
+        nocturno = hora * HORAS_NOCTURNAS_TURNO_B * DIAS_MES * RECARGO_NOCTURNO * (n_b / cant)
+        devengado = sal + dominical + nocturno
+        aux = aux_t if sal <= 2 * smmlv else 0
+        emp = {c: devengado * t for c, t, _ in APORTES_EMPRESA}
+        trab = {c: devengado * t for c, t, _ in APORTES_TRABAJADOR}
+        prest = {c: (devengado + (aux if inc else 0)) * t for c, t, inc in PRESTACIONES}
+        costo = devengado + aux + sum(emp.values()) + sum(prest.values())
+        filas.append({"Cargo": cargo, "Cantidad": cant, "Salario base": sal, "Fuente": fuente,
+                      "Turno A": n_a, "Turno B": n_b,
+                      "Recargo dominical": dominical, "Recargo nocturno": nocturno, "Devengado": devengado,
+                      "Auxilio de transporte": aux,
+                      **{f"Empresa · {c}": v for c, v in emp.items()},
+                      **{f"Trabajador · {c}": v for c, v in trab.items()},
+                      **{f"Prestación · {c}": v for c, v in prest.items()},
+                      "Aportes empresa": sum(emp.values()), "Aportes trabajador": sum(trab.values()),
+                      "Prestaciones": sum(prest.values()),
+                      "Neto trabajador": devengado + aux - sum(trab.values()),
+                      "Costo por persona": costo, "Costo total mensual": costo * cant})
+    return pd.DataFrame(filas)
+
+
 def nomina_mensual() -> pd.DataFrame:
-    df = pd.DataFrame(NOMINA, columns=["Cargo", "Cantidad", "Salario base", "Fuente"])
-    aux = df["Salario base"].apply(lambda s: SUP["aux_transporte_2026"] if s <= 2 * SUP["smmlv_2026"] else 0)
-    df["Costo total mensual"] = df["Cantidad"] * (df["Salario base"] * FACTOR_PRESTACIONAL + aux)
-    return df
+    return nomina_detalle()
+
+
+def propinas_turno(p: dict, anio: int = 2027) -> pd.DataFrame:
+    """Bote común de propinas por turno (ilustrativo): ventas del turno × aceptación × 10 %, en partes iguales."""
+    cap = capacidad().set_index("Año").loc[anio]
+    rot = CAP["rot_almuerzo"] + CAP["rot_tarde"] + CAP["rot_noche"]
+    precio_pond = sum(PRECIO_VENTA[pl] * p["mix"][pl] for pl in PLATOS_TOP3)
+    ventas_platos_dia = cap["Platos/día"] * precio_pond
+    partes = {"A": (CAP["rot_almuerzo"] + CAP["rot_tarde"]) / rot, "B": CAP["rot_noche"] / rot}
+    filas = []
+    for t, frac in partes.items():
+        personas = sum(r[4] if t == "A" else r[5] for r in NOMINA)
+        bote = ventas_platos_dia * frac * PROPINA_ACEPTACION * PROPINA_SUGERIDA
+        filas.append({"Turno": TURNOS[t][0], "Horario": TURNOS[t][1], "Participación en ventas": frac,
+                      "Ventas de platos del turno (día)": ventas_platos_dia * frac, "Bote diario": bote,
+                      "Personas en el turno": personas, "Propina por persona al día": bote / personas,
+                      "Propina por persona al mes": bote / personas * DIAS_MES})
+    return pd.DataFrame(filas)
 
 
 def resumen_costos(p: dict) -> dict:
@@ -634,7 +710,6 @@ def resumen_costos(p: dict) -> dict:
 # ---------------------------------------------------------------------------
 # Arriendo: mediana $/m² en Fincaraíz (consulta 24-oct-2026). Votos: encuesta. Calificaciones cuantitativas
 # normalizadas min-max a escala 1-10; las cualitativas son juicio del equipo (se indica en la tabla).
-ARRIENDO_M2 = {"Centro Histórico": 110_000, "Manga": 75_295, "Bocagrande": 130_000, "Getsemaní": 83_333}
 VOTOS_ZONA = {"Centro Histórico": 33, "Manga": 17, "Bocagrande": 10, "Getsemaní": 8}
 
 
@@ -659,7 +734,7 @@ FACTORES_LOC = [  # (factor, peso, {zona: calificación 1-10}, justificación)
      {"Centro Histórico": 7, "Manga": 9, "Bocagrande": 6, "Getsemaní": 8},
      "Cualitativa (equipo): menor tiempo de traslado del pescado fresco"),
     ("Accesibilidad y parqueadero", 0.10,
-     {"Centro Histórico": 4, "Manga": 8, "Bocagrande": 7, "Getsemaní": 5},
+     {"Centro Histórico": 4, "Manga": 6, "Bocagrande": 7, "Getsemaní": 5},
      "Cualitativa (equipo): vías, parqueo y acceso para proveedores"),
     ("Saturación de la competencia (menor = mejor)", 0.10,
      {"Centro Histórico": 4, "Manga": 6, "Bocagrande": 4, "Getsemaní": 6},
@@ -719,7 +794,7 @@ FUENTES_GENERALES = [  # (dato, valor, estado, fuente con URL)
     ("Crecimiento de establecimientos de restaurantes 2024", "2 %", "Verificado", "ACODRES vía Portafolio (23-feb-2025)"),
     ("Crecimiento del gasto: total hogares / comidas fuera del hogar (dic-2024)", "2,02 % / 3,6 %", "Verificado", "Raddar vía Portafolio: https://www.portafolio.co/economia/finanzas/en-que-gastaron-mas-los-hogares-colombianos-en-el-2024-622923"),
     ("Crecimiento Sushi Master 2024 → 2025 (piezas)", "438.898 → 480.397 (+9,5 %)", "Verificado", "Valora Analitik (04-dic-2025): https://www.valoraanalitik.com/?p=532819"),
-    ("Precios de rollos (Masaki Sushi Wok)", "$40.000-$57.000 (prom. $49.550)", "Verificado", "Rappi: https://www.rappi.com.co/restaurantes/900039514-masaki-sushi-wok"),
+    ("Precios de rollos en 5 restaurantes (Masaki, Nami, Koi Koi, Cocina Nikkei, My Sushi Delivery)", "$27.900-$73.700 (prom. $49.684)", "Verificado", "Rappi (24-oct-2026): https://www.rappi.com.co/restaurantes"),
     ("Precios de ramen (Dame Ramen)", "$35.000-$69.000 (prom. $45.667)", "Verificado", "https://dameramen.com/menu/"),
     ("Tempura de vegetales (Masaki)", "$25.000", "Verificado", "Rappi (ídem)"),
     ("Food cost de restaurantes rentables", "28 %-35 %", "Verificado", "Gordon Food Service (Rivers, s.f.): https://gfs.com/es-us/?p=5384"),
@@ -727,10 +802,13 @@ FUENTES_GENERALES = [  # (dato, valor, estado, fuente con URL)
     ("Arriendo de locales ($/m² mediana): Manga / Centro / Bocagrande / Getsemaní", "$75.295 / $110.000 / $130.000 / $83.333", "Verificado", "Fincaraíz (24-oct-2026): https://www.fincaraiz.com.co/arriendo/locales/manga/cartagena"),
     ("Tarifa de energía Afinia", "$1.033,32/kWh (+20 % contribución comercial)", "Verificado", "El Universal (11-sep-2026); Ley 142 de 1994"),
     ("Consumo de energía del local", "2.600 kWh/mes", "Estimación", "Cálculo del equipo según equipos instalados"),
-    ("Factor prestacional", "1,38", "Verificado", "Aleluya (2026): https://aleluya.com/blog/nomina/costo-de-un-empleado-en-colombia-2026/"),
+    ("Aportes: pensión 12 % / 4 %, salud 0 % (exonerada) / 4 %, ARL clase I 0,522 %, caja 4 %", "Empresa / trabajador", "Verificado", "Ley 100 de 1993; Ley 1122 de 2007; Decreto 1772 de 1994; Ley 21 de 1982; E.T. art. 114-1"),
+    ("Recargo dominical 100 % (jul-2027) y nocturno 35 % desde las 7:00 p. m.; jornada de 42 h", "—", "Verificado", "Ley 2466 de 2025; Ley 2101 de 2021; Portafolio (01-jul-2026)"),
+    ("Aceptación de la propina sugerida (10 %)", "70 % de las cuentas", "Estimación", "Supuesto del equipo; tope del 10 % según Ley 1935 de 2018"),
+    ("Clase de riesgo ARL de restaurantes", "Clase I", "Estimación", "Referencia de Decreto 768 de 2022; la ARL confirma la clase al afiliar"),
     ("Salario de chef (promedio Colombia)", "$1.947.429", "Verificado", "Indeed Colombia (02-oct-2026)"),
     ("Salario del administrador", "2 SMMLV", "Estimación", "Sin dato público verificable para Cartagena"),
-    ("Capacidad: puestos, rotación, utilización, platos por comensal", "56 / 3,5 / 50-80 % / 1,2", "Estimación", "Parámetros de diseño del equipo"),
+    ("Capacidad: puestos, rotación, utilización, platos por comensal", "56 / 3,5 / 35-65 % / 1,2", "Estimación", "Parámetros de diseño del equipo"),
     ("Calificaciones cualitativas de la microlocalización", "1-10", "Estimación", "Juicio del equipo (flujo turístico, proveedores, acceso, competencia, normativa)"),
     ("Precios de venta de Kazegami", "$40.000 / $38.000 / $38.000", "Decisión", "Método mixto: costo + food cost 28-35 % + precio de la competencia + disposición de pago"),
 ]
@@ -780,7 +858,7 @@ def escribir_fuentes(ruta: str) -> None:
         "",
         "## 5. Nómina",
         "",
-        tabla(["Cargo", "Salario base", "Fuente"], [(c, cop(sv), f) for c, _, sv, f in NOMINA]),
+        tabla(["Cargo", "Salario base", "Fuente"], [(c, cop(sv), f) for c, _, sv, f, *_ in NOMINA]),
         "",
         "## 6. Qué falta para que todo sea dato real (trabajo de campo)",
         "",

@@ -9,4 +9,5 @@
 6. COP de Cartagena (oct. 2026), formato $1.234.567 y 12,5 %. Español formal. Sin copiar el ejemplo de otro grupo.
 7. Markdown: "Table: Tabla N. Título" antes de cada tabla; "![Figura N. Título](ruta){width=15.5cm}" para figuras; "*Fuente: ...*" debajo de ambas. Sin HTML ni LaTeX.
 8. Si cambias un número: modelo_kazegami.py → python scripts/analizar_encuesta.py → actualizar los .md → python scripts/compilar_word.py (debe decir TODO OK).
+10. Cada tabla lleva párrafo introductorio y párrafo de cierre. Nada de rayas (—) como paréntesis (en tablas, guion -). Conclusiones en párrafos. No mencionar la clase, carpetas ni archivos del repositorio en los documentos.
 9. No tocar las 5 carpetas de insumos originales ni entregables_word/ a mano.

@@ -16,7 +16,7 @@
 
 ## 2. El proyecto
 
-**KAZEGAMI RESTAURANTE** — *"El espíritu de la brisa marina"* (kaze = viento/brisa, kami = espíritu). Restaurante de cocina japonesa en Cartagena de Indias con **técnica 100 % japonesa** e **insumos locales** de la pesca artesanal del Caribe y de los agricultores de Bolívar. Experiencia **100 % en el local** (sin domicilios). Ubicación elegida en el Estudio Técnico: **barrio Manga**.
+**KAZEGAMI RESTAURANTE** — *"El espíritu de la brisa marina"* (kaze = viento/brisa, kami = espíritu). Restaurante de cocina japonesa en Cartagena de Indias con **técnica 100 % japonesa** e **insumos locales** de la pesca artesanal del Caribe y de los agricultores de Bolívar. Experiencia **100 % en el local** (sin domicilios). Ubicación elegida en el Estudio Técnico: **Centro Histórico** (sector El Centro, San Diego o La Matuna).
 
 ### 2.1 Modelo Canvas (resumen)
 
@@ -75,14 +75,17 @@ Detalle completo, tablas por pregunta y cruces: `datos/RESUMEN_ENCUESTA.md`.
 | Demanda insatisfecha base 2027 → 2031 | 333.187 → 425.267 platos/año | — |
 | Puestos del local | 56 (12 mesas × 4 + 8 en barra) | Diseño |
 | Capacidad diseñada / instalada | 73.382 / 58.706 platos/año | Diseño |
-| Platos Kazegami 2027 → 2031 | 29.353 → 46.965 (8,8 % → 11,0 % de la DI) | — |
+| Utilización de la capacidad instalada | 35 % (2027) → 65 % (2031), +7,5 puntos/año | Supuesto del equipo |
+| Platos Kazegami 2027 → 2031 | 20.547 → 38.159 (6,2 % → 9,0 % de la DI) | — |
 | Costo MP por porción: sushi (rollo de 10 piezas ≈ 320 g) / ramen / tempura | $11.087 / $12.120 / $11.953 | Precios SIPSA-DANE y proveedores (verificados) |
-| Costo unitario total (formato Punto 6) | $11.768 / $13.189 / $12.687 | Food cost 29,9 % / 34,4 % / 34,0 % |
+| Costo unitario total (tablas de insumos y costos) | $12.060 / $13.648 / $13.002 | Food cost 29,9 % / 34,4 % / 34,0 % |
 | Precios de venta | $40.000 / $38.000 / $38.000 | Promedio real de mercado (Rappi y dameramen.com, 24-oct-2026): rollos $49.684 (5 restaurantes), ramen $52.942 (4), tempura de vegetales $28.500 (2) |
-| Inversión técnica inicial | $396.901.294 | Equipos mayormente verificados; obra y mobiliario estimados |
-| Arriendo (Manga, mediana Fincaraíz) | $75.295/m² → $15.059.000/mes | Verificado |
-| Microlocalización | Manga 6,91 · Centro Histórico 6,76 · Getsemaní 5,59 · Bocagrande 4,38 | Votos y arriendo cuantitativos; resto cualitativo |
-
+| Inversión técnica inicial | $388.378.933 | Equipos mayormente verificados; obra y mobiliario estimados |
+| Arriendo (Centro Histórico, mediana Fincaraíz; local de referencia de 200 m²) | $110.000/m² → $22.000.000/mes | Verificado |
+| Microlocalización | **Centro Histórico 6,76** · Manga 6,71 (accesibilidad y parqueadero = 6) · Getsemaní 5,59 · Bocagrande 4,38. Decisión justificada por la importancia de la ubicación | Votos y arriendo cuantitativos; resto cualitativo |
+| Personal | 12 personas en 2 turnos (A 10 a. m.-5 p. m.; B 4-11 p. m.); costo con recargos, aportes y prestaciones $41.736.049/mes | Ley 2466 de 2025, Ley 100 de 1993, E.T. art. 114-1 |
+| Aportes | Empresa: pensión 12 %, ARL clase I 0,522 %, caja 4 %, salud/SENA/ICBF exonerados · Trabajador: salud 4 %, pensión 4 % | Verificado |
+| Propinas | Sugerida 10 % (Ley 1935 de 2018); bote común por turno repartido en partes iguales; no es salario ni costo | Aceptación 70 %: supuesto |
 | Horario | Martes a domingo, continuo de 12:00 m. a 10:00 p. m. (rotaciones 1,5 almuerzo + 0,5 tarde + 1,5 noche) | Diseño |
 | Servicios públicos | Afinia (energía), Aguas de Cartagena (agua), Surtigas (gas natural), Pacaribe (aseo) | Cartagena Cómo Vamos 2023 |
 | Compras a proveedores | Pescado y vegetales 2 veces/semana; carnes y secos nacionales semanal; importados y desechables mensual | WISK (2022): 4-6 pedidos de alimentos al mes |

@@ -1,12 +1,12 @@
 # 6. Costos de insumos, equipos y tecnología
 
-## 6.1 Modelo de tabla de insumos y costos (Punto 6)
+## 6.1 Metodología de costeo de los platos
 
-Las tablas de esta sección replican el formato trabajado en clase (carpeta *Punto6EstudioTecnicoImg*). Ese modelo tiene siete columnas y una lógica de cálculo que se aplica igual a cada plato de Kazegami:
+Para cada plato se presentan dos tablas. La primera es la **receta estándar por porción**, con la cantidad, el precio y la fuente de cada ingrediente. La segunda calcula el **costo del mes** de la línea de producción: suma la materia prima, los servicios que consume la línea y la depreciación de los equipos que usa, y divide el total entre las unidades vendidas en el mes para obtener el **costo unitario**. Los equipos no entran al costo por su valor de compra, sino por su depreciación mensual: valor ÷ (vida útil × 12). La siguiente tabla explica el contenido de cada columna.
 
-Table: Tabla 28. Estructura del formato del Punto 6 aplicada a Kazegami
+Table: Tabla 34. Columnas de las tablas de insumos y costos
 
-| Columna del modelo | Contenido en Kazegami |
+| Columna | Contenido |
 |:---------------------------------|:---------------------------------------------------------------------------|
 | Insumos | Cada ingrediente de la receta estándar, más los activos de la línea y los servicios que consume |
 | Cantidad por mes | Cantidad por porción × porciones vendidas en el mes (capacidad utilizada 2027) |
@@ -17,209 +17,224 @@ Table: Tabla 28. Estructura del formato del Punto 6 aplicada a Kazegami
 | Total final | Valor mensual que entra al costo. Los activos no entran por su valor sino por su **depreciación** |
 
 
-Table: Tabla 29. Ejemplo del modelo visto en clase y su equivalente en Kazegami
-
-| Paso | Ejemplo del tablero | Kazegami (Rollos de sushi) |
-|:------------------------|:------------------------------------------|:------------------------------------------|
-| Depreciación de activos | $10.000.000 ÷ (2 × 12) ≈ $417.000/mes | $10.423.900 ÷ (10 × 12) = $86.866/mes |
-| Total final mensual | Suma de costos, gastos y depreciación = $6.877.000 | $12.911.146 |
-| Unidades del mes | 400 unidades | 1.097 rollos |
-| Costo unitario | $6.877.000 ÷ 400 = $17.192,5 | $12.911.146 ÷ 1.097 = $11.768 |
-
-*Fuente: Punto6EstudioTecnicoImg (tablero de clase) y cálculos del equipo.*
-
-
 La vida útil de 10 años corresponde a la tasa de depreciación del 10 % anual para maquinaria, equipo y muebles (Decreto 1625 de 2016).
 
 ## 6.2 Tabla de insumos y costos para Rollos de sushi
 
-El rollo de sushi se elabora con 16 insumos. La primera tabla presenta la receta estándar por porción, con la cantidad, el precio y la fuente de cada ingrediente; la segunda aplica el formato Punto 6 para llegar al costo unitario del mes.
+El rollo de sushi se elabora con 16 insumos. La primera tabla presenta la receta estándar por porción, con la cantidad, el precio y la fuente de cada ingrediente; la segunda calcula el costo total del mes y el costo unitario de cada rollo.
 
-Table: Tabla 30. Receta estándar por porción: Rollos de sushi
+Table: Tabla 35. Receta estándar por porción: Rollos de sushi
 
 | Ingrediente | Cantidad por porción | Precio por unidad de compra | Costo por porción | Fuente del precio (verificado) |
 |:--------------------------------|------------:|---------------:|------------:|:-----------------------------------|
-| Arroz japonés para sushi (bulto Botan 50 lb) | 150 g | $16.314/kg | $2.447 | Global Gourmet Market Colombia, consulta 24-oct-2026: $370.000 / 50 lb |
-| Vinagre de arroz (Kenko 750 ml) | 19 ml | $24.000/L | $456 | Global Gourmet Market Colombia, consulta 24-oct-2026: $18.000 / 750 ml |
+| Arroz japonés de grano corto (base del shari del rollo) | 150 g | $16.314/kg | $2.447 | Global Gourmet Market Colombia, consulta 24-oct-2026: $370.000 / 50 lb |
+| Vinagre de arroz (sazón del shari) | 19 ml | $24.000/L | $456 | Global Gourmet Market Colombia, consulta 24-oct-2026: $18.000 / 750 ml |
 | Azúcar refinada (sazón del shari) | 6 g | $3.820/kg | $23 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | Sal (sazón del shari) | 2 g | $1.100/kg | $2 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Alga nori (paquete de 100 hojas) | 1,0 und | $980/und | $980 | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
-| Pargo rojo entero fresco (pesca artesanal; 56 g de filete, rinde 46 %) | 122 g | $21.000/kg | $2.557 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Langostino 16-20 | 31 g | $62.445/kg | $1.936 | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
-| Aguacate papelillo | 38 g | $11.083/kg | $421 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Pepino cohombro | 25 g | $2.367/kg | $59 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Mango de azúcar (toque caribeño) | 19 g | $2.400/kg | $46 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Queso crema (Alpina 380 g) | 25 g | $34.211/kg | $855 | Mercasur, consulta 24-oct-2026: $13.000 / 380 g |
-| Ajonjolí descortezado | 4 g | $48.000/kg | $192 | Global Gourmet Market Colombia, consulta 24-oct-2026: $12.000 / 250 g |
-| Salsa de soya (Sakura 20 L) | 15 ml | $14.700/L | $220 | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
-| Wasabi en polvo (Waner 1 kg) | 2 g | $115.000/kg | $230 | Global Gourmet Market Colombia, consulta 24-oct-2026: $115.000 / kg |
-| Jengibre encurtido – gari (340 g) | 10 g | $44.118/kg | $441 | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.000 / 340 g |
-| Mayonesa (base de la salsa spicy de la casa) | 12 g | $18.490/kg | $222 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Alga nori (envoltura del rollo) | 1,0 und | $980/und | $980 | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
+| Pargo rojo entero fresco (relleno de pescado del rollo; rinde 46 % en filete) | 122 g | $21.000/kg | $2.557 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Langostino 16-20 (relleno del rollo) | 31 g | $62.445/kg | $1.936 | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Aguacate papelillo (relleno del rollo) | 38 g | $11.083/kg | $421 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Pepino cohombro (relleno del rollo) | 25 g | $2.367/kg | $59 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Mango de azúcar (relleno caribeño del rollo) | 19 g | $2.400/kg | $46 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Queso crema (relleno del rollo) | 25 g | $34.211/kg | $855 | Mercasur, consulta 24-oct-2026: $13.000 / 380 g |
+| Ajonjolí descortezado (cobertura del rollo) | 4 g | $48.000/kg | $192 | Global Gourmet Market Colombia, consulta 24-oct-2026: $12.000 / 250 g |
+| Salsa de soya (acompañante del rollo) | 15 ml | $14.700/L | $220 | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
+| Wasabi en polvo (acompañante del rollo) | 2 g | $115.000/kg | $230 | Global Gourmet Market Colombia, consulta 24-oct-2026: $115.000 / kg |
+| Jengibre encurtido o gari (acompañante del rollo) | 10 g | $44.118/kg | $441 | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.000 / 340 g |
+| Mayonesa (base de la salsa picante del rollo) | 12 g | $18.490/kg | $222 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | **Costo de materia prima por porción** |  |  | **$11.087** |  |
 
 *Fuente: Precios mayoristas SIPSA-DANE (Cartagena, región Caribe o promedio nacional) y precios de lista de Global Gourmet Market y Mercasur, consultados el 24 de octubre de 2026. Las cantidades por porción son el estándar de diseño del equipo.*
 
 
-Table: Tabla 31. Insumos y costos para Rollos de sushi (formato Punto 6, mes promedio de 2027)
+El pargo, el arroz japonés y el langostino suman el 63 % del costo del rollo; los vegetales, las salsas y los acompañantes representan una parte pequeña.
+
+
+Con la receta y las unidades que se venderán en el mes se construye la tabla de costos de la línea de sushi.
+
+Table: Tabla 36. Insumos y costos mensuales para Rollos de sushi (mes promedio de 2027)
 
 | Insumos | Cantidad por mes | Proveedor (precio · calidad · postventa) | Precio | Total | Identificación del elemento | Total final |
 |:-------------------------|------------:|:-----------------------|----------:|-----------:|:------------|-----------:|
-| Arroz japonés para sushi (bulto Botan 50 lb) | 164,6 kg | Importador de insumos japoneses | $16.314 | $2.684.797 | Costo | $2.684.797 |
-| Vinagre de arroz (Kenko 750 ml) | 20,8 L | Importador de insumos japoneses | $24.000 | $500.295 | Costo | $500.295 |
-| Azúcar refinada (sazón del shari) | 6,6 kg | Mayorista de Bazurto | $3.820 | $25.146 | Costo | $25.146 |
-| Sal (sazón del shari) | 2,2 kg | Mayorista de Bazurto | $1.100 | $2.414 | Costo | $2.414 |
-| Alga nori (paquete de 100 hojas) | 1.097 und | Importador de insumos japoneses | $980 | $1.075.196 | Costo | $1.075.196 |
-| Pargo rojo entero fresco (pesca artesanal; 56 g de filete, rinde 46 %) | 133,6 kg | Pescadores artesanales – Mercado de Bazurto | $21.000 | $2.804.859 | Costo | $2.804.859 |
-| Langostino 16-20 | 34,0 kg | Pescadería mayorista | $62.445 | $2.123.836 | Costo | $2.123.836 |
-| Aguacate papelillo | 41,7 kg | Agricultores de Bolívar (Bazurto) | $11.083 | $462.064 | Costo | $462.064 |
-| Pepino cohombro | 27,4 kg | Agricultores de Bolívar (Bazurto) | $2.367 | $64.923 | Costo | $64.923 |
-| Mango de azúcar (toque caribeño) | 20,8 kg | Agricultores de Bolívar (Bazurto) | $2.400 | $50.030 | Costo | $50.030 |
-| Queso crema (Alpina 380 g) | 27,4 kg | Distribuidor de lácteos | $34.211 | $938.342 | Costo | $938.342 |
-| Ajonjolí descortezado | 4,4 kg | Importador de insumos japoneses | $48.000 | $210.651 | Costo | $210.651 |
-| Salsa de soya (Sakura 20 L) | 16,5 L | Importador de insumos japoneses | $14.700 | $241.919 | Costo | $241.919 |
-| Wasabi en polvo (Waner 1 kg) | 2,2 kg | Importador de insumos japoneses | $115.000 | $252.342 | Costo | $252.342 |
-| Jengibre encurtido – gari (340 g) | 11,0 kg | Importador de insumos japoneses | $44.118 | $484.032 | Costo | $484.032 |
-| Mayonesa (base de la salsa spicy de la casa) | 13,2 kg | Mayorista de Bazurto | $18.490 | $243.433 | Costo | $243.433 |
-| Vitrina refrigerada curva para sushi (Makfrio) | 1 und | Proveedor de equipos de cocina | $5.136.000 | $5.136.000 | Activo | — |
-| Arrocera industrial a gas 10 L (Pallomaro) | 2 und | Proveedor de equipos de cocina | $2.052.750 | $4.105.500 | Activo | — |
-| Cuchillo yanagiba 270 mm Sekiryu | 2 und | Proveedor de equipos de cocina | $441.200 | $882.400 | Activo | — |
-| Cuchillo sashimi 240 mm | 2 und | Proveedor de equipos de cocina | $150.000 | $300.000 | Activo | — |
-| Gas natural (arroceras) | 1 servicio | Empresa de servicios / proveedor local | $180.000 | $180.000 | Costo o gasto | $180.000 |
-| Energía de la vitrina refrigerada | 1 servicio | Empresa de servicios / proveedor local | $220.000 | $220.000 | Costo o gasto | $220.000 |
-| Palillos, servilletas y desechables de barra | 1 servicio | Empresa de servicios / proveedor local | $260.000 | $260.000 | Costo o gasto | $260.000 |
+| Arroz japonés de grano corto (base del shari del rollo) | 115,2 kg | Importador de insumos japoneses | $16.314 | $1.879.358 | Costo | $1.879.358 |
+| Vinagre de arroz (sazón del shari) | 14,6 L | Importador de insumos japoneses | $24.000 | $350.207 | Costo | $350.207 |
+| Azúcar refinada (sazón del shari) | 4,6 kg | Mayorista de Bazurto | $3.820 | $17.602 | Costo | $17.602 |
+| Sal (sazón del shari) | 1,5 kg | Mayorista de Bazurto | $1.100 | $1.690 | Costo | $1.690 |
+| Alga nori (envoltura del rollo) | 768 und | Importador de insumos japoneses | $980 | $752.637 | Costo | $752.637 |
+| Pargo rojo entero fresco (relleno de pescado del rollo; rinde 46 % en filete) | 93,5 kg | Pescadores artesanales - Mercado de Bazurto | $21.000 | $1.963.401 | Costo | $1.963.401 |
+| Langostino 16-20 (relleno del rollo) | 23,8 kg | Pescadería mayorista | $62.445 | $1.486.685 | Costo | $1.486.685 |
+| Aguacate papelillo (relleno del rollo) | 29,2 kg | Agricultores de Bolívar (Bazurto) | $11.083 | $323.445 | Costo | $323.445 |
+| Pepino cohombro (relleno del rollo) | 19,2 kg | Agricultores de Bolívar (Bazurto) | $2.367 | $45.446 | Costo | $45.446 |
+| Mango de azúcar (relleno caribeño del rollo) | 14,6 kg | Agricultores de Bolívar (Bazurto) | $2.400 | $35.021 | Costo | $35.021 |
+| Queso crema (relleno del rollo) | 19,2 kg | Distribuidor de lácteos | $34.211 | $656.840 | Costo | $656.840 |
+| Ajonjolí descortezado (cobertura del rollo) | 3,1 kg | Importador de insumos japoneses | $48.000 | $147.455 | Costo | $147.455 |
+| Salsa de soya (acompañante del rollo) | 11,5 L | Importador de insumos japoneses | $14.700 | $169.343 | Costo | $169.343 |
+| Wasabi en polvo (acompañante del rollo) | 1,5 kg | Importador de insumos japoneses | $115.000 | $176.639 | Costo | $176.639 |
+| Jengibre encurtido o gari (acompañante del rollo) | 7,7 kg | Importador de insumos japoneses | $44.118 | $338.822 | Costo | $338.822 |
+| Mayonesa (base de la salsa picante del rollo) | 9,2 kg | Mayorista de Bazurto | $18.490 | $170.403 | Costo | $170.403 |
+| Vitrina refrigerada curva (exhibición del pescado en la barra) | 1 und | Proveedor de equipos de cocina | $5.136.000 | $5.136.000 | Activo | - |
+| Arrocera industrial a gas 10 L (cocción del arroz del shari) | 2 und | Proveedor de equipos de cocina | $2.052.750 | $4.105.500 | Activo | - |
+| Cuchillo yanagiba 270 mm (corte del pescado) | 2 und | Proveedor de equipos de cocina | $441.200 | $882.400 | Activo | - |
+| Cuchillo sashimi 240 mm (corte de los rollos) | 2 und | Proveedor de equipos de cocina | $150.000 | $300.000 | Activo | - |
+| Gas natural (cocción del arroz) | 1 servicio | Empresa de servicios / proveedor local | $180.000 | $180.000 | Costo o gasto | $180.000 |
+| Energía eléctrica (vitrina refrigerada de la barra) | 1 servicio | Empresa de servicios / proveedor local | $220.000 | $220.000 | Costo o gasto | $220.000 |
+| Palillos, servilletas y desechables (servicio en barra y mesa) | 1 servicio | Empresa de servicios / proveedor local | $260.000 | $260.000 | Costo o gasto | $260.000 |
 | Gasto de depreciación de activos de la línea | 1 mes | $10.423.900 ÷ (10 × 12) | $86.866 | $86.866 | Gasto (depreciación) | $86.866 |
-| **Total final mensual** |  |  |  |  |  | **$12.911.146** |
-| **Unidades producidas al mes (2027)** | **1.097 rollos** |  |  |  |  |  |
-| **Costo unitario = $12.911.146 ÷ 1.097** |  |  |  |  |  | **$11.768** |
+| **Total final mensual** |  |  |  |  |  | **$9.261.862** |
+| **Unidades producidas al mes (2027)** | **768 rollos** |  |  |  |  |  |
+| **Costo unitario = $9.261.862 ÷ 768** |  |  |  |  |  | **$12.060** |
 
 *Fuente: Precios de insumos verificados (ver receta estándar). Los servicios asignados a la línea (gas, energía y desechables) son una estimación del equipo.*
 
 
+El costo unitario del rollo es de $12.060, del cual la materia prima es la mayor parte; la depreciación de los equipos y los servicios aportan poco porque se reparten entre todas las unidades del mes.
+
+
 ## 6.3 Tabla de insumos y costos para Ramen
 
-El ramen combina insumos locales para el caldo y el chashu con insumos importados para el fideo y el tare. Las tablas presentan la receta estándar por porción y el costeo mensual en formato Punto 6.
+El ramen combina insumos locales para el caldo y el chashu con insumos importados para el fideo y el tare. Las tablas presentan la receta estándar por porción y el costo mensual de la línea, del que sale el costo unitario de cada bowl.
 
-Table: Tabla 32. Receta estándar por porción: Ramen
+Table: Tabla 37. Receta estándar por porción: Ramen
 
 | Ingrediente | Cantidad por porción | Precio por unidad de compra | Costo por porción | Fuente del precio (verificado) |
 |:--------------------------------|------------:|---------------:|------------:|:-----------------------------------|
-| Fideo de trigo estilo chuka (Best Choice 400 g) | 120 g | $38.750/kg | $4.650 | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.500 / 400 g |
-| Espinazo de cerdo (caldo) | 150 g | $12.750/kg | $1.912 | SIPSA-DANE, región Caribe (vía Agronegocios), consulta 24-oct-2026 |
-| Rabadillas de pollo (caldo) | 100 g | $6.500/kg | $650 | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
-| Tocino de barriga de cerdo (chashu) | 60 g | $18.170/kg | $1.090 | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
-| Huevo rojo A (ajitama) | 1,0 und | $494/und | $494 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Miso (Hikari 1 kg) | 20 g | $40.000/kg | $800 | Global Gourmet Market Colombia, consulta 24-oct-2026: $40.000 / kg |
-| Salsa de soya (Sakura 20 L) | 20 ml | $14.700/L | $294 | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
-| Mirin (Kikkoman 375 ml) | 10 ml | $114.667/L | $1.147 | Global Gourmet Market Colombia, consulta 24-oct-2026: $43.000 / 375 ml |
-| Alga nori (½ hoja) | 0,5 und | $980/und | $490 | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
-| Cebollín chino | 10 g | $6.333/kg | $63 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Repollo blanco salteado | 30 g | $2.077/kg | $62 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Ajo | 8 g | $5.858/kg | $47 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Aceite de ajonjolí (Kuki 1.650 ml) | 5 ml | $83.939/L | $420 | Global Gourmet Market Colombia, consulta 24-oct-2026: $138.500 / 1.650 ml |
+| Fideo de trigo estilo chuka (fideo del ramen) | 120 g | $38.750/kg | $4.650 | Global Gourmet Market Colombia, consulta 24-oct-2026: $15.500 / 400 g |
+| Espinazo de cerdo (caldo del ramen) | 150 g | $12.750/kg | $1.912 | SIPSA-DANE, región Caribe (vía Agronegocios), consulta 24-oct-2026 |
+| Rabadillas de pollo (caldo del ramen) | 100 g | $6.500/kg | $650 | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Tocino de barriga de cerdo (chashu del ramen) | 60 g | $18.170/kg | $1.090 | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Huevo rojo A (huevo marinado del ramen) | 1,0 und | $494/und | $494 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Miso (tare o base de sabor del ramen) | 20 g | $40.000/kg | $800 | Global Gourmet Market Colombia, consulta 24-oct-2026: $40.000 / kg |
+| Salsa de soya (tare del ramen) | 20 ml | $14.700/L | $294 | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
+| Mirin (tare del ramen) | 10 ml | $114.667/L | $1.147 | Global Gourmet Market Colombia, consulta 24-oct-2026: $43.000 / 375 ml |
+| Alga nori (topping del ramen; ½ hoja) | 0,5 und | $980/und | $490 | Global Gourmet Market Colombia, consulta 24-oct-2026: $98.000 / 100 hojas |
+| Cebollín chino (topping del ramen) | 10 g | $6.333/kg | $63 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Repollo blanco (topping salteado del ramen) | 30 g | $2.077/kg | $62 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Ajo (caldo y aceite aromático del ramen) | 8 g | $5.858/kg | $47 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Aceite de ajonjolí (aceite aromático del ramen) | 5 ml | $83.939/L | $420 | Global Gourmet Market Colombia, consulta 24-oct-2026: $138.500 / 1.650 ml |
 | **Costo de materia prima por porción** |  |  | **$12.120** |  |
 
 *Fuente: Precios mayoristas SIPSA-DANE (Cartagena, región Caribe o promedio nacional) y precios de lista de Global Gourmet Market y Mercasur, consultados el 24 de octubre de 2026. Las cantidades por porción son el estándar de diseño del equipo.*
 
 
-Table: Tabla 33. Insumos y costos para Ramen (formato Punto 6, mes promedio de 2027)
+En el ramen el fideo importado es el insumo más costoso (38 % del costo), seguido por el espinazo de cerdo y el mirin; el caldo, aunque se cocina durante horas, se hace con cortes económicos.
+
+
+La tabla de costos de la línea de ramen agrega a la materia prima el gas de la cocción del caldo y la depreciación del quemador y las ollas.
+
+Table: Tabla 38. Insumos y costos mensuales para Ramen (mes promedio de 2027)
 
 | Insumos | Cantidad por mes | Proveedor (precio · calidad · postventa) | Precio | Total | Identificación del elemento | Total final |
 |:-------------------------|------------:|:-----------------------|----------:|-----------:|:------------|-----------:|
-| Fideo de trigo estilo chuka (Best Choice 400 g) | 86,3 kg | Importador de insumos japoneses | $38.750 | $3.345.374 | Costo | $3.345.374 |
-| Espinazo de cerdo (caldo) | 107,9 kg | Expendio de carnes – Bazurto | $12.750 | $1.375.920 | Costo | $1.375.920 |
-| Rabadillas de pollo (caldo) | 71,9 kg | Avícola regional | $6.500 | $467.633 | Costo | $467.633 |
-| Tocino de barriga de cerdo (chashu) | 43,2 kg | Expendio de carnes – Bazurto | $18.170 | $784.328 | Costo | $784.328 |
-| Huevo rojo A (ajitama) | 719 und | Avícola regional | $494 | $355.401 | Costo | $355.401 |
-| Miso (Hikari 1 kg) | 14,4 kg | Importador de insumos japoneses | $40.000 | $575.548 | Costo | $575.548 |
-| Salsa de soya (Sakura 20 L) | 14,4 L | Importador de insumos japoneses | $14.700 | $211.514 | Costo | $211.514 |
-| Mirin (Kikkoman 375 ml) | 7,2 L | Importador de insumos japoneses | $114.667 | $824.952 | Costo | $824.952 |
-| Alga nori (½ hoja) | 360 und | Importador de insumos japoneses | $980 | $352.523 | Costo | $352.523 |
-| Cebollín chino | 7,2 kg | Agricultores de Bolívar (Bazurto) | $6.333 | $45.562 | Costo | $45.562 |
-| Repollo blanco salteado | 21,6 kg | Agricultores de Bolívar (Bazurto) | $2.077 | $44.828 | Costo | $44.828 |
-| Ajo | 5,8 kg | Agricultores de Bolívar (Bazurto) | $5.858 | $33.716 | Costo | $33.716 |
-| Aceite de ajonjolí (Kuki 1.650 ml) | 3,6 L | Importador de insumos japoneses | $83.939 | $301.945 | Costo | $301.945 |
-| Quemador de piso para caldos + marmita 60 L | 1 und | Proveedor de equipos de cocina | $2.800.000 | $2.800.000 | Activo | — |
-| Ollas de acero inoxidable 60 L | 3 und | Proveedor de equipos de cocina | $650.000 | $1.950.000 | Activo | — |
-| Gas natural (caldo 10–12 h diarias) | 1 servicio | Empresa de servicios / proveedor local | $520.000 | $520.000 | Costo o gasto | $520.000 |
-| Agua para caldos y lavado | 1 servicio | Empresa de servicios / proveedor local | $90.000 | $90.000 | Costo o gasto | $90.000 |
-| Servilletas y cucharas de servicio | 1 servicio | Empresa de servicios / proveedor local | $120.000 | $120.000 | Costo o gasto | $120.000 |
+| Fideo de trigo estilo chuka (fideo del ramen) | 60,4 kg | Importador de insumos japoneses | $38.750 | $2.341.762 | Costo | $2.341.762 |
+| Espinazo de cerdo (caldo del ramen) | 75,5 kg | Expendio de carnes - Bazurto | $12.750 | $963.144 | Costo | $963.144 |
+| Rabadillas de pollo (caldo del ramen) | 50,4 kg | Avícola regional | $6.500 | $327.343 | Costo | $327.343 |
+| Tocino de barriga de cerdo (chashu del ramen) | 30,2 kg | Expendio de carnes - Bazurto | $18.170 | $549.030 | Costo | $549.030 |
+| Huevo rojo A (huevo marinado del ramen) | 504 und | Avícola regional | $494 | $248.781 | Costo | $248.781 |
+| Miso (tare o base de sabor del ramen) | 10,1 kg | Importador de insumos japoneses | $40.000 | $402.884 | Costo | $402.884 |
+| Salsa de soya (tare del ramen) | 10,1 L | Importador de insumos japoneses | $14.700 | $148.060 | Costo | $148.060 |
+| Mirin (tare del ramen) | 5,0 L | Importador de insumos japoneses | $114.667 | $577.467 | Costo | $577.467 |
+| Alga nori (topping del ramen; ½ hoja) | 252 und | Importador de insumos japoneses | $980 | $246.766 | Costo | $246.766 |
+| Cebollín chino (topping del ramen) | 5,0 kg | Agricultores de Bolívar (Bazurto) | $6.333 | $31.893 | Costo | $31.893 |
+| Repollo blanco (topping salteado del ramen) | 15,1 kg | Agricultores de Bolívar (Bazurto) | $2.077 | $31.380 | Costo | $31.380 |
+| Ajo (caldo y aceite aromático del ramen) | 4,0 kg | Agricultores de Bolívar (Bazurto) | $5.858 | $23.601 | Costo | $23.601 |
+| Aceite de ajonjolí (aceite aromático del ramen) | 2,5 L | Importador de insumos japoneses | $83.939 | $211.361 | Costo | $211.361 |
+| Quemador de piso con marmita de 60 L (cocción del caldo) | 1 und | Proveedor de equipos de cocina | $2.800.000 | $2.800.000 | Activo | - |
+| Ollas de acero inoxidable de 60 L (caldo y fideo) | 3 und | Proveedor de equipos de cocina | $650.000 | $1.950.000 | Activo | - |
+| Gas natural (caldo de 10 a 12 horas diarias) | 1 servicio | Empresa de servicios / proveedor local | $520.000 | $520.000 | Costo o gasto | $520.000 |
+| Agua (caldo y lavado) | 1 servicio | Empresa de servicios / proveedor local | $90.000 | $90.000 | Costo o gasto | $90.000 |
+| Servilletas y cucharas (servicio del ramen) | 1 servicio | Empresa de servicios / proveedor local | $120.000 | $120.000 | Costo o gasto | $120.000 |
 | Gasto de depreciación de activos de la línea | 1 mes | $4.750.000 ÷ (10 × 12) | $39.583 | $39.583 | Gasto (depreciación) | $39.583 |
-| **Total final mensual** |  |  |  |  |  | **$9.488.828** |
-| **Unidades producidas al mes (2027)** | **719 porciones** |  |  |  |  |  |
-| **Costo unitario = $9.488.828 ÷ 719** |  |  |  |  |  | **$13.189** |
+| **Total final mensual** |  |  |  |  |  | **$6.873.055** |
+| **Unidades producidas al mes (2027)** | **504 porciones** |  |  |  |  |  |
+| **Costo unitario = $6.873.055 ÷ 504** |  |  |  |  |  | **$13.648** |
 
 *Fuente: Precios de insumos verificados (ver receta estándar). Los servicios asignados a la línea (gas, energía y desechables) son una estimación del equipo.*
 
 
+El costo unitario del ramen es de $13.648. Es el más alto de los tres platos porque, además de los insumos importados, el caldo consume gas durante muchas horas cada día.
+
+
 ## 6.4 Tabla de insumos y costos para Tempura
 
-En la tempura el langostino representa la mayor parte del costo, mientras que los vegetales de Bazurto son económicos. Las tablas presentan la receta estándar por porción y el costeo mensual en formato Punto 6.
+En la tempura el langostino representa la mayor parte del costo, mientras que los vegetales de Bazurto son económicos. Las tablas presentan la receta estándar por porción y el costo mensual de la línea, del que sale el costo unitario de cada porción.
 
-Table: Tabla 34. Receta estándar por porción: Tempura
+Table: Tabla 39. Receta estándar por porción: Tempura
 
 | Ingrediente | Cantidad por porción | Precio por unidad de compra | Costo por porción | Fuente del precio (verificado) |
 |:--------------------------------|------------:|---------------:|------------:|:-----------------------------------|
-| Langostino 16-20 | 120 g | $62.445/kg | $7.493 | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
-| Berenjena | 35 g | $1.333/kg | $47 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Ahuyama | 35 g | $1.667/kg | $58 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Cebolla cabezona blanca | 30 g | $2.408/kg | $72 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Harina para tempura (Best Choice 1 kg) | 50 g | $23.000/kg | $1.150 | Global Gourmet Market Colombia, consulta 24-oct-2026: $23.000 / kg |
-| Fécula de maíz | 15 g | $37.153/kg | $557 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Huevo rojo A (½ unidad) | 0,5 und | $494/und | $247 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Aceite vegetal para freír (consumo + reposición) | 60 g | $9.792/kg | $588 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
-| Alga kombu (dashi para tentsuyu) | 2 g | $160.000/kg | $320 | Global Gourmet Market Colombia, consulta 24-oct-2026: $16.000 / 100 g |
-| Salsa de soya (Sakura 20 L) | 10 ml | $14.700/L | $147 | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
-| Mirin (Kikkoman 375 ml) | 10 ml | $114.667/L | $1.147 | Global Gourmet Market Colombia, consulta 24-oct-2026: $43.000 / 375 ml |
-| Rábano rojo rallado (en lugar de daikon) | 20 g | $6.333/kg | $127 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Langostino 16-20 (tempura de langostino) | 120 g | $62.445/kg | $7.493 | SIPSA-DANE, promedio nacional (vía Agronegocios), consulta 24-oct-2026 |
+| Berenjena (tempura de vegetales) | 35 g | $1.333/kg | $47 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Ahuyama (tempura de vegetales) | 35 g | $1.667/kg | $58 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Cebolla cabezona blanca (tempura de vegetales) | 30 g | $2.408/kg | $72 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Harina para tempura (batido) | 50 g | $23.000/kg | $1.150 | Global Gourmet Market Colombia, consulta 24-oct-2026: $23.000 / kg |
+| Fécula de maíz (batido) | 15 g | $37.153/kg | $557 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Huevo rojo A (batido; ½ unidad) | 0,5 und | $494/und | $247 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Aceite vegetal (fritura; consumo y reposición) | 60 g | $9.792/kg | $588 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
+| Alga kombu (dashi de la salsa tentsuyu) | 2 g | $160.000/kg | $320 | Global Gourmet Market Colombia, consulta 24-oct-2026: $16.000 / 100 g |
+| Salsa de soya (salsa tentsuyu) | 10 ml | $14.700/L | $147 | Global Gourmet Market Colombia, consulta 24-oct-2026: $294.000 / 20 L |
+| Mirin (salsa tentsuyu) | 10 ml | $114.667/L | $1.147 | Global Gourmet Market Colombia, consulta 24-oct-2026: $43.000 / 375 ml |
+| Rábano rojo (rallado de acompañamiento, en lugar de daikon) | 20 g | $6.333/kg | $127 | SIPSA-DANE, Cartagena (Bazurto) (vía Agronegocios), consulta 24-oct-2026 |
 | **Costo de materia prima por porción** |  |  | **$11.953** |  |
 
 *Fuente: Precios mayoristas SIPSA-DANE (Cartagena, región Caribe o promedio nacional) y precios de lista de Global Gourmet Market y Mercasur, consultados el 24 de octubre de 2026. Las cantidades por porción son el estándar de diseño del equipo.*
 
 
-Table: Tabla 35. Insumos y costos para Tempura (formato Punto 6, mes promedio de 2027)
+El langostino representa el 63 % del costo de la tempura; los vegetales, el batido y la salsa suman el resto.
+
+
+La tabla de costos de la línea de tempura incluye la materia prima, el gas y el manejo del aceite usado, y la depreciación de la freidora.
+
+Table: Tabla 40. Insumos y costos mensuales para Tempura (mes promedio de 2027)
 
 | Insumos | Cantidad por mes | Proveedor (precio · calidad · postventa) | Precio | Total | Identificación del elemento | Total final |
 |:-------------------------|------------:|:-----------------------|----------:|-----------:|:------------|-----------:|
-| Langostino 16-20 | 75,5 kg | Pescadería mayorista | $62.445 | $4.717.139 | Costo | $4.717.139 |
-| Berenjena | 22,0 kg | Agricultores de Bolívar (Bazurto) | $1.333 | $29.370 | Costo | $29.370 |
-| Ahuyama | 22,0 kg | Agricultores de Bolívar (Bazurto) | $1.667 | $36.729 | Costo | $36.729 |
-| Cebolla cabezona blanca | 18,9 kg | Agricultores de Bolívar (Bazurto) | $2.408 | $45.476 | Costo | $45.476 |
-| Harina para tempura (Best Choice 1 kg) | 31,5 kg | Importador de insumos japoneses | $23.000 | $723.932 | Costo | $723.932 |
-| Fécula de maíz | 9,4 kg | Mayorista de Bazurto | $37.153 | $350.820 | Costo | $350.820 |
-| Huevo rojo A (½ unidad) | 315 und | Avícola regional | $494 | $155.488 | Costo | $155.488 |
-| Aceite vegetal para freír (consumo + reposición) | 37,8 kg | Mayorista de Bazurto | $9.792 | $369.847 | Costo | $369.847 |
-| Alga kombu (dashi para tentsuyu) | 1,3 kg | Importador de insumos japoneses | $160.000 | $201.442 | Costo | $201.442 |
-| Salsa de soya (Sakura 20 L) | 6,3 L | Importador de insumos japoneses | $14.700 | $92.537 | Costo | $92.537 |
-| Mirin (Kikkoman 375 ml) | 6,3 L | Importador de insumos japoneses | $114.667 | $721.833 | Costo | $721.833 |
-| Rábano rojo rallado (en lugar de daikon) | 12,6 kg | Agricultores de Bolívar (Bazurto) | $6.333 | $79.733 | Costo | $79.733 |
-| Freidora industrial a gas 20 L, 2 canastas (Exhibir Equipos) | 1 und | Proveedor de equipos de cocina | $5.089.000 | $5.089.000 | Activo | — |
-| Gas natural (freidora) | 1 servicio | Empresa de servicios / proveedor local | $260.000 | $260.000 | Costo o gasto | $260.000 |
-| Disposición de aceite usado (gestor autorizado) | 1 servicio | Empresa de servicios / proveedor local | $60.000 | $60.000 | Costo o gasto | $60.000 |
-| Papel absorbente y servilletas | 1 servicio | Empresa de servicios / proveedor local | $100.000 | $100.000 | Costo o gasto | $100.000 |
+| Langostino 16-20 (tempura de langostino) | 52,9 kg | Pescadería mayorista | $62.445 | $3.301.998 | Costo | $3.301.998 |
+| Berenjena (tempura de vegetales) | 15,4 kg | Agricultores de Bolívar (Bazurto) | $1.333 | $20.559 | Costo | $20.559 |
+| Ahuyama (tempura de vegetales) | 15,4 kg | Agricultores de Bolívar (Bazurto) | $1.667 | $25.710 | Costo | $25.710 |
+| Cebolla cabezona blanca (tempura de vegetales) | 13,2 kg | Agricultores de Bolívar (Bazurto) | $2.408 | $31.833 | Costo | $31.833 |
+| Harina para tempura (batido) | 22,0 kg | Importador de insumos japoneses | $23.000 | $506.752 | Costo | $506.752 |
+| Fécula de maíz (batido) | 6,6 kg | Mayorista de Bazurto | $37.153 | $245.574 | Costo | $245.574 |
+| Huevo rojo A (batido; ½ unidad) | 220 und | Avícola regional | $494 | $108.842 | Costo | $108.842 |
+| Aceite vegetal (fritura; consumo y reposición) | 26,4 kg | Mayorista de Bazurto | $9.792 | $258.893 | Costo | $258.893 |
+| Alga kombu (dashi de la salsa tentsuyu) | 0,9 kg | Importador de insumos japoneses | $160.000 | $141.009 | Costo | $141.009 |
+| Salsa de soya (salsa tentsuyu) | 4,4 L | Importador de insumos japoneses | $14.700 | $64.776 | Costo | $64.776 |
+| Mirin (salsa tentsuyu) | 4,4 L | Importador de insumos japoneses | $114.667 | $505.283 | Costo | $505.283 |
+| Rábano rojo (rallado de acompañamiento, en lugar de daikon) | 8,8 kg | Agricultores de Bolívar (Bazurto) | $6.333 | $55.813 | Costo | $55.813 |
+| Freidora industrial a gas de 20 L y 2 canastas (fritura de la tempura) | 1 und | Proveedor de equipos de cocina | $5.089.000 | $5.089.000 | Activo | - |
+| Gas natural (freidora de la tempura) | 1 servicio | Empresa de servicios / proveedor local | $260.000 | $260.000 | Costo o gasto | $260.000 |
+| Disposición de aceite usado (entrega a gestor autorizado) | 1 servicio | Empresa de servicios / proveedor local | $60.000 | $60.000 | Costo o gasto | $60.000 |
+| Papel absorbente y servilletas (escurrido y servicio de la tempura) | 1 servicio | Empresa de servicios / proveedor local | $100.000 | $100.000 | Costo o gasto | $100.000 |
 | Gasto de depreciación de activos de la línea | 1 mes | $5.089.000 ÷ (10 × 12) | $42.408 | $42.408 | Gasto (depreciación) | $42.408 |
-| **Total final mensual** |  |  |  |  |  | **$7.986.755** |
-| **Unidades producidas al mes (2027)** | **630 porciones** |  |  |  |  |  |
-| **Costo unitario = $7.986.755 ÷ 630** |  |  |  |  |  | **$12.687** |
+| **Total final mensual** |  |  |  |  |  | **$5.729.451** |
+| **Unidades producidas al mes (2027)** | **441 porciones** |  |  |  |  |  |
+| **Costo unitario = $5.729.451 ÷ 441** |  |  |  |  |  | **$13.002** |
 
 *Fuente: Precios de insumos verificados (ver receta estándar). Los servicios asignados a la línea (gas, energía y desechables) son una estimación del equipo.*
 
 
+El costo unitario de la tempura es de $13.002. Su costo depende sobre todo del precio del langostino, por lo que conviene negociar ese insumo con más de un proveedor.
+
+
 La siguiente tabla reúne los resultados de los tres platos para compararlos: unidades al mes, costo de materia prima, costo unitario, precio de venta, food cost y margen de contribución.
 
-Table: Tabla 36. Resumen de costos unitarios de los 3 platos (2027)
+Table: Tabla 41. Resumen de costos unitarios de los 3 platos (2027)
 
 | Concepto | Rollos de sushi | Ramen | Tempura |
 |:-------------------------------------------|---------------------:|---------------------:|---------------------:|
-| Unidades al mes | 1.097 | 719 | 630 |
+| Unidades al mes | 768 | 504 | 441 |
 | Materia prima por unidad | $11.087 | $12.120 | $11.953 |
-| Total final mensual de la línea | $12.911.146 | $9.488.828 | $7.986.755 |
-| **Costo unitario (total final ÷ unidades)** | **$11.768** | **$13.189** | **$12.687** |
+| Total final mensual de la línea | $9.261.862 | $6.873.055 | $5.729.451 |
+| **Costo unitario (total final ÷ unidades)** | **$12.060** | **$13.648** | **$13.002** |
 | Precio de venta (con impoconsumo) | $40.000 | $38.000 | $38.000 |
 | Food cost (MP ÷ precio neto) | 29,9 % | 34,4 % | 34,0 % |
-| Margen de contribución por unidad | $25.269 | $21.996 | $22.498 |
+| Margen de contribución por unidad | $24.977 | $21.537 | $22.183 |
 
 
-![Figura 11. Estructura de costo unitario y precio por plato](assets/graficas/g34_estructura_precio.png){width=14cm}
+Los tres platos tienen costos unitarios parecidos, entre $12.060 y $13.648, y precios de venta que los superan ampliamente. El rollo de sushi deja el mayor margen de contribución, lo que refuerza su papel como producto principal.
+
+
+![Figura 10. Estructura de costo unitario y precio por plato](assets/graficas/g34_estructura_precio.png){width=14cm}
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -228,29 +243,32 @@ Table: Tabla 36. Resumen de costos unitarios de los 3 platos (2027)
 
 El costo de insumos de cada año se obtiene multiplicando el costo de materia prima de cada receta por las unidades que Kazegami servirá según su capacidad utilizada. La tabla presenta ese consolidado para 2027-2031 a precios constantes de 2026.
 
-Table: Tabla 37. Consolidado de costos de materia prima según la producción proyectada (COP, precios constantes 2026)
+Table: Tabla 42. Consolidado de costos de materia prima según la producción proyectada (COP, precios constantes 2026)
 
 | Año | Unidades | Rollos de sushi | Ramen | Tempura | Total anual | Promedio mensual |
 |:-------|-----------:|-----------------:|-----------------:|-----------------:|------------------:|-----------------:|
-| 2027 | 29.353 | $145.971.362 | $104.630.936 | $90.292.156 | **$340.894.455** | $28.407.871 |
-| 2028 | 34.049 | $169.326.780 | $121.371.886 | $104.738.901 | **$395.437.568** | $32.953.131 |
-| 2029 | 38.746 | $192.682.198 | $138.112.836 | $119.185.646 | **$449.980.681** | $37.498.390 |
-| 2030 | 42.855 | $213.118.189 | $152.761.167 | $131.826.548 | **$497.705.905** | $41.475.492 |
-| 2031 | 46.965 | $233.554.180 | $167.409.498 | $144.467.450 | **$545.431.128** | $45.452.594 |
+| 2027 | 20.547 | $102.179.954 | $73.241.656 | $63.204.510 | **$238.626.119** | $19.885.510 |
+| 2028 | 24.950 | $124.075.658 | $88.936.296 | $76.748.333 | **$289.760.287** | $24.146.691 |
+| 2029 | 29.353 | $145.971.362 | $104.630.936 | $90.292.156 | **$340.894.455** | $28.407.871 |
+| 2030 | 33.756 | $167.867.067 | $120.325.577 | $103.835.980 | **$392.028.624** | $32.669.052 |
+| 2031 | 38.159 | $189.762.771 | $136.020.217 | $117.379.803 | **$443.162.792** | $36.930.233 |
 
 *Fuente: Recetas estándar × capacidad utilizada (sección 3).*
 
 
-![Figura 12. Costo anual de insumos por plato 2027-2031](assets/graficas/g35_costo_insumos_anual.png){width=15.5cm}
+El costo de los insumos crece al mismo ritmo que la capacidad utilizada, desde $238.626.119 en 2027 hasta $443.162.792 en 2031. Como los precios se mantienen constantes, el crecimiento refleja solo el aumento en el número de platos vendidos.
+
+
+![Figura 11. Costo anual de insumos por plato 2027-2031](assets/graficas/g35_costo_insumos_anual.png){width=15.5cm}
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 ## 6.6 Costos de maquinaria y equipos de cocina, refrigeración y barra
 
-Los equipos son la mayor parte de la inversión técnica. La tabla presenta cada equipo con su precio, su depreciación mensual —que es la forma en que entra al costo de los platos— y si el precio fue verificado con un proveedor o es una estimación del equipo.
+Los equipos son la mayor parte de la inversión técnica. La tabla presenta cada equipo con su precio, su depreciación mensual (que es la forma en que entra al costo de los platos) y si el precio fue verificado con un proveedor o es una estimación del equipo.
 
-Table: Tabla 38. Presupuesto de maquinaria y equipos
+Table: Tabla 43. Presupuesto de maquinaria y equipos
 
 | Equipo | Cant. | Precio unitario | Total | Depreciación mensual | Estado | Fuente |
 |:--------------------------------|:---:|-------------:|-------------:|-----------:|:----------|:---------------------|
@@ -283,7 +301,12 @@ Table: Tabla 38. Presupuesto de maquinaria y equipos
 *Fuente: Precios publicados por proveedores colombianos (consulta del 24 de octubre de 2026). Los ítems marcados como Estimado no tienen precio público y deben cotizarse.*
 
 
-Table: Tabla 39. Equipos por área
+El 82 % del valor de los equipos tiene precio verificado con un proveedor. Las partidas más importantes son el ultracongelador, necesario para servir pescado crudo con seguridad, y la planta eléctrica, que protege la cadena de frío.
+
+
+La tabla agrupa el valor de los equipos según el área del restaurante en que se usan.
+
+Table: Tabla 44. Equipos por área
 
 | Área | Valor (COP) | Participación |
 |:-------------------------------------------------|----------------------------------:|------------------------:|
@@ -295,11 +318,14 @@ Table: Tabla 39. Equipos por área
 | Control de calidad | $1.420.000 | 0,8 % |
 
 
+La refrigeración es el área con mayor inversión (29 %), seguida por el respaldo eléctrico, lo que muestra que la cadena de frío es el centro técnico del negocio.
+
+
 ## 6.7 Costos de mobiliario, adecuación y tecnología
 
 Esta sección agrupa los activos que no son equipos de cocina: el mobiliario del salón, la adecuación del local (obra civil, instalaciones eléctricas, de gas y extracción) y el hardware de tecnología, además del software, que se paga como gasto anual.
 
-Table: Tabla 40. Presupuesto de mobiliario, adecuación y tecnología (hardware)
+Table: Tabla 45. Presupuesto de mobiliario, adecuación y tecnología (hardware)
 
 | Ítem | Cant. | Precio unitario | Total | Vida útil | Depreciación mensual | Estado |
 |:------------------------------------|:-----:|-------------:|---------------:|:--------:|-------------:|:----------|
@@ -324,7 +350,12 @@ Table: Tabla 40. Presupuesto de mobiliario, adecuación y tecnología (hardware)
 *Fuente: Aire acondicionado: Falabella Colombia (oct. 2026). Los demás valores son estimaciones del equipo y requieren cotización o presupuesto de obra.*
 
 
-Table: Tabla 41. Software y plataformas (gasto anual)
+La adecuación del local es la partida más alta de este grupo. Es una estimación que debe confirmarse con un presupuesto de obra y, por estar en el Centro Histórico, estará sujeta a la autorización del IPCC.
+
+
+El software no se compra como un activo, sino que se paga como una suscripción anual. La tabla presenta los servicios necesarios y su costo.
+
+Table: Tabla 46. Software y plataformas (gasto anual)
 
 | Servicio | Costo anual (COP) | Costo mensual (COP) |
 |:-----------------------------------------------------------------|---------------------:|---------------------:|
@@ -337,11 +368,14 @@ Table: Tabla 41. Software y plataformas (gasto anual)
 *Fuente: Estimación del equipo: los proveedores de software POS (Siigo, Alegra, Loggro) no publican el precio de sus planes para restaurantes; se cotiza directamente.*
 
 
+Estos valores son estimaciones, porque los proveedores no publican sus tarifas para restaurantes; deben confirmarse con cotizaciones antes de la apertura.
+
+
 ## 6.8 Resumen total de costos de insumos, equipos y tecnología
 
 Para terminar, se consolidan todos los rubros en dos tablas: la inversión técnica inicial, que se hace una sola vez antes de abrir, y los costos de operación mensuales, que se pagan cada mes durante el funcionamiento del restaurante.
 
-Table: Tabla 42. Resumen de la inversión técnica inicial
+Table: Tabla 47. Resumen de la inversión técnica inicial
 
 | Concepto | Valor (COP) | Naturaleza |
 |:----------------------------------------------------|------------------------:|:-------------------------------|
@@ -350,24 +384,27 @@ Table: Tabla 42. Resumen de la inversión técnica inicial
 | Mobiliario | $38.840.000 | Activo |
 | Tecnología (hardware) | $13.300.000 | Activo |
 | Software y plataformas (primer año) | $6.300.000 | Gasto |
-| Inventario inicial de insumos (1 mes) | $28.407.871 | Capital de trabajo |
-| **Total inversión técnica** | **$396.901.294** |  |
+| Inventario inicial de insumos (1 mes) | $19.885.510 | Capital de trabajo |
+| **Total inversión técnica** | **$388.378.933** |  |
 
 
-![Figura 13. Distribución de la inversión técnica](assets/graficas/g32_distribucion_capex.png){width=15.5cm}
+La inversión técnica inicial es de $388.378.933. La maquinaria y los equipos y la adecuación del local concentran la mayor parte, mientras que el inventario inicial de insumos es pequeño porque los productos frescos se compran dos veces por semana.
+
+
+![Figura 12. Distribución de la inversión técnica](assets/graficas/g32_distribucion_capex.png){width=15.5cm}
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
 La maquinaria y los equipos concentran la mayor parte de la inversión, como muestra la figura. A continuación se presentan los costos mensuales de operación, que incluyen la nómina, los insumos, los servicios públicos (Afinia, Aguas de Cartagena, Surtigas y Pacaribe) y la depreciación.
 
-Table: Tabla 43. Costos de operación mensuales de referencia (2027)
+Table: Tabla 48. Costos de operación mensuales de referencia (2027)
 
 | Concepto | Valor mensual (COP) | Tipo |
 |:----------------------------------------------------------|-------------------------:|:-------------------------|
-| Nómina con prestaciones (11 personas) | $34.671.579 | Fijo |
-| Insumos de los 3 platos (promedio 2027) | $28.407.871 | Variable |
-| Arriendo del local (200 m² × $75.295/m², mediana Manga) | $15.059.000 | Fijo |
+| Nómina con recargos, aportes y prestaciones (12 personas) | $41.736.049 | Fijo |
+| Insumos de los 3 platos (promedio 2027) | $19.885.510 | Variable |
+| Arriendo del local (200 m² × $110.000/m², mediana del Centro Histórico) | $22.000.000 | Fijo |
 | Energía eléctrica (Afinia: 2.600 kWh × $1.240/kWh) | $3.224.000 | Fijo |
 | Agua y alcantarillado (Aguas de Cartagena) | $650.000 | Fijo |
 | Gas natural (Surtigas) | $1.100.000 | Fijo |
@@ -377,32 +414,30 @@ Table: Tabla 43. Costos de operación mensuales de referencia (2027)
 | Fumigación y control de plagas (estimación) | $200.000 | Fijo |
 | Mantenimiento de equipos | $600.000 | Fijo |
 | Seguros (todo riesgo y responsabilidad civil) | $550.000 | Fijo |
-| Derechos de autor por música (Sayco–Acinpro / OSA) | $120.000 | Fijo |
+| Derechos de autor por música (Sayco-Acinpro / OSA) | $120.000 | Fijo |
 | Software y plataformas | $525.000 | Fijo |
 | Depreciación de equipos, mobiliario, adecuación y tecnología | $3.999.945 | Fijo (no desembolsable) |
-| **Total mensual** | **$92.107.395** |  |
+| **Total mensual** | **$97.590.504** |  |
 
-*Fuente: Arriendo: Fincaraíz (mediana de Manga). Energía: tarifa de Afinia de $1.033,32/kWh (El Universal, 2026) + 20 % de contribución comercial (Ley 142 de 1994), con consumo estimado. Nómina: Decreto 1469 de 2025 e Indeed. Insumos: SIPSA-DANE y proveedores. Agua, gas, internet, aseo, mantenimiento, seguros y derechos de autor son estimaciones del equipo.*
+*Fuente: Arriendo: Fincaraíz (mediana del Centro Histórico). Energía: tarifa de Afinia de $1.033,32/kWh (El Universal, 2026) + 20 % de contribución comercial (Ley 142 de 1994), con consumo estimado. Nómina: Decreto 1469 de 2025, Indeed y cálculo de la sección 5.4. Insumos: SIPSA-DANE y proveedores. Agua, gas, internet, aseo, mantenimiento, seguros y derechos de autor son estimaciones del equipo.*
 
 
-![Figura 14. Distribución de los costos de operación mensuales](assets/graficas/g33_distribucion_opex.png){width=15.5cm}
+El costo de operación mensual de referencia es de $97.590.504. La nómina y el arriendo del Centro Histórico son las partidas más altas, seguidas por los insumos; por eso la ubicación y la organización del personal son las decisiones que más influyen en los costos del negocio.
+
+
+![Figura 13. Distribución de los costos de operación mensuales](assets/graficas/g33_distribucion_opex.png){width=15.5cm}
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
-**Lectura.** La inversión técnica inicial suma **$396.901.294**, de la cual la maquinaria y los equipos representan el 47,7 % (con el ultracongelador y la planta eléctrica como partidas clave para la inocuidad y la continuidad de la cadena de frío) y la adecuación del local el 30,4 %. En la operación, la nómina y los insumos de los tres platos son los costos más altos; el costo de materia prima por plato ($11.087 a $12.120) deja un food cost de 30 % a 34 %, dentro del rango de 28 % a 35 % que reporta Gordon Food Service para restaurantes rentables (Rivers, s.f.).
+**Lectura.** La inversión técnica inicial suma **$388.378.933**, de la cual la maquinaria y los equipos representan el 48,7 % (con el ultracongelador y la planta eléctrica como partidas clave para la inocuidad y la continuidad de la cadena de frío) y la adecuación del local el 31,1 %. En la operación, la nómina y el arriendo del Centro Histórico son los costos más altos, seguidos por los insumos de los tres platos; el costo de materia prima por plato ($11.087 a $12.120) deja un food cost de 30 % a 34 %, dentro del rango de 28 % a 35 % que reporta Gordon Food Service para restaurantes rentables (Rivers, s.f.).
 
 # Conclusiones del estudio técnico
 
-La tabla resume las decisiones técnicas del proyecto y la cifra que respalda cada una.
+El estudio técnico confirma que Kazegami puede producir y servir sus tres platos en Cartagena con los recursos disponibles en la ciudad. En **localización**, el restaurante se ubicará en el Centro Histórico, que obtuvo 6,76 puntos en la matriz de ponderación frente a 6,71 de Manga. La diferencia es pequeña y la decisión se apoya sobre todo en la importancia de la ubicación: el Centro concentra el turismo, es la zona preferida por los encuestados y da al restaurante la visibilidad que necesita un concepto de experiencia. El mayor arriendo y las restricciones patrimoniales se manejarán buscando un local que ya haya funcionado como restaurante y tramitando las autorizaciones del IPCC.
 
-Table: Tabla 44. Conclusiones del estudio técnico
+En **tamaño**, el local de referencia tiene 56 puestos y una capacidad instalada de 58.706 platos al año. Con una utilización prudente del 35 % en 2027, que sube hasta el 65 % en 2031, Kazegami serviría entre 20.547 y 38.159 platos al año, una fracción pequeña de la demanda insatisfecha calculada en el Estudio de Mercados.
 
-| Componente | Conclusión |
-|:--------------------|:----------------------------------------------------------------------------------------|
-| Localización | Cartagena (macro) y barrio Manga (micro), con 6,91 puntos en la matriz de ponderación |
-| Tamaño | 56 puestos; capacidad instalada de 58.706 platos/año; utilización del 50 % (2027) al 80 % (2031) |
-| Proceso | Procesos estandarizados con 5 puntos críticos de control; flujo unidireccional en 200 m² |
-| Insumos | 24 % del costo de materia prima es local; precios verificados en SIPSA-DANE y proveedores; importados con stock de seguridad de 30 días |
-| Costos | Inversión técnica de $396.901.294; costos unitarios de $11.768 a $13.189 por plato |
-| Decisión | **El proyecto es técnicamente viable** |
+En **proceso**, los tres platos y el servicio quedaron descritos con diagramas de flujo y cursogramas, con cinco puntos críticos de control para garantizar la inocuidad del pescado crudo, y se definieron las áreas que debe tener el local sin atarlas a unas medidas fijas. En **insumos**, el 24 % del costo de la materia prima es local, con precios verificados en el SIPSA-DANE, y los importados se manejan con un inventario de seguridad de 30 días. En **personal**, el restaurante necesita 12 personas en dos turnos, con un costo mensual de $41.736.049 que ya incluye recargos, aportes a salud, pensión y riesgos laborales y prestaciones sociales.
+
+Finalmente, en **costos**, la inversión técnica inicial es de $388.378.933 y el costo unitario de los platos va de $12.060 a $13.648, por debajo de los precios de venta de $38.000 a $40.000. Con base en estos resultados, **el proyecto es técnicamente viable**.

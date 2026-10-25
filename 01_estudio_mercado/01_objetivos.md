@@ -29,6 +29,11 @@ Table: Tabla 4. Matriz de alcance y metodología del estudio de mercado
 | 7. Comercialización | Tablas operativas y plan de medios | Encuesta (canales, reservas), Canvas | Sección 7 |
 
 
+Cada objetivo del estudio tiene así un método y una fuente definidos. La encuesta aparece en casi todas las filas, lo que muestra que la información primaria es la base del análisis, complementada con fuentes oficiales para dimensionar el mercado completo.
+
+
+Además de los objetivos, es necesario delimitar el alcance del estudio: el territorio, el periodo, el producto y la unidad con la que se miden la demanda y la oferta.
+
 Table: Tabla 5. Alcance del estudio
 
 | Dimensión | Alcance |
@@ -38,3 +43,6 @@ Table: Tabla 5. Alcance del estudio
 | Producto | Rollos de sushi, Ramen y Tempura (Top 3 de la encuesta). Bebidas, omakase y menú ejecutivo se mencionan como complementarios |
 | Unidad de análisis | El plato servido (unidad de demanda y de oferta) y el comensal |
 | Población objetivo | Adultos residentes en Cartagena con capacidad de pago y turistas que visitan la ciudad |
+
+
+Medir la demanda y la oferta en platos servidos permite compararlas directamente y conectar el estudio de mercado con la capacidad del local que se calcula en el Estudio Técnico.

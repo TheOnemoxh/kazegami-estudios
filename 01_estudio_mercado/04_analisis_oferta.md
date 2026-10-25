@@ -51,13 +51,16 @@ Table: Tabla 34. Debilidades de la competencia detectadas en la encuesta y respu
 *Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
+Las respuestas de Kazegami se concentran en las dos quejas más frecuentes, el precio y el tamaño de la porción. Atender estas debilidades es la principal forma de diferenciarse de los competidores actuales.
+
+
 ### Régimen de mercado
 
 El mercado de restaurantes japoneses de Cartagena funciona como **competencia monopolística**: hay muchos oferentes (37 en Tripadvisor), cada uno con un producto diferenciado (estilo, ambiente, ubicación), barreras de entrada moderadas (inversión en equipos, permisos sanitarios, personal calificado) y cierto poder sobre el precio gracias a la marca.
 
 ### Factores que determinan la oferta
 
-La cantidad de platos que los competidores pueden ofrecer depende de factores externos que también afectarán a Kazegami. La tabla identifica los seis factores de la oferta vistos en clase y cómo se presentan en Cartagena.
+La cantidad de platos que los competidores pueden ofrecer depende de factores externos que también afectarán a Kazegami. La tabla identifica los seis factores que determinan la oferta y cómo se presentan en Cartagena.
 
 Table: Tabla 35. Factores que determinan la oferta de los 3 platos
 
@@ -70,7 +73,10 @@ Table: Tabla 35. Factores que determinan la oferta de los 3 platos
 | 5. Capacidad instalada | Capacidad de los competidores no publicada (requiere observación de campo) | Limita cuántos platos puede vender cada competidor |
 | 6. Gobierno | Impoconsumo 8 %, controles del DADIS, vedas de la AUNAP, restricciones del PEMP en el Centro | Elevan costos y barreras de entrada |
 
-*Fuente: Clase del Seminario Taller (factores de la oferta) aplicados por el equipo.*
+*Fuente: Elaboración propia.*
+
+
+Los factores que más pueden afectar la oferta de Kazegami son el costo de los insumos y el clima, porque la pesca artesanal se reduce en la temporada de mar de leva. Por eso se prevén proveedores alternativos y una reserva de pescado ultracongelado.
 
 
 ### Oferta actual estimada (2026)
@@ -85,6 +91,9 @@ Table: Tabla 36. Estimación de la oferta actual
 | Platos del Top 3 vendidos por establecimiento al día | 50 | No existen datos públicos de ventas de la competencia; valor promedio entre locales grandes y pequeños | Estimación |
 | Días de operación al año | 340 | Locales que abren casi todo el año | Estimación |
 | **Oferta actual (platos/año)** | **629.000** | 37 × 50 × 340 | Estimación |
+
+
+La oferta actual se estima en 629.000 platos al año. Como la venta diaria por restaurante es una estimación, esta cifra debe tomarse como un orden de magnitud; aun así, queda por debajo de la demanda actual de 941.590 platos, lo que anticipa la existencia de demanda insatisfecha.
 
 
 ## 5.2 Proveedores
@@ -120,7 +129,7 @@ Table: Tabla 38. Proyección de la oferta (platos/año)
 
 | Año | Establecimientos equivalentes | Oferta (platos/año) | Incremento anual |
 |:---------------|--------------------------------:|--------------------------------:|----------------------------:|
-| 2026 | 37,0 | 629.000 | — |
+| 2026 | 37,0 | 629.000 | - |
 | 2027 | 37,7 | 641.580 | 12.580 |
 | 2028 | 38,5 | 654.412 | 12.832 |
 | 2029 | 39,3 | 667.500 | 13.088 |
@@ -145,12 +154,12 @@ Table: Tabla 39. Balance oferta vs. demanda, demanda insatisfecha y cuota de Kaz
 
 | Año | Oferta | Demanda | Demanda insatisfecha | % de la demanda | Platos Kazegami | Cuota de la demanda insatisfecha |
 |:---------|---------------:|---------------:|-----------------:|--------------:|---------------:|------------------:|
-| 2026 | 629.000 | 941.590 | 312.590 | 33,2 % | — | — |
-| 2027 | 641.580 | 974.767 | 333.187 | 34,2 % | 29.353 | 8,8 % |
-| 2028 | 654.412 | 1.009.126 | 354.715 | 35,2 % | 34.049 | 9,6 % |
-| 2029 | 667.500 | 1.044.711 | 377.211 | 36,1 % | 38.746 | 10,3 % |
-| 2030 | 680.850 | 1.081.564 | 400.715 | 37,0 % | 42.855 | 10,7 % |
-| 2031 | 694.467 | 1.119.734 | 425.267 | 38,0 % | 46.965 | 11,0 % |
+| 2026 | 629.000 | 941.590 | 312.590 | 33,2 % | - | - |
+| 2027 | 641.580 | 974.767 | 333.187 | 34,2 % | 20.547 | 6,2 % |
+| 2028 | 654.412 | 1.009.126 | 354.715 | 35,2 % | 24.950 | 7,0 % |
+| 2029 | 667.500 | 1.044.711 | 377.211 | 36,1 % | 29.353 | 7,8 % |
+| 2030 | 680.850 | 1.081.564 | 400.715 | 37,0 % | 33.756 | 8,4 % |
+| 2031 | 694.467 | 1.119.734 | 425.267 | 38,0 % | 38.159 | 9,0 % |
 
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
@@ -185,4 +194,4 @@ Finalmente, la figura muestra cuántos platos servirá Kazegami cada año según
 *Fuente: Elaboración propia con base en la encuesta (n = 106), DANE, Migración Colombia y supuestos del equipo.*
 
 
-**Lectura.** La demanda insatisfecha es positiva en los tres escenarios: incluso en el pesimista quedan más de 313 mil platos al año sin atender. Kazegami solo necesita capturar entre el **8,8 %** (2027) y el **11,0 %** (2031) de esa brecha para usar su capacidad, lo que equivale a una cuota de mercado de 3,0 % a 4,2 %. La meta es **prudente**: la demanda clasifica como **insatisfecha** y hay espacio para un nuevo oferente diferenciado.
+**Lectura.** La demanda insatisfecha es positiva en los tres escenarios: incluso en el pesimista quedan más de 313 mil platos al año sin atender. Kazegami solo necesita capturar entre el **6,2 %** (2027) y el **9,0 %** (2031) de esa brecha para usar su capacidad, lo que equivale a una cuota de mercado de 2,1 % a 3,4 %. La meta es **prudente**: la demanda clasifica como **insatisfecha** y hay espacio para un nuevo oferente diferenciado.

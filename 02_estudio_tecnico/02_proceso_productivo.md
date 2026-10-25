@@ -11,7 +11,9 @@ El rollo de sushi es el proceso más delicado de Kazegami porque el pescado se s
 *Fuente: Elaboración propia.*
 
 
-Table: Tabla 15. Cursograma analítico: Rollos de sushi
+El cursograma analítico detalla cada actividad del proceso del rollo, con su símbolo, su tiempo, el responsable y el control que garantiza la calidad y la inocuidad.
+
+Table: Tabla 16. Cursograma analítico: Rollos de sushi
 
 | N.º | Actividad | Símbolo | Tiempo | Responsable | Temperatura / control de calidad |
 |:---:|:--------------------------------|:--------------|-----------:|:--------------|:-----------------------------|
@@ -21,7 +23,7 @@ Table: Tabla 15. Cursograma analítico: Rollos de sushi
 | 4 | Ultracongelación para control de parásitos | ▽ Almacenamiento | 15 h | Sushiman | −35 °C durante 15 h (o −20 °C × 7 días) |
 | 5 | Almacenamiento congelado y descongelado diario en refrigeración | ▽ Almacenamiento | ≤ 4 días congelado + ≤ 48 h refrigerado | Sushiman | −18 °C; se descongela a 0-4 °C solo lo del día; rotulado con fecha; PEPS |
 | 6 | Lavado del arroz japonés | ○ Operación | 10 min | Auxiliar de cocina | 3-4 aguas hasta que salga clara |
-| 7 | Reposo del arroz | D Demora | 30 min | — | — |
+| 7 | Reposo del arroz | D Demora | 30 min | - | - |
 | 8 | Cocción del arroz en arrocera | ○ Operación | 20 min | Auxiliar de cocina | Proporción 1:1,1 arroz-agua |
 | 9 | Sazonado del shari y enfriado | ○ Operación | 10 min | Sushiman | Mezcla de vinagre, azúcar y sal; 30-35 °C; vida útil 4 h |
 | 10 | Corte de vegetales y mise en place de barra | ○ Operación | 20 min | Sushiman auxiliar | Vegetales desinfectados; mesa refrigerada a 4 °C |
@@ -29,6 +31,9 @@ Table: Tabla 15. Cursograma analítico: Rollos de sushi
 | 12 | Corte en 10 piezas y emplatado | ○ Operación | 2 min | Sushiman | Cuchillo yanagiba húmedo |
 | 13 | Control de calidad final | □ Inspección | 30 s | Sushiman | Forma, peso, T° del pescado ≤ 5 °C, presentación |
 | 14 | Entrega en barra o pase a mesa | ⇨ Transporte | 1 min | Mesero | Consumo antes de 30 min |
+
+
+El proceso del rollo tiene dos etapas: una preparación previa larga, en la que el pescado se ultracongela para eliminar parásitos, y un armado al pedido que dura pocos minutos. La inocuidad depende sobre todo del control de temperatura en la recepción y en el almacenamiento.
 
 
 ## 4.2 Proceso productivo de Ramen
@@ -40,7 +45,9 @@ El ramen depende de una producción anticipada larga: el caldo se cocina entre 1
 *Fuente: Elaboración propia.*
 
 
-Table: Tabla 16. Cursograma analítico: Ramen
+El cursograma del ramen separa las actividades que se hacen antes del servicio, como el caldo y el chashu, de las que se hacen al momento del pedido.
+
+Table: Tabla 17. Cursograma analítico: Ramen
 
 | N.º | Actividad | Símbolo | Tiempo | Responsable | Temperatura / control de calidad |
 |:---:|:--------------------------------|:--------------|-----------:|:--------------|:-----------------------------|
@@ -58,6 +65,9 @@ Table: Tabla 16. Cursograma analítico: Ramen
 | 12 | Pase a mesa | ⇨ Transporte | < 2 min | Mesero | Cuchara y palillos |
 
 
+La mayor parte del tiempo del ramen se invierte antes del pedido, en el caldo de 10 a 12 horas. Por eso el plato se puede servir rápido y su costo depende en buena parte del gas que consume la cocción.
+
+
 ## 4.3 Proceso productivo de Tempura
 
 La tempura se prepara casi por completo al momento del pedido para conservar su textura crocante. La producción anticipada se limita a pelar el langostino y cortar los vegetales; el batido, la fritura y el emplatado se hacen cuando llega la comanda, como muestran el diagrama y el cursograma.
@@ -67,7 +77,9 @@ La tempura se prepara casi por completo al momento del pedido para conservar su 
 *Fuente: Elaboración propia.*
 
 
-Table: Tabla 17. Cursograma analítico: Tempura
+El cursograma de la tempura muestra que casi todas sus actividades ocurren al momento del pedido.
+
+Table: Tabla 18. Cursograma analítico: Tempura
 
 | N.º | Actividad | Símbolo | Tiempo | Responsable | Temperatura / control de calidad |
 |:---:|:--------------------------------|:--------------|-----------:|:--------------|:-----------------------------|
@@ -85,6 +97,9 @@ Table: Tabla 17. Cursograma analítico: Tempura
 | 12 | Pase a mesa inmediato | ⇨ Transporte | < 1 min | Mesero | Servir antes de 5 min |
 
 
+Como la tempura se prepara al momento, su calidad depende del control de la temperatura del aceite y de servirla de inmediato, antes de que pierda su textura crocante.
+
+
 ## 4.4 Prestación del servicio en sala y barra
 
 La prestación del servicio describe el recorrido del cliente desde que reserva hasta que paga. El diagrama de flujo y el cursograma identifican los pasos de atención y los tiempos de cada uno, y al final se resumen las actividades de los cuatro procesos y los tiempos de entrega al cliente.
@@ -94,7 +109,9 @@ La prestación del servicio describe el recorrido del cliente desde que reserva 
 *Fuente: Elaboración propia.*
 
 
-Table: Tabla 18. Cursograma analítico: prestación del servicio
+El cursograma del servicio recorre la experiencia del cliente desde la reserva hasta el pago.
+
+Table: Tabla 19. Cursograma analítico: prestación del servicio
 
 | N.º | Actividad | Símbolo | Tiempo | Responsable | Temperatura / control de calidad |
 |:---:|:--------------------------------|:--------------|-----------:|:--------------|:-----------------------------|
@@ -110,7 +127,12 @@ Table: Tabla 18. Cursograma analítico: prestación del servicio
 | 10 | Despedida e invitación a reseña y fidelización | ○ Operación | 1 min | Anfitrión | Registro en el programa de puntos |
 
 
-Table: Tabla 19. Resumen de los cursogramas
+La mayor espera del cliente está en la preparación de los platos; las demás etapas toman pocos minutos y se apoyan en las comandas digitales y el sistema POS para reducir la demora.
+
+
+La tabla resume cuántas actividades de cada tipo tiene cada proceso.
+
+Table: Tabla 20. Resumen de los cursogramas
 
 | Proceso | ○ Operaciones | □ Inspecciones | ⇨ Transportes | D Demoras | ▽ Almacenamientos | Total |
 |:--------------------------|:-------------:|:-------------:|:-------------:|:----------:|:----------------:|:-------:|
@@ -120,25 +142,31 @@ Table: Tabla 19. Resumen de los cursogramas
 | Servicio en sala y barra | 5 | 1 | 3 | 1 | 0 | 10 |
 
 
+Las operaciones son la mayoría de las actividades en los cuatro procesos, y los almacenamientos y las inspecciones se concentran en el sushi, que es el plato con mayor riesgo sanitario por el pescado crudo.
+
+
 Los tiempos de entrega se calcularon sumando las operaciones al pedido de cada cursograma (armado, cocción, emplatado, control y pase) y agregando el tiempo de espera por la cola de comandas en las horas de mayor afluencia. Son un estándar operativo definido por el equipo.
 
-Table: Tabla 20. Tiempos de entrega al cliente (producción al pedido)
+Table: Tabla 21. Tiempos de entrega al cliente (producción al pedido)
 
 | Plato | Tiempo de preparación sin cola | Etapas críticas previas | Tiempo objetivo pedido → mesa (con cola) |
 |:----------------------|:----------------------|:--------------------------------------|:-------------------------|
 | Rollos de sushi | 8-10 min | Pescado ultracongelado y descongelado; shari listo | 15-20 min |
 | Ramen | 6-8 min | Caldo de 10-12 h, chashu y huevo listos | 12-15 min |
 | Tempura | 6-8 min | Langostino y vegetales porcionados | 12-15 min |
-| **Pedido completo de una mesa** | — | Los platos de una misma mesa salen juntos | **≤ 20 min (≤ 25 min en hora pico)** |
+| **Pedido completo de una mesa** | - | Los platos de una misma mesa salen juntos | **≤ 20 min (≤ 25 min en hora pico)** |
 
 *Fuente: Estándar operativo del equipo con base en los cursogramas.*
+
+
+Con estos tiempos, una mesa recibe su pedido completo en un máximo de 20 minutos, o de 25 en hora pico. Es un tiempo realista para platos preparados al momento y responde a la queja de demora en el servicio que mencionó el 18,9 % de los encuestados.
 
 
 ## 4.5 Puntos críticos de control (inocuidad)
 
 Los puntos críticos de control son las etapas del proceso donde un error puede poner en riesgo la salud del cliente. Siguiendo el enfoque HACCP, la tabla identifica cinco puntos críticos de los tres platos, el peligro asociado, el límite que no se debe superar, cómo se vigila y qué se hace si falla.
 
-Table: Tabla 21. Puntos críticos de control (enfoque HACCP)
+Table: Tabla 22. Puntos críticos de control (enfoque HACCP)
 
 | Punto crítico | Peligro | Límite crítico | Monitoreo | Acción correctiva |
 |:-----------------------|:---------------------|:-----------------------|:-------------------|:-------------------|
@@ -151,31 +179,28 @@ Table: Tabla 21. Puntos críticos de control (enfoque HACCP)
 *Fuente: Resolución 2674 de 2013; buenas prácticas internacionales de manipulación de pescado crudo.*
 
 
-## 4.6 Distribución de áreas del local (layout)
-
-La distribución en planta organiza los 200 m² del local para que los insumos avancen en una sola dirección —de la recepción al almacenamiento, la preparación, la cocción y el servicio— sin cruzarse con la vajilla sucia ni con los residuos. La figura muestra el plano general y la tabla detalla el área, la función y los equipos de cada zona.
-
-![Figura 9. Distribución en planta del local (≈ 200 m²)](assets/diagramas/d05_layout_local.png){width=15.5cm}
-
-*Fuente: Elaboración propia.*
+Los cinco puntos críticos se vigilan con termómetros, registros y data loggers. Cumplirlos es indispensable para obtener el concepto sanitario del DADIS y, sobre todo, para proteger la salud de los clientes.
 
 
-Table: Tabla 22. Distribución de áreas del local
+## 4.6 Áreas del local
 
-| Área | m² | % del local | Función | Equipos principales |
-|:---------------------------|--------:|-----------:|:---------------------------|:---------------------------------|
-| Salón comedor | 72,0 | 36,0 % | 12 mesas de 4 puestos | Mesas, sillas, aire acondicionado |
-| Barra de sushi (a la vista) | 18,0 | 9,0 % | 8 puestos; preparación de rollos | Vitrina neta, arroceras, cuchillos japoneses |
-| Preparación fría (mise en place) | 13,5 | 6,8 % | Porcionado de pescado y vegetales | Mesas refrigeradas, mesas de acero |
-| Cocina caliente (ramen y tempura) | 25,0 | 12,5 % | Caldos, fritura, ensamble | Estufa, quemador de caldos, freidora, campana |
-| Cuarto frío y almacén seco | 12,0 | 6,0 % | Inventarios | Neveras, congelador, ultracongelador, estantería |
-| Zona de lavado (steward) | 13,0 | 6,5 % | Lavado de vajilla y ollas | Pozuelo triple, trampa de grasas |
-| Recepción y espera | 8,0 | 4,0 % | Bienvenida | Atril, tablet de reservas |
-| Barra de bebidas y caja | 10,0 | 5,0 % | Bebidas y cobro | Nevera de bebidas, POS, fabricador de hielo |
-| Baños | 8,1 | 4,1 % | Clientes y personal | — |
-| Oficina | 5,4 | 2,7 % | Administración | Computador, cámaras de seguridad |
-| Circulación | 15,0 | 7,5 % | Pasillos y evacuación | Señalización |
-| **Total** | **200,0** | **100,0 %** |  |  |
+El local se organiza en áreas definidas por su función, de manera que los insumos avancen en una sola dirección (de la recepción al almacenamiento, la preparación, la cocción y el servicio) sin cruzarse con la vajilla sucia ni con los residuos. En este estudio no se fija el tamaño ni la posición de cada área, porque dependerán del local que finalmente se arriende en el Centro Histórico; lo que se define es qué áreas debe tener el restaurante, qué se hace en cada una y qué equipos necesita.
+
+Table: Tabla 23. Áreas del local, función y equipos
+
+| Área | Función | Equipos principales |
+|:--------------------------|:------------------------------------------|:---------------------------------------|
+| Salón comedor | Servicio a la mesa de los comensales (12 mesas de 4 puestos) | Mesas, sillas, aire acondicionado |
+| Barra de sushi a la vista | Armado y corte de los rollos frente al cliente (8 puestos) | Vitrina refrigerada para pescado, arroceras, cuchillos japoneses |
+| Preparación fría (mise en place) | Porcionado del pescado y corte de vegetales | Mesas refrigeradas, mesas de acero inoxidable |
+| Cocina caliente | Caldo y ensamble del ramen; fritura de la tempura | Estufa, quemador de caldos, freidora, campana extractora |
+| Cuarto frío y almacén seco | Almacenamiento de insumos refrigerados, congelados y secos | Neveras, congelador, ultracongelador, estantería |
+| Zona de lavado (steward) | Lavado de vajilla, ollas y utensilios | Pozuelo triple, trampa de grasas |
+| Recepción y espera | Bienvenida, verificación de reservas | Atril, tablet de reservas |
+| Barra de bebidas y caja | Preparación de bebidas y cobro | Nevera de bebidas, sistema POS, fabricador de hielo |
+| Baños | Servicio para clientes y personal | Dotación sanitaria |
+| Oficina | Administración y control | Computador, cámaras de seguridad |
+| Recepción de mercancía y residuos | Entrada de proveedores y salida de residuos, separada del salón | Báscula, canecas de separación de residuos |
 
 
-**Criterio del layout.** El flujo es **unidireccional**: los insumos entran por la parte trasera (zona de lavado y almacén), pasan a preparación fría y cocina, y salen hacia la barra y el salón. Así no se cruzan crudos con platos terminados y el cliente ve la barra de sushi, que es el principal elemento de la experiencia.
+**Criterio de organización.** La única condición de disposición que se fija es que la barra de sushi quede a la vista del salón, porque es el principal elemento de la experiencia, y que la entrada de insumos y la salida de residuos no pasen por el área de clientes. Con esas dos reglas, las áreas se acomodan al local que se consiga.

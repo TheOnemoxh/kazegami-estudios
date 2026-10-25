@@ -1,21 +1,12 @@
 # Conclusiones
 
-La tabla resume los principales hallazgos del estudio de mercado y la evidencia que los sustenta.
+El estudio de mercado muestra que en Cartagena existe un mercado dispuesto a consumir cocina japonesa. El 96,2 % de los encuestados la consume o la probaría y el 82,9 % encuentra atractivo el concepto de Kazegami. Dentro de ese mercado, los Rollos de sushi, el Ramen y la Tempura son los platos que concentran la preferencia, con 61, 40 y 35 menciones, el 77,7 % de las menciones a platos concretos, lo que justifica construir el portafolio exclusivamente con ellos.
 
-Table: Tabla 52. Conclusiones del estudio de mercado
+La demanda actual de los tres platos se estima en cerca de 942 mil platos al año, calculada con un embudo que combina la población del DANE, el turismo de Migración Colombia y la encuesta, y llegaría a 1.120 mil en 2031 en el escenario base. La oferta, en cambio, crece más despacio (2 % anual), porque el sector de restaurantes tuvo un alto número de cierres en 2024. Por eso la demanda insatisfecha es positiva en los tres escenarios: 333 mil platos en 2027 y 425 mil en 2031 en el escenario base. Kazegami solo necesita atender entre el 6,2 % y el 9,0 % de esa demanda insatisfecha, una meta prudente y alcanzable.
 
-| Tema | Conclusión | Evidencia |
-|:--------------------|:--------------------------------------------|:--------------------------------------------|
-| Aceptación | El mercado acepta la cocina japonesa | 96,2 % consume o probaría; 82,9 % encuentra atractivo el concepto |
-| Portafolio | Rollos de sushi, Ramen y Tempura concentran la preferencia | 61, 40 y 35 menciones; 77,7 % de las menciones a platos |
-| Demanda | La demanda actual es de ≈ 942 mil platos/año y llegaría a 1.120 mil en 2031 | Embudo con DANE, Migración Colombia y encuesta |
-| Oferta | La oferta crece más despacio (2 % anual) | ACODRES: alto número de cierres en 2024 |
-| Demanda insatisfecha | 333 mil platos en 2027 y 425 mil en 2031 (base) | Positiva en los tres escenarios |
-| Cuota de Kazegami | 8,8 % a 11,0 % de la demanda insatisfecha | Meta prudente y alcanzable |
-| Precio | Precios de $38.000 a $40.000 por plato, por debajo del promedio real de la competencia; ticket de ≈ $57.000 | Por debajo de la competencia $$$ y dentro del rango modal de pago |
-| Comercialización | Canal directo; Instagram/TikTok, WhatsApp y alianzas hoteleras | 85,8 % busca en redes; 53,8 % reserva por WhatsApp |
-| Decisión | **El proyecto es comercialmente viable y pasa al Estudio Técnico** | — |
+En precio, los platos de Kazegami costarán entre $38.000 y $40.000, por debajo del promedio real de la competencia, que es de $49.684 por rollo y $52.942 por ramen. Así el restaurante responde a la principal queja de los encuestados, los precios altos, y deja un ticket promedio cercano a $57.000 por persona, dentro del rango que la mayoría está dispuesta a pagar. En comercialización, el restaurante usará un canal directo, con promoción en Instagram y TikTok (el 85,8 % busca restaurantes allí), reservas por WhatsApp (53,8 %) y alianzas con hoteles del Centro Histórico.
 
+Con base en estos resultados, **el proyecto es comercialmente viable** y pasa al Estudio Técnico, donde se definen la ubicación, el tamaño, los procesos y los costos del restaurante.
 
 # Referencias
 
@@ -99,7 +90,7 @@ WISK. (2022, 27 de marzo). *La mejor guía de gestión de inventario para restau
 
 Este anexo separa los datos verificados con una fuente de los que son estimaciones o supuestos del equipo, para que el lector sepa qué tan firme es cada cifra.
 
-Table: Tabla 53. Estado de verificación de los datos usados en el estudio
+Table: Tabla 52. Estado de verificación de los datos usados en el estudio
 
 | Dato | Valor | Estado | Fuente o base de la estimación |
 |:-------------------------------|:-------------------------|:-------------|:-------------------------------------|
@@ -118,7 +109,7 @@ Table: Tabla 53. Estado de verificación de los datos usados en el estudio
 | Rendimiento del filete de pescado | 46 % | Estimación | Mancera (2024): 46,15 % en cachama; se asume similar para pargo |
 | Frecuencia anual por respuesta (ponderación) | 78 / 52 / 18 / 4 / 1 / 0 | Estimación | Conversión de las opciones de respuesta a veces por año |
 
-*Fuente: datos/FUENTES_Y_VERIFICACION.md del repositorio del proyecto.*
+*Fuente: Elaboración propia con base en las fuentes citadas en las Referencias.*
 
 
 **Limitaciones.** (1) La muestra es no probabilística y está concentrada en jóvenes de 18 a 25 años (86,8 %), por lo que sus resultados describen mejor al segmento joven que a los turistas o ejecutivos del Canvas. (2) El turismo nacional no se cuantificó. (3) Solo dos competidores publican precios (Masaki y Dame Ramen); los demás deben cotizarse en visita. (4) Las ventas diarias de la competencia son una estimación.
@@ -127,11 +118,11 @@ Table: Tabla 53. Estado de verificación de los datos usados en el estudio
 
 La ficha técnica describe cómo se aplicó la encuesta que sustenta el estudio.
 
-Table: Tabla 54. Ficha técnica de la encuesta
+Table: Tabla 53. Ficha técnica de la encuesta
 
 | Elemento | Detalle |
 |:----------------------------|:--------------------------------------------------------------------------------|
-| Nombre | Encuesta de mercado – Restaurante Kazegami (Cartagena) |
+| Nombre | Encuesta de mercado - Restaurante Kazegami (Cartagena) |
 | Herramienta | Google Forms; respuestas en Google Sheets |
 | Fecha de aplicación | 23 y 24 de octubre de 2026 |
 | Tamaño de la muestra | 106 respuestas válidas (100 % aceptó participar) |
@@ -140,7 +131,12 @@ Table: Tabla 54. Ficha técnica de la encuesta
 | Error muestral de referencia | ≈ ±9,5 % al 95 % de confianza si fuera aleatoria (p = q = 0,5) |
 
 
-Table: Tabla 55. Preguntas del instrumento y variable que miden
+Como el muestreo fue por conveniencia, los resultados describen bien a los adultos jóvenes residentes en Cartagena, pero no representan con la misma precisión a los turistas ni a las personas mayores. Por eso la demanda se estimó combinando la encuesta con fuentes oficiales.
+
+
+La tabla relaciona cada pregunta del instrumento con la variable que mide y la sección del documento donde se utiliza.
+
+Table: Tabla 54. Preguntas del instrumento y variable que miden
 
 | N.º | Pregunta (resumida) | Tipo | Variable / uso en el estudio |
 |:---------:|:-----------------------------------------------|:--------------|:------------------------------------|
@@ -150,7 +146,7 @@ Table: Tabla 55. Preguntas del instrumento y variable que miden
 | 4 | ¿Con qué frecuencia comes sushi o ramen? | Única | Frecuencia (4.1) |
 | 5 | ¿En qué ocasión sales a comer algo así? | Única | Ocasión de uso (3.1, 4.4) |
 | 6 | ¿Qué platos son más frecuentados por ti? | Múltiple | **Top 3 del portafolio** (3) |
-| 7 | ¿Condición médica o preferencia alimentaria? | Única | Alérgenos y variantes (3.5) |
+| 7 | ¿Condición médica o preferencia alimentaria? | Única | Alérgenos y variantes del producto (3.6) |
 | 8 | ¿Qué tipo de restaurante eliges más? | Única | Sustitutos (3.7) |
 | 9 | ¿Cuánto gastaste la última vez? | Única | Patrón de gasto (4.2) |
 | 10 | ¿En qué zonas has comido comida japonesa? | Múltiple | Zona de influencia (4.4.3) |
@@ -166,6 +162,9 @@ Table: Tabla 55. Preguntas del instrumento y variable que miden
 | 28 | Probabilidad de visitar Kazegami | Likert 5 | Intención de compra |
 | 29 | Rango de edad | Única | Perfil (3.2) |
 | 30 | ¿Qué te gustaría encontrar? (abierta) | Abierta | Ideas de producto |
+
+
+Todas las preguntas de la encuesta se usaron en el estudio, lo que muestra que el instrumento se diseñó en función de la información que necesitaba el análisis.
 
 
 ![Figura 29. Condiciones médicas o preferencias alimentarias de los encuestados](assets/graficas/g07_restricciones.png){width=14cm}
@@ -188,4 +187,4 @@ Table: Tabla 55. Preguntas del instrumento y variable que miden
 *Fuente: Encuesta de mercado Kazegami (n = 106), octubre de 2026. Elaboración propia.*
 
 
-Las tablas de frecuencia completas de las 31 columnas y los cruces de variables están en el archivo `datos/RESUMEN_ENCUESTA.md` del repositorio del proyecto.
+Los resultados de cada pregunta se presentan a lo largo del documento, en las figuras y tablas de las secciones 3 a 7.

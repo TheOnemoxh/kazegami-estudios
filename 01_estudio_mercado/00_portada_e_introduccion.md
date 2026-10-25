@@ -52,7 +52,7 @@ Cartagena de Indias, 25 de octubre de 2026
 
 # Introducción
 
-Este documento desarrolla el **Estudio de Mercados** de KAZEGAMI RESTAURANTE siguiendo la estructura del Taller No. 1 del Seminario Taller Creación de Empresas y el marco metodológico de la formulación y evaluación de proyectos (Miranda, 2005; Sapag Chain y Sapag Chain, 2014). El estudio combina **información primaria** —una encuesta de mercado aplicada a 106 personas entre el 23 y el 24 de octubre de 2026— con **información secundaria** del DANE, Migración Colombia, Corpoturismo, ACODRES y el SIPSA.
+Este documento desarrolla el **Estudio de Mercados** de KAZEGAMI RESTAURANTE con el marco metodológico de la formulación y evaluación de proyectos (Miranda, 2005; Sapag Chain y Sapag Chain, 2014). El estudio combina **información primaria** (una encuesta de mercado aplicada a 106 personas entre el 23 y el 24 de octubre de 2026) con **información secundaria** del DANE, Migración Colombia, Corpoturismo, ACODRES y el SIPSA.
 
 Por decisión del equipo y con base en los resultados reales de la encuesta, el portafolio que se analiza en las fichas técnicas, costos, precios y proyecciones se concentra **únicamente en los tres platos más frecuentados**: **Rollos de sushi, Ramen y Tempura**.
 
@@ -62,14 +62,17 @@ Table: Tabla 1. Cómo leer este documento
 |:---------------------|:---------------------------------------------------------------------------------------|
 | Moneda | Pesos colombianos (COP) de octubre de 2026. Precios de venta con impoconsumo (8 %) incluido. |
 | Año base y horizonte | Año base 2026; proyecciones 2027-2031 (5 años) a precios constantes. |
-| Datos primarios | Encuesta Kazegami: 106 respuestas, 31 variables. Cifras exactas en el archivo datos/RESUMEN_ENCUESTA.md. |
+| Datos primarios | Encuesta Kazegami: 106 respuestas, 31 variables. Resumen del instrumento en el Anexo B. |
 | Fuentes y verificación | Cada cifra externa lleva su fuente (DANE, SIPSA-DANE, Migración Colombia, Tripadvisor, Rappi, Fincaraíz, proveedores). Lo que no tiene dato público se marca como **Estimación** y se explica en el Anexo A y en datos/FUENTES_Y_VERIFICACION.md. |
 | Portafolio analizado | Top 3 de la encuesta: Rollos de sushi (61 menciones), Ramen (40) y Tempura (35). |
 
 
+Estas convenciones se aplican en todo el documento: las cifras están en pesos de 2026 y cada dato externo tiene su fuente, de modo que el lector puede distinguir en cualquier momento entre lo que está verificado y lo que es una estimación del equipo.
+
+
 # 1. Nombre del proyecto
 
-**KAZEGAMI RESTAURANTE** — *"El espíritu de la brisa marina"*. El nombre une dos palabras japonesas: **kaze** (風, viento o brisa) y **kami** (神, espíritu). Expresa la propuesta del negocio: la técnica de la cocina japonesa aplicada a los productos del mar Caribe y del campo de Bolívar, servida en Cartagena de Indias.
+**KAZEGAMI RESTAURANTE** (*"El espíritu de la brisa marina"*). El nombre une dos palabras japonesas: **kaze** (風, viento o brisa) y **kami** (神, espíritu). Expresa la propuesta del negocio: la técnica de la cocina japonesa aplicada a los productos del mar Caribe y del campo de Bolívar, servida en Cartagena de Indias.
 
 Table: Tabla 2. Ficha resumen ejecutiva del proyecto
 
@@ -79,7 +82,7 @@ Table: Tabla 2. Ficha resumen ejecutiva del proyecto
 | Lema | El espíritu de la brisa marina |
 | Actividad económica | Expendio a la mesa de comidas preparadas (CIIU 5611) |
 | Tipo de proyecto | Privado, generador de ingresos, de servicio (restaurante a la carta con barra de sushi) |
-| Ubicación propuesta | Cartagena de Indias, barrio Manga (resultado de la microlocalización del Estudio Técnico) |
+| Ubicación propuesta | Cartagena de Indias, Centro Histórico (resultado de la microlocalización del Estudio Técnico) |
 | Propuesta de valor (Canvas) | Del mar directo al plato: técnica 100 % japonesa con ingredientes locales; experiencia 100 % en el local (barra de sushi, ambiente sereno, servicio cercano); opciones vegetarianas |
 | Portafolio analizado | 1. Rollos de sushi · 2. Ramen · 3. Tempura |
 | Segmentos | Residentes adultos de Cartagena con capacidad de pago, turistas nacionales y extranjeros, ejecutivos (menú de mediodía) |
@@ -89,6 +92,11 @@ Table: Tabla 2. Ficha resumen ejecutiva del proyecto
 
 *Fuente: Modelo Canvas Kazegami y encuesta de mercado (n = 106).*
 
+
+La ficha muestra que Kazegami es un proyecto de servicio con una propuesta clara: técnica japonesa con ingredientes locales, servida en el Centro Histórico de Cartagena. Las cifras de aceptación de la encuesta indican desde el inicio que existe interés del mercado, lo que justifica estudiar en detalle su demanda y su oferta.
+
+
+El Modelo Canvas resume en nueve bloques cómo Kazegami crea, entrega y captura valor. La tabla presenta la síntesis de cada bloque, que sirve de referencia para las decisiones de este estudio y del Estudio Técnico.
 
 Table: Tabla 3. Modelo Canvas de Kazegami (síntesis)
 
